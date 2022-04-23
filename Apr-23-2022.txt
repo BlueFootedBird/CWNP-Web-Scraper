@@ -1,0 +1,4 @@
+What is the maximum data rate possible with 802.11n, 2 spatial streams, and 20 MHz channels?
+a:54 Mbps|b:144 Mbps|c:300 Mbps|d:450 Mbps|
+b
+802.11n modulation and coding rates are determined by a number of different parameters. They includeModulation method (e.g. BPSK, QPSK, 16-QAM, 64-QAM) Coding rate (e.g. 1/2, 3/4, 2/3, 5/6) Channel width (20 or 40 MHz) Number of spatial streams (1-4) Guard Interval (short or long)With the features listed in the question, a maximum of 144 Mbps data rate is achievable if short guard intervals are supported. Without short guard intervals, 130 Mbps is possible. In the 2.4 GHz band, two spatial stream APs are very common, making the 130 or 144 Mbps rates a very likely maximum rate for many networks.
