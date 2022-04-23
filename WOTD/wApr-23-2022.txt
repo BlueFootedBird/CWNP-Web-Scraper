@@ -1,0 +1,2 @@
+Capacity
+Simply defined as the amount that can be contained or managed. System [____] is usually a measurement of storage space or data space. In communications systems, [____] is a reference to the amount of data that can be transferred through the system in a given window of time.

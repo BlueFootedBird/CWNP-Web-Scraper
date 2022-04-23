@@ -37,11 +37,11 @@ for div in soup.findAll('div', {'class': 'answerDiv'}):
     explanation = " ".join(explanation)
 
 #Write to a file
-file1 = open(str(thisdate) + '.txt', 'w')
-file1.writelines(question + "\n")
-file1.writelines(choices)
-file1.writelines("\n" + answer + "\n")
-file1.writelines(explanation)
+qotdFile = open("q" + str(thisdate) + '.txt', 'w')
+qotdFile.writelines(question + "\n")
+qotdFile.writelines(choices)
+qotdFile.writelines("\n" + answer + "\n")
+qotdFile.writelines(explanation)
 
 
 
