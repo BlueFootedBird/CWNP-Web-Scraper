@@ -1,0 +1,5 @@
+There are many different types of fast secure roaming protocols. Answer the following question as it relates to a fully distributed network architecture without a WLAN controller.
+For which of the fast secure roaming methods is the network architecture's control plane utilized for key sharing and distribution? (Choose all that apply)
+a:PMK Caching|b:Preauthentication|c:OKC|d:802.11r (Voice Enterprise)|
+c
+With both PMK caching and preauthentication deal with key derivation and storage, the infrastructure’s control plane is largely irrelevant in these models. However, with OKC and Voice Enterprise, the control plane will be an important function for key sharing between APs. In a distributed network, all of the key caching logic is present on the AP, but in a centralized network, the control plane will be important with all four of these methods because the keys will likely be cached and stored in the WLAN controller, which utilizes the control plane for key management for all APs.

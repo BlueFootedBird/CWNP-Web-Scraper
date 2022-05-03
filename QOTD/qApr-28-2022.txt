@@ -1,0 +1,4 @@
+What security characteristics and/or components are directly involved in preventing data decryption?  (Choose 2)
+a:Multi-factor authentication|b:LDAP directories|c:4-Way Handshake|d:Group Temporal Keys|
+c
+The 4-way handshake is used to generate the PTK and GTK starting with the PMK. The Group Temporal Keys (GTKs) are used to encrypt broadcast and multicast traffic in the BSS. Multi-factor authentication and LDAP directories are used for authentication purposes, which are not directly involved in preventing data decryption.

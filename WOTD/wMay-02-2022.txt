@@ -1,0 +1,2 @@
+SCO (BT)
+Synchronous Connection-Oriented; one of the two Bluetooth data link types defined. A synchronous (circuit-switched) connection for reserved bandwidth communications, e.g. voice, between two devices created on the LMP level by reserving slots periodically on a physical channel. This type of link is used primarily to transport SCO packets (voice data). SCO packets do not include a CRC and are never retransmitted. It primarily supports time-bounded information like voice. SCO links can be established only after an ACL link has first been established.

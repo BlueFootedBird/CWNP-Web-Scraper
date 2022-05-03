@@ -1,0 +1,4 @@
+Why shouldn't you implement 40 MHz bonded channels in a 2.4 GHz deployment?
+a:2.4 GHz does not support bonded channels|b:2.4 GHz does this for you automatically|c:There is insufficient space in 2.4 GHz for 40 MHz channels|d:2.4 GHz uses higher data rates with 20 MHz channels than with 40 MHz channels|
+c
+Given that 2.4 GHz provides only 100 MHz of frequency space and that only 85 MHz is used for WLAN channels in most of the world, the use of a 40 MHz channel wreaks havoc on the band.

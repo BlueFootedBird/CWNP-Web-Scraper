@@ -33,6 +33,6 @@ while definition[0] in blacklist:
 definition = " ".join(definition)
 
 #Write to a file
-wotdFile = open("w" + str(thisdate) + '.txt', 'w')
+wotdFile = open("w" + str(thisdate) + ".txt", 'w')
 wotdFile.writelines(term + "\n")
-wotdFile.writelines(definition)
+wotdFile.writelines(definition + "\n")

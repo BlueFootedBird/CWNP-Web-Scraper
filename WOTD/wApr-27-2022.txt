@@ -1,0 +1,2 @@
+DSSS
+Direct Sequence Spread Spectrum; transmission technology specified in the 802.11-1999 standard that uses 1 and 2 Mbps data rates. IEEE 802.11b and 802.11g amendments specify support for [____] for backwards compatibility with 802.11 networks. The 802.11a amendment does not offer support for [____]. AKA: IEEE 802.11 clause 15 PHY and IEEE 802.11b (when operating at 1 and 2mbps data rates).

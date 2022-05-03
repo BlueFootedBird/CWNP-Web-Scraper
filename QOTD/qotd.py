@@ -41,7 +41,7 @@ qotdFile = open("q" + str(thisdate) + '.txt', 'w')
 qotdFile.writelines(question + "\n")
 qotdFile.writelines(choices)
 qotdFile.writelines("\n" + answer + "\n")
-qotdFile.writelines(explanation)
+qotdFile.writelines(explanation + "\n")
 
 
 

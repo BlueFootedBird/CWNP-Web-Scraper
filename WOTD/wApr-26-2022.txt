@@ -1,0 +1,2 @@
+Delay spread
+the difference in time between the arrivals of two copies of the same transmission when multipath occurs.
