@@ -27,6 +27,7 @@ for x in inputs:
     choice = str(x.find('input').get('value'))
     name = str((x.text).strip())
     choices.append(choice + ":" + name + "|")
+choices.append("x:I don't know")
 
 #CORRECT ANSWER
 answer = str((soup.find('span', {'class':'choice_correct'})).find('input').get('value'))
@@ -41,7 +42,7 @@ qotdFile = open("q" + str(thisdate) + '.txt', 'w')
 qotdFile.writelines(question + "\n")
 qotdFile.writelines(choices)
 qotdFile.writelines("\n" + answer + "\n")
-qotdFile.writelines(explanation + "\n")
+qotdFile.writelines(explanation)
 
 
 
