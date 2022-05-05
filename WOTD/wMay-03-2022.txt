@@ -1,0 +1,2 @@
+PSDU
+PCLP Service Data Unit; during transmission, the [____] is provided with a PLCP preamble and header to create the PPDU. The [____] field contains the actual data coming from the MAC layer and is composed of a variable number of octets. The minimum is 0 (zero) and the maximum is 2500.

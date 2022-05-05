@@ -1,0 +1,4 @@
+You are planning a new 802.11ac WLAN. The implementation will function with all WLAN intelligence, such as the DS, IS, encryption, decryption and other features in the AP. What type of WLAN architecture have you selected?
+a:Lightweight architecture|b:Centralized architecture|c:Controller-based architecture|d:Autonomous architecture|e:Remote AP architecture|
+d
+The autonomous AP or autonomous architecture includes all WLAN functionality in the AP. Controller-based, lightweight and centralized are often terms used to reference a split-MAC architecture where some of the WLAN functionality occurs at the WLAN switch or controller.
