@@ -1,0 +1,4 @@
+Given: The enhanced confidentiality, data authentication, and replay protection mechanisms of the 802.11i-2004 amendment require fresh cryptographic keys.What wireless components are defined by the 802.11i-2004 amendment to provide fresh cryptographic keys?
+a:4-Way Handshake|b:EAPoL Handshake|c:Group Handshake|d:802.1X/EAP Handshake|e:AES-CCMP Handshake|f:STAKey Handshake|x:I don't know
+a
+The 4-Way Handshake, STAKey Handshake and the Group Handshake (a 2-way handshake) are used to generate fresh cryptographic keys whenever required. One such requirement is when the PMKID is not passed in the reassociation request frame to the new AP. Figures 11c and 11d of the 802.11i amendment illustrate the 4-Way and Group handshakes.

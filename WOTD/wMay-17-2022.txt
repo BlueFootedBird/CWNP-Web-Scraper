@@ -1,0 +1,2 @@
+Encapsulation
+the process of generating a protected frame by encapsulating plaintext data.

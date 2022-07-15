@@ -1,0 +1,4 @@
+Why are staging, change management, and installation procedures for WLAN infrastructure equipment important? (Choose 2)
+a:WPA2-Enterprise cannot function properly when devices have default administrative account passwords.|b:Classification of rogue devices required proper installation procedures with WIPS solutions.|c:Modern cracking tools can circumvent the default strength of WPA2-Enterprise key lengths.|d:Properly configured devices are less vulnerable to management interface exploits.|x:I don't know
+b
+Staging, change management and installation procedures ensure that devices are up-to-date and configured with settings other than the default out-of-the-box settings. These procedure help to ensure proper operation, such as WIPS solutions identification and classification of rogue devices and the processes help prevent management interface exploits.

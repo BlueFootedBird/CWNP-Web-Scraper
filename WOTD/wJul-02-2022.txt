@@ -1,0 +1,2 @@
+Unscheduled service period (SP)
+the period that is started when a non-access point (non-AP) quality of service (QoS) station (STA) transmits a trigger frame to the QoS access point (AP). See also SP.

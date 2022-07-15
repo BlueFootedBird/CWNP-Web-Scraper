@@ -1,0 +1,2 @@
+CSMA/CD
+Carrier Sense, Multiple Access with Collision Detection; a method of data transfer that is used to detect data collisions (e.g., Ethernet, half duplex) and is specified by the IEEE.

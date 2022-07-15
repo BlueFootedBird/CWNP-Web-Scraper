@@ -1,0 +1,4 @@
+In the graphic from an IEEE 802.11 protocol analyzer, why are 5 addresses shown in some frames when a MAC frame header only has space for 4 addresses?
+a:A MAC frame's address fields may have more than one meaning.  An example is RA/BSSID.|b:The frames with 5 addresses have traversed a repeater link, which adds a virtual MAC address.|c:The frames with 5 addresses shown are corrupted (CRC error).|d:A wireless distribution system (WDS) always uses 5 addresses.|x:I don't know
+a
+There is a maximum of 4 address fields in a MAC frame header. In IEEE 802.11 networks, there are no 'virtual MAC addresses.' The fourth address field is ONLY used when a data frame is traversing the wireless data link between two access points that are part of a wireless distribution system (WDS). Some address fields may have double meanings, as shown in the graphic.

@@ -1,0 +1,2 @@
+Wireless IDS
+Wireless Intrusion Detection System; monitors the radio spectrum for the presence of unauthorized, rogue access points and/or client and reports them to an administrative system when detected. AKA: WIDS.

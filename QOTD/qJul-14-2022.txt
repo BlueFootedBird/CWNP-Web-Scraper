@@ -1,0 +1,4 @@
+What happens if an SSID is hidden?
+a:No encryption will be used|b:No beacons will be transmitted|c:Beacons will be transmitted with a blank SSID|d:Clients wil not be able to connect|x:I don't know
+c
+The beacons will not show the SSID but the probe requests will: a protocol analyzer can capture the SSID.

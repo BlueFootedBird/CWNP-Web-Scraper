@@ -1,0 +1,4 @@
+The 802.11i Group Master Key (GMK) is generated and may be reinitialized by which 802.1X Port Access Entity (PAE)?
+a:Supplicant|b:Authenticator|c:Authentication Server|d:Uncontrolled Port|x:I don't know
+b
+Sections 8.5.1.3 and 5.9.2.1 of the 802.11i-2004 Amendment state that the Authenticator is responsible for generating and reinitializing the GMK. The GTK is derived from the GMK by the Authenticator during the 4-Way Handshake. The GTK is encrypted using the PTK and sent to the Supplicant during the 4-Way Handshake.

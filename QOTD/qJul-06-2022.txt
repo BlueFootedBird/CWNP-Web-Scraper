@@ -1,0 +1,4 @@
+You are changing the firmware on an AP. The change is not required to update to a new version of the firmware, but it is required to change the operational state. The AP shipped as a lightweight AP. What is the likely reason for changing the firmware?
+a:To enable protocol analysis|b:To enable spectrum analysis|c:To enable autonomous mode|d:To enable WPA2-Enterprise|x:I don't know
+c
+The correct answer is To enable autonomous mode. To switch from lightweight to autonomous, or vice versa, it is often required to change to an alternate firmware on the AP. APs can either perform protocol and spectrum analysis or not and changing the firmware does not often alter this, though it may add new features. Most APs ship with WPA2-Enterprise support whether lightweight or autonomous.

@@ -1,0 +1,2 @@
+Pre-RSNA equipment (WF)
+Pre-Robust Security Network Association equipment; a device that is not able to create robust security network associations (RSNAs).

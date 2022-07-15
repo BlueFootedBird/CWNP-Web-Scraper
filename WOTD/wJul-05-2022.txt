@@ -1,0 +1,2 @@
+IEEE 802.16e (WMX)
+a PHY and MAC standard for combined fixed and mobile operation in licensed bands. See also WiMAX.

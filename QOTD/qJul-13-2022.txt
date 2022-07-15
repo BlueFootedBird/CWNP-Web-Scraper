@@ -1,0 +1,4 @@
+For what task are regulatory domain governing bodies, such as ETSI and FCC, responsible?
+a:Managing radio frequency usage and power limits|b:Performing interoperability testing of WLAN hardware|c:Creating standards for manufacturers of WLAN equipment|d:Enforcing compliance with WLAN security policies|x:I don't know
+a
+Local domain regulatory bodies such as the FCC and ETSI manage radio frequency usage and power limits for WLANs. The IEEE 802.11 standard and the equipment that adheres to it must, in all cases, comply with regulatory rules regardless of where the equipment is implemented; therefore, 802.11 standard has a significant amount of integrated information about larger regulatory domains.

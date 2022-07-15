@@ -1,0 +1,2 @@
+RXASSR (11n)
+Receive Antenna Selection Sounding Request; indicates the total number of sounding PPDUs required.

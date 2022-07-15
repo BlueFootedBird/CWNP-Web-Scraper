@@ -1,0 +1,4 @@
+How many channels are available in the 5.150 to 5.875 frequency range as specified for use with 802.11 devices in the IEEE standard including 802.11ac?
+a:23|b:24|c:25|d:14|x:I don't know
+c
+25 channels are now defined as of the 802.11ac amendment, which added channel 144. before this, only 24 channels were available. 14 channels are specified in the 2.4 GHz band. The actual channels available for any given implementation are constrained by the local regulatory agency. For example, in the United States, the FCC allows only 11 channels in the 2.4 GHz frequency band (1-11) and requires that some channels support DFS and TPC in the 5 GHz bands.

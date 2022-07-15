@@ -1,0 +1,4 @@
+You have implemented a feature on the APs that temporarily ignores 2.4 GHz probe requests in order to direct more client STAs to 5 GHz channels. What is this feature?
+a:AirTime Fairness|b:RRM|c:Passpoint|d:Band Steering|x:I don't know
+d
+Band steering can be an effective tool in all WLANs, but it is particularly beneficial in high density networks. It works by simply ignoring 2.4 GHz requests and responding to only 5 GHz requests once the 2.4 GHz maximum connection limit is reached. Alternatively, it will always delay a response in the 2.4 GHz band to see if the client attempts to connect on the 5 GHz band. If the client does not connect on the 5 GHz band, the AP may respond to future attempts (probe requests or authentication requests) in the 2.4 GHz band.

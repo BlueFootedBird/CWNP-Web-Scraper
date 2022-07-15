@@ -1,0 +1,2 @@
+EMI
+Electromagnetic Interference; disruption of the normal functioning of an electronic device due to the electromagnetic field of nearby devices. See also RFI.

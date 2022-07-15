@@ -1,0 +1,2 @@
+PTKSA
+Pairwise Transient Key Security Association; the context resulting from a successful 4-Way Handshake exchange between the supplicant and the authenticator.

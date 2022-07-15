@@ -1,0 +1,4 @@
+In what ways can an access point be powered?
+a:Single-port PoE injectors|b:Power-over-RF endpoint infuser|c:AC outlets at the AP locations|d:An 802.3af PoE switch|e:Multi-port PoE amplifiers|f:DC power to the serial port|x:I don't know
+a
+There are a variety of ways to power access points, including single-port or multi-port midspan PoE injectors, endpoint devices such as 802.3af or 802.3at PoE Ethernet switches, and AC power from an outlet. A network designer should carefully consider cost, deployment feasibility, power budget, and heat (and the associated cooling requirement) when choosing how to power APs.

@@ -1,0 +1,4 @@
+In a controller-based deployment, what is a drawback to the salt-and-pepper (every other AP on the floor plan connects to a different controller) type of design?
+a:Roaming delay|b:Poor redundancy|c:Coverage holes|d:Power level mismatches|e:Additional co-channel interference|f:Requires static channel and power assignments|x:I don't know
+a
+In a salt and pepper design, neighboring APs connect to different controllers. This allows for redundancy, as if one controller fails, the other may still be providing coverage through its connected access points. One downside of this approach is that clients may frequently roam between controllers, which may create roaming delay issues.

@@ -1,0 +1,2 @@
+Coverage
+refers to the physical space covered by an access point. An administrator might say that she needs to provide [____] in the Accounting department, and she means that she needs to be sure the RF signal from the access point is of acceptable quality in the physical area that contains the Accounting department.

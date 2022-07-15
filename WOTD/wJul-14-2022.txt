@@ -1,0 +1,2 @@
+RSNA-capable equipment
+a station (STA) that is able to create RSNAs. Such a device can use pre-RSNAs because of configuration. Notice that RSNA-capable does not imply full compliance with the RSNA Protocol Implementation Conformance Statement (PICS). A legacy device that has been upgraded to support Temporal Key Integrity Protocol (TKIP) can be RSNAcapable, but will not be compliant with the PICS if it does not also support Counter mode with Cipher-block chaining Message authentication code Protocol (CCMP).

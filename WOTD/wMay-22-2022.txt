@@ -1,0 +1,2 @@
+Active Mode (WF)
+power management of a non-AP station (STA) operates in either active mode or power-save mode. A STA in active mode is always in an awake state. Vendors have called this, ?Continually Aware mode (CAM)? and other similar variations. Wireless STAs that are always powered by an AC outlet should always be configured for active mode to realize better performance. See also PS Mode.

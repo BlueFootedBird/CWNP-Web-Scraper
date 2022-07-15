@@ -1,0 +1,4 @@
+Which of the following utilities specialize in spoofing MAC addresses?
+a:Netstumbler|b:SMAC|c:Kismet|d:KisMac|e:Lophtcrack|x:I don't know
+b
+SMAC is a powerful, yet easy to use MAC Address Changer (Spoofer) for Windows VISTA, 2003, XP, and 2000 systems, regardless of whether the network card manufacturers allow this option or not.

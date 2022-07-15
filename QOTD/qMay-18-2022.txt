@@ -1,0 +1,4 @@
+When selecting RF cables and connectors for use in a Wi-Fi network installation, what factors should be considered?
+a:Loss introduced by RF connectors|b:Length of RF cables|c:Gain introduced by RF cables|d:Data rates supported by RF connectors|e:Polarity types supported by RF cables|x:I don't know
+a
+Several factors should be considered when selecting RF accessories for a transmission system. Because all RF cables and connectors introduce loss into a system, components should be chosen carefully to minimize loss. In particular, longer cables introduce more loss, so the shortest possible cable should be used. RF cables and connectors also have a range of frequencies in which they will work. Because there are several different types of RF connector types, they should be chosen carefully to match the devices that need connecting.

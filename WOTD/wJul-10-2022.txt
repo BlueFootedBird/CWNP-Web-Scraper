@@ -1,0 +1,2 @@
+IEEE P802.11T
+Recommended Practice, ratification expected in 2009; provides a set of performance metrics, measurement methodologies, and test conditions to enable measuring and predicting performance of 802.11 WLAN devices and networks as a recommended practice.

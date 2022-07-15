@@ -1,0 +1,2 @@
+Logical transport (BT)
+used in Bluetooth to represent commonality between different logical links due to shared acknowledgement protocol and link identifiers.

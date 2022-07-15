@@ -1,0 +1,2 @@
+SPA
+Supplicant Address; the medium access control (MAC) address of the IEEE 802.1X Supplicant.

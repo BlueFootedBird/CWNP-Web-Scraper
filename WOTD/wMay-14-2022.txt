@@ -1,0 +1,2 @@
+EIGRP (Cisco)
+Enhanced IGRP; a proprietary advanced hybrid routing protocol from Cisco Systems. Optimized to minimize bandwidth and router processing power and routing instability following topology changes. See also IGRP.

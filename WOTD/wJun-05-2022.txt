@@ -1,0 +1,2 @@
+PSMP-DTT (11n)
+Power Save Multi-Poll Downlink Transmission Time; a period of time described by a PSMP frame during which the AP transmits.

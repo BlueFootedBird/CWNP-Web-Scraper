@@ -1,0 +1,4 @@
+What happens if an AP is powered by an 802.13at PoE switch on a CAT5 cable that exceeds 300 feet?
+a:The AP will be powered with full functionality|b:The AP will not be powered|c:The AP will power cycle constantly|d:The AP will be powered but with minimal functions|x:I don't know
+b
+PoE devices require the power they require. If the cable is too long and insufficient power is provided, the device will not be powered.

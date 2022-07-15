@@ -1,0 +1,4 @@
+As part of XYZ Company's security policy, protocols that submit information in cleartext are not allowed.Which authentication protocol should be excluded from use on XYZ Company's network?
+a:PAP|b:MSCHAP v1 and PAP|c:WEP and PAP|d:Shared Key authentication|e:PPTP and MSCHAP v1|x:I don't know
+a
+Password Authentication Protocol (PAP) is a legacy authentication protocol that transmits a username and password over a network to be compared to a table of name-password pairs. The main weakness of PAP is that both the username and password are transmitted in clear text (unencrypted) which can be captured by a protocol analyzer.

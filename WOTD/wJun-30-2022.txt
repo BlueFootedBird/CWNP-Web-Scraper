@@ -1,0 +1,2 @@
+WPA (WF)
+Wi-Fi Protected Access; a wireless security protocol using TKIP (Temporal Key Integrity Protocol) and RC4 encryption, which can be used in conjunction with an EAP server or with a Pre-shared key. See also WPA-Personal and WPA-Enterprise.

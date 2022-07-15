@@ -1,0 +1,2 @@
+QLRC
+QoS Long Retry Counter; a retry counter maintained by QoS Capable per Access Category for frames greater than the RTS/CTS threshold.

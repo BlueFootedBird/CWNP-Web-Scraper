@@ -1,0 +1,4 @@
+You are troubleshooting a network communications problem related to the WLAN. Clients can successfully connect to the AP, but they cannot use the network to which the AP is connected. DHCP requests fail and even with a static IP address, network hosts cannot be reached by the WLAN clients connected to the AP. What tool should be used to analyze this scenario?
+a:Spectrum analyzer|b:Cable tester|c:Throughput tester|d:DHCPTEST|x:I don't know
+b
+The correct answer is Cable tester. A cable tester should be used in this case. Apparently both DHCP-based and non-DHCP-based addressing has failed. This would indicate a lower layer problem and given that communications with the AP are working, among the tools listed, the cable tester is the best choice. Using a cable tester, you can verify that the cable and connection are working. If they are not, the cable can be replaced to continue operations.

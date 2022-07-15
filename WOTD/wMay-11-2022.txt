@@ -1,0 +1,2 @@
+WirelessHD
+a specification under development for a digital interface that will transmit uncompressed multimedia data wirelessly among devices. The [____] signal uses the unlicensed 60 GHz frequency.

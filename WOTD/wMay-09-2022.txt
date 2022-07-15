@@ -1,0 +1,2 @@
+GFSK (BT)
+Gaussian Frequency Shift Key or Keying. See Modulation types.

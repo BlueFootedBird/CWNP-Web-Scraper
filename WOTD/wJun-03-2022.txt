@@ -1,0 +1,2 @@
+Connect (to service) (BT)
+the establishment of a connection to a service. If not already done, this also includes establishment of a physical link, logical transport, logical link and L2CAP channel.

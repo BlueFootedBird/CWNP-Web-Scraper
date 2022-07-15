@@ -1,0 +1,2 @@
+Attenuator
+a device that weakens an RF signal.

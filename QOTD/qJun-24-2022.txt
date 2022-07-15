@@ -1,0 +1,4 @@
+What are the two methods for 802.11 authentication initially performed during connection?
+a:Open System and Shared Key|b:Open System and WEP|c:Open System and 802.1X|d:Open System and WPA2|x:I don't know
+a
+Open System and Shared Key authentication are in the standard, but Shared Key authentication is deprecated and no longer considered useful. It is far to weak in security for practical implementation today.

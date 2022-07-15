@@ -1,0 +1,4 @@
+Which one of these EAP methods should never be used today because of vulnerabilities easily exploited through open source tools?
+a:EAP-TLS|b:EAP-TTLS|c:PEAP|d:LEAP|x:I don't know
+d
+LEAP is vulnerable to dictionary attacks with tools like ASLEAP available from the open source community.

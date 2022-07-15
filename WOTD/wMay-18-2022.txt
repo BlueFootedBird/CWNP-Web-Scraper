@@ -1,0 +1,2 @@
+MMPDU (WF)
+Medium Access Control (MAC) Management Protocol Data Unit; the unit of data exchanged between two peer MAC entities to implement the MAC management protocol. MMPDUs are sourced and sunk at layer 2 of the OSI model (between immediate transmitters and receivers). They are never forwarded across an access point like an MSDU.

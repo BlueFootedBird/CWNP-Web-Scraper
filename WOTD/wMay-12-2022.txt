@@ -1,0 +1,2 @@
+MFB responder (11n)
+Modulation and Coding Scheme Feedback responder. See STA types. See also MFB.

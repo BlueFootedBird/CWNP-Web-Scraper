@@ -1,0 +1,4 @@
+What does the 802.11 standard spectral mask provide that assists in spectrum analysis?
+a:The frequencies used by particular channels|b:The pattern used by various 802.11 PHYs|c:The maximum output power of an 802.11 signal|d:The maximum data rate of an 802.11 PHY|x:I don't know
+b
+The correct answer is The pattern used by various 802.11 PHYs. The spectral masks can be used to understand the pattern used by 802.11 devices. With this knowledge, the engineer/analyst can more easily identify 802.11 signals as opposed to other wireless transmissions.

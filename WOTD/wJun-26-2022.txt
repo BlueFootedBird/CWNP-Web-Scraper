@@ -1,0 +1,2 @@
+LMP (BT)
+Link Manager Protocol; the protocol which is used for link setup, authentication, and other related configurations for Bluetooth devices.

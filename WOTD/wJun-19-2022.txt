@@ -1,0 +1,2 @@
+RF
+Radio Frequency; a frequency used to carry radio signals.

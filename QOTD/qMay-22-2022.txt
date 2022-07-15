@@ -1,0 +1,4 @@
+What is the most efficient way to manage the configuration of controller-based APs and controllers?
+a:Manage each controller individually|b:Manage each AP individually|c:Manage the entire network with a WNMS|d:Use SSH|x:I don't know
+c
+A Wireless Network Management System (WNMS) can often manage the controllers, which in turn manage the APs, greatly reducing the workload for the administrator.

@@ -1,0 +1,2 @@
+TIM
+Traffic Indication Map; the information element carried in beacon frames to convey which stations using power saving mode have data frames waiting for them in the AP?s buffer. The [____] identifies a station by the association ID that the AP assigned during the association process.

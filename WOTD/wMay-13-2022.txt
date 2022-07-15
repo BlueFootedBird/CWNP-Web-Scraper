@@ -1,0 +1,2 @@
+Faraday cage
+an enclosure created by wrapping the environment in a mesh of conducting material to minimize external EMI. Manufacturers use [____]s to test radio equipment so external RF does not interfere with the testing process.
