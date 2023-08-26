@@ -1,0 +1,4 @@
+You are using site survey software to perform a virtual site survey. You have imported the floor plan. What important first step must be taken to ensure that the software performs accurate propagation calculations?
+a:Calibration|b:Transmit power adjustment|c:Selection of 802.11b vs. 802.11g|d:Selection of 802.11a vs. 802.11n|x:I don't know
+a
+It is important to remember to calibrate the software after importing a floor plan. This process involves selecting a long distance range on the floor plan that has a known distance in reality and entering that distance into the software. The calibration step allows the software to ensure proper configuration for modeling of RF signal coverage.

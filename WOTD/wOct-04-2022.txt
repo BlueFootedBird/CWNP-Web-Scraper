@@ -1,0 +1,2 @@
+mW
+milliwatt; the measurement most frequently used when referencing output power of WLAN devices.

@@ -1,0 +1,4 @@
+What term best describes a WLAN architecture where the integration service (IS) and distribution system services (DSS) are handled by a WLAN controller while generation of certain 802.11 management and control frames are handled by an AP?
+a:Cooperative control|b:Distributed data forwarding|c:Distributed hybrid architecture|d:Distributed WLAN architecture|e:Split MAC|x:I don't know
+e
+The majority of WLAN controller vendors implement what is known as a split MAC architecture. With this type of WLAN architecture, some of the MAC services are handled by the WLAN controller and some are handled by the controller-based access point. Many controller vendors are moving more functionality into the AP to improve on distributed data forwarding features.

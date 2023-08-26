@@ -1,0 +1,4 @@
+What negative effects could result from a Wi-Fi network with a dense user population?
+a:Decreased AP signal strength|b:Increased frame collisions|c:Increased retransmissions|d:Increased client signal strength|e:Decreased data rates|f:Decreased data throughput|x:I don't know
+b
+In Wi-Fi networks with dense user populations, capacity planning is a critical component of good network design. Because Wi-Fi uses a half-duplex medium for communications, dense user populations will suffer from decreased throughput. Similarly, as user density increases, the likelihood of collisions increases, particularly if users are transmitting a high volume of data. When collisions occur, stations attempt to retransmit the frame; thus, if dense user populations lead to greater collisions, higher retransmissions are a negative byproduct.

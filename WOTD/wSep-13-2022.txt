@@ -1,0 +1,2 @@
+PAN
+Personal Area Network; networking technology which allows various nodes to communicate with each other within a short distance, generally using wireless technology such as Bluetooth, Zigbee, IR, etc.

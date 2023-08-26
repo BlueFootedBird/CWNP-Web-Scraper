@@ -1,0 +1,2 @@
+Pairing (BT)
+process of exchanging passwords (as part of an authentication procedure for unpaired devices).

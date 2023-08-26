@@ -1,0 +1,4 @@
+Which protocols that are used to manage WLAN infrastructure devices support authentication and encryption?
+a:POP3/SSL|b:SNMPv3|c:SSH2|d:HTTPS|e:LDAP|f:RIPv2|x:I don't know
+b
+HTTPS authenticates the server with an x.509 certificate, and the user with a username and password. SNMPv3 requires a user login and supports simple encryption of transported data. SSH2 is a public/private key encryption scheme supporting many user authentication methods such as password and public key.

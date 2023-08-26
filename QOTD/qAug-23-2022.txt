@@ -1,0 +1,4 @@
+If a device spec sheet does not reference some of the information you want to know about the device, what other source might be helpful?
+a:FCC ID search|b:Other vendor FAQs|c:Other vendor spec sheets|d:RFCs|x:I don't know
+a
+The correct answer is FCC ID search. You can use the FCC ID search engine to locate the FCC tests for a device. These tests reveal much about the device characteristics including detailed RF spectrum measurements.

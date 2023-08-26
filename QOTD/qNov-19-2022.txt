@@ -1,0 +1,4 @@
+Which one of the following factors is more likely to cause a high Voltage Standing Wave Ratio in an RF transmission chain?
+a:A low gain antenna|b:A high gain antenna|c:An impedance mismatch in the RF cables and connectors|d:More than 60% blockage of the Fresnel zone|x:I don't know
+c
+When an impedance mismatch occurs in the RF transmission line (chain), this can cause high VSWR. Most WLAN RF equipment is rated at 50 ohms. An impedance mismatch occurs when using, for example, a cable that is rated differently than a connector. All cables and connectors should have the same rating in ohms.

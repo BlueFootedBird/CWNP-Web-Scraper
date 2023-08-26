@@ -1,0 +1,2 @@
+Adapter
+a device that adds network functionality to your PC.

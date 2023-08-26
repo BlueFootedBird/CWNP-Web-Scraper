@@ -1,0 +1,2 @@
+WM (WF)
+Wireless Medium; the medium used to implement the transfer of protocol data units (PDUs) between peer physical layer (PHY) entities of a wireless local area network (LAN).

@@ -1,0 +1,4 @@
+When you capture traffic using a WLAN adapter and the adapter does not support monitor mode, what information will be missing from the capture?
+a:802.11 headers|b:IP headers|c:TCP headers|d:HTTP Get requests|x:I don't know
+a
+The correct answer is 802.11 headers. To capture 802.11 headers and radio tap information, the adapter must support monitor mode and be supported by the capture software. All upper layer information (Layer 3 and above) will be included in the capture, but the frames will be displayed as virtual Ethernet frames.

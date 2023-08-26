@@ -1,0 +1,2 @@
+Firewall
+a set of related programs located at a network gateway server that protects the resources of a network from users from other networks.

@@ -1,0 +1,4 @@
+In addition to protocol capture and scenario troubleshooting, for what could a laptop based protocol analyzer be used, assuming it supports the feature set, which is common among commercial analyzers?
+a:Compliance monitoring|b:Spectrum analysis|c:Code analysis|d:PoE analysis|x:I don't know
+a
+The correct answer is Compliance monitoring. Laptop-based protocol analyzer software, in the commercial space, often includes compliance monitoring. This allows the engineer to ensure compliance with organizational policies or regulations, such as healthcare regulations and financial regulations.

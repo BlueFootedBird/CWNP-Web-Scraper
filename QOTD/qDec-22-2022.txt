@@ -1,0 +1,4 @@
+What is an advantage of using WPA/WPA2-Personal over using WPA/WPA2-Enterprise?
+a:Stronger encryption|b:Longer shared keys|c:More complex shared keys|d:Easier set up|x:I don't know
+d
+Pre-shared key authentication is used in WPA/WPA2-Personal and it requires less setup than using an Enterprise solution.

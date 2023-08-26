@@ -1,0 +1,2 @@
+Client
+a radio device that uses the services of an Access Point to communicate wirelessly with other devices on a local area network.

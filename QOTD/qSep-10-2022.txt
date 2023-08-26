@@ -1,0 +1,4 @@
+You are required to run spectrum analysis software on an Apple laptop. The software was designed for Windows systems. What can you use to run the spectrum analysis software?
+a:VMware Fusion|b:VMware Workstation|c:Cygwin|d:Crossover|x:I don't know
+a
+The correct answer is VMware Fusion. Of the listed solutions, only VMware Fusion would allow for access to the USB-based spectrum adapter and for execution of the Windows environment. Other virtualization solutions also exist, but are not listed here.

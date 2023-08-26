@@ -1,0 +1,2 @@
+GF (11n)
+Greenfield; the mode of operation for 802.11n when all the participating APs and STAs are 802.11n capable.

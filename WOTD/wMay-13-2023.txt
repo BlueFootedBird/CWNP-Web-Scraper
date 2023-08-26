@@ -1,0 +1,2 @@
+NRM (IR)
+Normal Response Mode; the mode of operation for connected IR devices. Once both sides are communicating using the best possible communication parameters (established during NDM), higher stack layers use normal command and response frames to exchange information.

@@ -1,0 +1,4 @@
+What could be the cause of a recent change in performance on your WLAN?
+a:Interference|b:AP congestion|c:RADIUS server delays|d:All of these|x:I don't know
+d
+Performance problems can occur because of interference, AP congestion, RADIUS server delays, and any other delay issue.

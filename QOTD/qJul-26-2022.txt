@@ -1,0 +1,4 @@
+What technically has been related to EAP since the creation of EAP?
+a:PEAP|b:LEAP|c:EAP-FAST|d:PPP|x:I don't know
+d
+EAP is related to the point-to-point protocol (PPP). In fact, the EAP RFC states, "EAP typically runs directly over data link layers such as Point-to-Point Protocol (PPP)."

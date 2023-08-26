@@ -1,0 +1,2 @@
+VLAN
+Virtual LAN; a virtual LAN consists of two or more network segments that are joined by devices, where stations can only make connections to other stations or servers that are part of the same virtual LAN. Therefore, broadcast traffic originating on any segment is only received by stations on segments that belong to the same virtual LAN.

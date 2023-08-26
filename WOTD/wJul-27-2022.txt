@@ -1,0 +1,2 @@
+MB-OFDM (Ultrawideband (UWB))
+Multi-Band OFDM; communication technology where the spectrum is divided into small channels and uses OFDM modulation to transmit the information in each subband.

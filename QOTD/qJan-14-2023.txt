@@ -1,0 +1,4 @@
+What kind of device would provide Power over Ethernet (PoE) if referenced as an endspan device?
+a:In-line injector|b:Router|c:Switch|d:VPN gateway|x:I don't know
+c
+A switch is an endspan injector and an in-line injector is a midspan injector.

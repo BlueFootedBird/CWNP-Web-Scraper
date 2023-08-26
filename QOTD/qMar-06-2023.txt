@@ -1,0 +1,4 @@
+You company purchased an application several years ago that requires the IPX transport protocol for communication between client and server.  You would now like to configure some laptops to use this application over your company's wireless network.Which VPN solution would be a valid option to secure the wireless network while supporting this application?
+a:L2TP\IPSec|b:EAP-PEAP|c:SSH|d:GSM|e:PPTP|x:I don't know
+a
+PPTP provides a way to route PPP packets over an IP network. Since PPTP allows multiprotocol encapsulation, you can send any type of packet over the network. A common use it to send IPX packets over the Internet.While native IPSec cannot transport IPX packets, when using with L2TP in tunneling mode, or using GRE tunneling, it can also transport IPX packets. SSH, EAP-PEAP, and GSM are not valid options.

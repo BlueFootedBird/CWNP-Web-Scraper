@@ -1,0 +1,2 @@
+USB
+Universal Serial Bus; a serial bus standard to interface devices. [____] was designed to allow many peripherals to be connected using a single standardized interface socket and to improve the plug-and-play capabilities by allowing devices to be connected and disconnected without rebooting the computer (hot swapping). Other convenient features include providing power to low-consumption devices without the need for an external power supply and allowing many devices to be used without requiring manufacturer specific, individual device drivers to be installed.

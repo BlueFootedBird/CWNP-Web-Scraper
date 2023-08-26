@@ -1,0 +1,2 @@
+IrMC (IR)
+Infrared Mobile Communications; the IrMC standard defines easy exchange of business cards, notes, calendar items, and to do lists between mobile devices. It also defines call control and audio transfer between a mobile phone and PC.

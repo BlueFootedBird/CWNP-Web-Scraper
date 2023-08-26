@@ -1,0 +1,4 @@
+What vulnerability in the LEAP authentication protocol is exploited to perform LEAP cracking?
+a:The password is sent in clear text during the authentication process.|b:The username is sent in clear text during the initial communications.|c:4-Way Handshake nonces are based on the username in WPA and WPA2 authentication that uses LEAP.|d:The username is encoded with a ROT3 cipher before transmission, which is a weak cipher.|x:I don't know
+b
+LEAP included a vulnerability in which the username of the person attempting to authenticate was passed in clear text across the wireless medium and did not use any tunneling mechanisms to secure the communications. Theoretically, this behavior made authentication traffic that was captured susceptible to offline dictionary attacks on weak passwords since it uses a variant of the MSCHAPv2 hash for the exchange of client credentials. Joshua Wright created a software program (named ASLEAP) that made this theory a reality.

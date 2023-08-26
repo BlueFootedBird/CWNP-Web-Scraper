@@ -1,0 +1,4 @@
+What 2.4 GHz channels are available worldwide in all regulatory domains?
+a:1 through 14|b:1 through 13|c:1 through 12|d:1 through 11|x:I don't know
+d
+Channels 1 through 11 are available in all regulatory domains worldwide. For this reason, some client devices only support these channels. Some regulatory domains allow for channels 12 and 13 as well. Japan allows limited use of channel 14.

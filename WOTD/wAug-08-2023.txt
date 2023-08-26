@@ -1,0 +1,2 @@
+Inquiry (BT)
+a procedure where a Bluetooth device transmits inquiry messages and listens for responses in order to discover the other Bluetooth devices that are within the coverage area.

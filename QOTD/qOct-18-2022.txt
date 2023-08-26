@@ -1,0 +1,4 @@
+What encryption algorithm is used by WPA2-Enterprise in secure WLANs using no deprecated 802.11 solutions?
+a:AES|b:RC4|c:DES|d:3DES|x:I don't know
+a
+The Advanced Encryption Standard (AES) is used by WPA2-Enterprise and WPA2-Personal when implemented with non-deprecated 802.11 solutions. RC4 is used by WEP and TKIP and is deprecated for use with 802.11 devices. DES and 3DES have never been used or referenced within the 802.11 standard.

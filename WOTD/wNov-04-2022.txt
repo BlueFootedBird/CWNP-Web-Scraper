@@ -1,0 +1,2 @@
+IrLAP (IR)
+Infrared Link Access Protocol; one of the IR protocols which establishes the basic reliable connection.

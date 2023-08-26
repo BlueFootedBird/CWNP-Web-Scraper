@@ -1,0 +1,2 @@
+TCP
+Transmission Control Protocol; a network protocol for transmitting data that requires acknowledgement from the recipient of data sent (connection oriented).

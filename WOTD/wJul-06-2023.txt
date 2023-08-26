@@ -1,0 +1,2 @@
+IrLMP (IR)
+Infrared Link Management Protocol; one of the IR protocols which multiplexes services and applications on the LAP connection.

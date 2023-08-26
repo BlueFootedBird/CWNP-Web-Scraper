@@ -1,0 +1,2 @@
+BCC
+Binary Convolutional Code; a type of channel coding that adds patterns of redundancy to the data in order to improve the signal-to-noise ratio (SNR) for more accurate decoding at the receiving end. A binary convolutional encoder takes a stream of information bits and converts it into a stream of transmitted bits, using a shift register bank.

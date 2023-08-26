@@ -1,0 +1,2 @@
+ZED (ZB)
+ZigBee End Device; an IEEE 802.15.4-2003 RFD or FFD participating in a ZigBee network. A ZED is is neither the ZC nor a ZR.

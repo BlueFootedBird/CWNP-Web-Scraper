@@ -1,0 +1,4 @@
+An organization has recently installed a new 802.11ac WLAN. They need the ability to control access to network services, such as printers, intranet web servers, and Internet access based on an employee job descriptions. What WLAN security solution meets this requirement?
+a:An autonomous AP system with SSID hiding.|b:WPA2-Personal with support for RADIUS attributes.|c:WPA2-Enterprise with support for LDAP queries.|d:RBAC features in a WLAN controller.|x:I don't know
+d
+Role-based access control (RBAC) refers to the general process of applying roles or groups to users. Then filters, rules, and permissions are applied to a security policy. Finally, a security policy is mapped to a specific group or role. In the end, a user is assigned a security policy through its role. The security policy sets the rights or permissions of the user.

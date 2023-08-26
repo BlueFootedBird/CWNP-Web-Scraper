@@ -1,0 +1,2 @@
+OSI
+Open System Interconnection; a networking framework which divides protocol implementation into seven different but well-identified layers.

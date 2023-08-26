@@ -1,0 +1,4 @@
+In WMM, what features and parameters are used by an AP to manage uplink performance for delay-sensitive client applications? (Choose 3)
+a:AC-specific CWmin and CWmax values|b:AIFSN[AC] values (i.e. AIFS length)|c:Contention-free polling intervals and TXOP lengths|d:DTIM Interval|e:Traffic Specifications|x:I don't know
+a
+WMM has many parameters that impact how application traffic is handled, both for uplink and downlink traffic streams. In WMM, the AP advertises the EDCA Parameter Set, which defines the contention parameters that will be used by clients in that BSS. Among these parameters are CWmin and CWmax values for each AC, AIFSN values for each AC, and more. Additionally, traffic specifications may be granted to stations requesting permission to initiate a new—usually video or voice—traffic stream on the wireless medium.

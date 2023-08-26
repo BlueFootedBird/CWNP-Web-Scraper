@@ -1,0 +1,2 @@
+Portal
+the logical point at which the integration service is provided.

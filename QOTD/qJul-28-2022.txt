@@ -1,0 +1,4 @@
+What is one feature that distinguishes a controller-based AP from an autonomous AP?
+a:A controller-based AP relies on a WLAN controller to perform some MAC-layer functions.|b:A controller-based AP cannot perform the same security functions as an autonomous AP.|c:A controller-based AP contains the processing power necessary to sustain high-utilization data flows.|d:A controller-based AP can perform rogue detection scanning when it is not processing client data traffic.|x:I don't know
+a
+A Split-MAC architecture is a Wi-Fi network architecture that divides the MAC-layer functions between the AP and a WLAN controller. Vendors implement different variations of the Split-MAC architecture; some vendors provide more MAC functionality in the AP and others provide very limited MAC functionality in the AP. In either case, controller-based APs rely on the WLAN controller for some centralized processing in addition to configuration, management, and monitoring.

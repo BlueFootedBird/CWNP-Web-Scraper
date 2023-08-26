@@ -1,0 +1,4 @@
+When EDCA is used in a wireless LAN, to what are the priority tags identical?
+a:802.1D priority tags|b:Cisco priority tags|c:IETF 2034 priority tags|d:They are unique and are unlike any other priority tags|x:I don't know
+a
+The EDCA medium access method uses the same priority tags as 802.1D. These tags allow for QoS at the MAC sublayer of Layer 2. EDCA uses four access categories based on the eight user priorities specified in 802.1D. The result is the following: AC_BK (Background) AC_BE (Best Effort) AC_VI (Video) AC_VO (Voice) AC_VO received the highest priority and AC_BK receives the lowest priority.

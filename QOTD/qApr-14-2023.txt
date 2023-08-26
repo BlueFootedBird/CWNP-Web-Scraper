@@ -1,0 +1,4 @@
+Because cell overlap cannot really be measured in percentage, what metric should be used to ensure that vendor overlap percentages are accomodated?
+a:2 or more APs at each location|b:RSSI|c:SNR|d:Noise floor|x:I don't know
+a
+Cell overlap is the measurement of overlap among cells, which allows for effective client roaming. Vendors sometimes encourage 25 percent or more overlap, but of course this is not possible to measure. Instead, the goal should be two or more APs (depending on density) at each measurement location. This suggesting is particularly true for 5 GHz WLANs, though a bit harder to achieve for 2.4 GHz WLANS, where accepting that two APs should be visible to a client for an acceptable distance to allow roaming while mobile, for example, for 20-40 feet, is more realistic.

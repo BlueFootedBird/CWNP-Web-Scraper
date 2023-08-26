@@ -1,0 +1,4 @@
+What type of wireless attacks will be missed by the typical Intrusion Prevention System (IPS)?
+a:Physical layer interference|b:Rogue access points|c:Ad Hoc Networks|d:Client Misassociation|e:Denial-of-Service|x:I don't know
+a
+Most Intrusion Prevention Systems operate at layer 2 and above, missing intentional or unintentional attacks at the physical layer (layer 1.) Common wireless threats detected by IPS include rogue access points and clients, ad hoc networks, client misassociation, denial-of-service and penetration attempts, and reconnaissance probes.

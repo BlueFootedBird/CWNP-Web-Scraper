@@ -1,0 +1,4 @@
+Blocking traffic type such as streaming music or video on the guest network was a common practice for years. However, gusts often complain about this practice. What is the best thing that can be done on the guest network to allow this traffic but still reduce its impact on the bandwidth used for Internet connectivity?
+a:Allow the traffic but only at lower data rates|b:Allow the traffic but only during off peak hours|c:Allow the traffic for the first guests to connect but not others|d:Allow the traffic but only for a small number of gusts at once|x:I don't know
+a
+Allowing the traffic but only at lower data rates is a common solution and is called throttling. This practice saves bandwidth for other traffic types without stopping the use of streaming traffic. This can be configured directly on some access points but may need to be configured elsewhere on the network when using some access points depending upon the vendor implementation.

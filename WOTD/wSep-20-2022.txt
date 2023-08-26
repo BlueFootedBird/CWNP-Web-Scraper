@@ -1,0 +1,2 @@
+Amplitude
+one of the properties of an RF signal which defines the strength of that signal.

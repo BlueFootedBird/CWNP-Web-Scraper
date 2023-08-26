@@ -1,0 +1,4 @@
+What statement about the beamwidth of an RF antenna is true?
+a:The horizontal and vertical beamwidth are measured where the main lobe loses 6 dB of power.|b:Beamwidth has no impact on the propagation pattern.|c:Horizontal beamwidth is displayed on the Elevation chart.|d:As the gain of the antenna increases, the beamwidth decreases in either the horizontal or vertical direction or both.|x:I don't know
+d
+Beamwidth is measured at the points where the main lobe decreases in power by 3 dB. The horizontal beamwidth is typically shown on the Azimuth chart and the vertical beamwidth is shown on the Elevation chart. When the gain of an antenna increases, the beamwidth decreases. When the beamwidth increases, the gain decreases.

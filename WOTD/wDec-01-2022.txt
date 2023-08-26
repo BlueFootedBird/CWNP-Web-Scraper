@@ -1,0 +1,2 @@
+BOOTP
+Boot Protocol; a protocol used for the static assignment of IP addresses to devices on the network.

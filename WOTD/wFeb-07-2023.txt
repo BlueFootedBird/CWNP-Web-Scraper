@@ -1,0 +1,2 @@
+Link margin
+ratio of the received signal power to the minimum desired by the station (STA). The STA may incorporate rate information and channel conditions, including interference, into its computation of [____]. The specific algorithm for computing the [____] is implementation dependent.

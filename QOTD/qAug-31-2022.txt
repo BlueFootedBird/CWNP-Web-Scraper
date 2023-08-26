@@ -1,0 +1,4 @@
+You have a wireless infrastructure device that can be accessed in various methods as shown in the included graphic.  The wireless infrastructure device supports all published versions of SNMP, and each can be further configured independently in other menus.  Selecting a checkbox enables the respective feature.What actions can you take to remotely manage your wireless infrastructure in a secure fashion?
+a:Enable only SNMPv3 and create an authenticated user account|b:Only allow 'From LAN' connections|c:Select only CLI Telnet or CLI SSH connections|d:Choose SSH or HTTPS 'From LAN' connections|e:Enable either SNMPv1, HTTPS, or CLI SSH 'From WAN' connections|x:I don't know
+a
+To securely manage a remote device, you must use some type of encrypted protocol. HTTPS, SSH, and SNMPv3 are all capable of secure communications, while HTTP, TELNET, and SNMPv1 or v2 are vulnerable to eavesdropping.

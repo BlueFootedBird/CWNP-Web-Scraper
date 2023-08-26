@@ -1,0 +1,4 @@
+What device is often used to manage several APs in a centralized manner?
+a:Client|b:Controller|c:RADIUS Appliance|d:DNS Appliance|x:I don't know
+b
+A controller is often installed to manage several APs from a centralized location. In fact, controllers can often manage thousands of APs.

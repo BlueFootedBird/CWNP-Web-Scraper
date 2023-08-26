@@ -1,0 +1,2 @@
+WEP (WF)
+Wired Equivalent Privacy; an optional security mechanism defined within the 802.11 standard designed to make the link integrity of wireless devices equal to that of a wired network. A deprecated cryptographic data confidentiality algorithm specified by IEEE 802.11 that may be used to provide data confidentiality that is subjectively equivalent to the data confidentiality of a wired local area network (LAN) medium that does not employ cryptographic techniques to enhance data confidentiality.

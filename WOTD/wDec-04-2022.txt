@@ -1,0 +1,2 @@
+Authorization (BT)
+procedure for trusting a Bluetooth device to allow it to access a Bluetooth service.

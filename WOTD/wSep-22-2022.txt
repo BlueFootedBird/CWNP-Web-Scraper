@@ -1,0 +1,2 @@
+IEEE 802.20
+a PHY and MAC standard for mobile broadband wireless access systems, operating in licensed bands <3.5 GHz, optimized for IP-data transport, with peak data rates per user in excess of 1 Mbps at <250 km/h. See also MBWA.

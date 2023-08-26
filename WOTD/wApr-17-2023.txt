@@ -1,0 +1,2 @@
+Last mile
+typically the final connection between a telco?s point-of-presence (POP) and the customer?s location.

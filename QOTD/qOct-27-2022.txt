@@ -1,0 +1,4 @@
+How many 5 GHz 20 MHz channels are available according to the standard even though they may not all be available in each regulatory domain?
+a:11|b:14|c:24|d:25|x:I don't know
+d
+25 20 MHz channels are available in 5 GHz. Many of these will not be available in some regulatory domains. Channel 144 was just introduces with the ratification of 802.11ac.

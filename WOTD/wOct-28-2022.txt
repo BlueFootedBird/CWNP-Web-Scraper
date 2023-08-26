@@ -1,0 +1,2 @@
+BSSBasicMCSSet (11n)
+the set of MCS values that must be supported by all HT STAs that are members of an HT BSS.

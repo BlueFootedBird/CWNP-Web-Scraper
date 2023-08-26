@@ -1,0 +1,2 @@
+Peer-to-peer attack
+an attack where a peer connects to another peer using wired or wireless media with the intention of doing harm to that peer, such as hijacking the user session using an ad hoc WLAN connection.

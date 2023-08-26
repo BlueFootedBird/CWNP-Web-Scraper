@@ -1,0 +1,2 @@
+Amplifier
+devices that can amplify or create gain in an RF signal.

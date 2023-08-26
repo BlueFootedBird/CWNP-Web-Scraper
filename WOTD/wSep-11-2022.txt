@@ -1,0 +1,2 @@
+ZC (ZB)
+ZigBee Coordinator; an IEEE 802.15.4-2003 device responsible for associating and disassociating devices into its PAN. A coordinator must be a full function device (FFD). See also FFD and RFD.

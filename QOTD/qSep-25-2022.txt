@@ -1,0 +1,4 @@
+You must analyze traffic used in RADIUS server communications in an enterprise WLAN deployment. 802.1X/EAP is in use with the EAP-TTLS standard. An autonomous WLAN is implemented. To capture the RADIUS traffic, where should the analyzer be connected?
+a:Between the client and the AP|b:Between the AP and the RADIUS server|c:Between the RADIUS server and the LDAP server|d:Between the RADIU server and the Kerberos server|x:I don't know
+b
+The correct answer is Between the AP and the RADIUS server. RADIUS communications occur between the AP and the RADIUS server in an autonomous deployment. In a controller-based deployment, the RADIUS communications occur between the controller and the RADIUS server. The protocol used between RADIUS servers and directory servers is often LDAP.

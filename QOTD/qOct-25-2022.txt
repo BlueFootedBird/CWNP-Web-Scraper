@@ -1,0 +1,4 @@
+What is the front-to-back (F/B) ratio of the Yagi antenna shown in the exhibit?
+a:60 degrees|b:90 degrees|c:180 degrees|d:-40 dB|e:3 dB|f:Approximately 13 dB|g:Approximately 21 dB|x:I don't know
+g
+EXPLANATION: The front-to-back (F/B) ratio is a specification associated with Yagi antennas to measure the backlobe at 180 degrees behind the primary lobe. In this antenna pattern, the backlobe is approximately 21 dB, which is reasonable, though fairly common for a 9 dBi antenna. Notice that although the direct backlobe is 21 dB less than the main lobe, there are two sidelobes whose ratio would be closer to 13 dB. This is also fairly common, but it is important to understand that these sidelobes can cause areas of undesired interference and/or possible coverage in addition to the main lobe.

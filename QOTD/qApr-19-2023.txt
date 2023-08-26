@@ -1,0 +1,4 @@
+Which one of the following statements best describes the hierarchy of 802.1X authentication key derivation used in 802.11 WLANs?
+a:The MSK is generated from the 802.1X/EAP authentication. The PMK is derived from the MSK. The PTK is derived from the PMK, and the keys used for actual data encryption are a part of the PTK.|b:If using PSK, there is no key hierarchy.|c:If using PSK, the PSK is the PTK and the GTK and the PMK do not exist.|d:If using 802.1X/EAP, the SNONCE is the PMK, which is used to derive the PTK, from which the MSK is derived and finally the GTK.|x:I don't know
+a
+Just remember that the monkey slapped (MS) the parakeet’s mouth (PM) the parakeet toppled (PT) over. Why? Because this little phrase can help you remember that the order is MSK, PMK and then PTK. Or you can develop your own method, the important point is to remember this hierarchy. Knowing this hierarchy is important for troubleshooting in roaming scenarios.

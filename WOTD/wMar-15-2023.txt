@@ -1,0 +1,2 @@
+IEEE 802.11b-1999 (WF)
+amended slightly in 2001; uses High-Rate Direct Sequence Spread Spectrum (HR/DSSS) instead of the original DSSS. Provides data rates up to 11 Mbps. Uses the 2.4 GHz ISM band. Backward compatible with DSSS. See also IEEE 802.11 Clauses 15 and 18, DSSS, and HR-DSSS.

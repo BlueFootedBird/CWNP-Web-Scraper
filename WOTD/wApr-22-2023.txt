@@ -1,0 +1,2 @@
+ECB (WMX)
+Electronic Code Book; an encryption methodology.

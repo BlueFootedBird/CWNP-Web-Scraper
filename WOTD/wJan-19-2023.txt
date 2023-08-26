@@ -1,0 +1,2 @@
+GIAC (IR)
+General Inquiry Access Code; the default inquiry code which is used to discover all devices in range.

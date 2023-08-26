@@ -1,0 +1,2 @@
+EAPOL-Key confirmation key (KCK)
+a key used to integrity-check an EAPOL-Key frame. Used by IEEE Std 802.1X-2004 to provided data origin authenticity in the 4-Way Handshake and Group Key Handshake messages

@@ -1,0 +1,2 @@
+Creation of a secure connection (BT)
+a procedure of establishing a connection, including authentication and encryption.

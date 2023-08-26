@@ -1,0 +1,4 @@
+How is a WPA2 Pairwise Master Key (PMK) derived?
+a:From an Extensible Authentication Protocol (EAP) method|b:Directly from a Preshared key (PSK)|c:From a Pairwise Transient Key (PTK)|d:From a Group Master Key (GMK)|e:From a Group Temporal key (GTK)|x:I don't know
+a
+A Pairwise Master Key (PMK) is the highest order key used within an 802.11 standard network. The PMK may be derived from an Extensible Authentication Protocol (EAP) method or may be obtained directly from a Preshared key (PSK). (See CWNP whitepaper: 802.11i RSN Fast, Secure Roaming)

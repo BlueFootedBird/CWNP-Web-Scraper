@@ -1,0 +1,4 @@
+What is another term for a WLAN with a centralized device to handle control and data traffic?
+a:Autonomous WLAN|b:Wireless Network Management System|c:Controller-based WLAN|d:Distributed WLAN|e:Single channel architecture|f:WLAN fabric|x:I don't know
+c
+Most of today’s enterprise WLAN vendors support a version of the centralized WLAN architecture, with WLAN controllers. This model has become the de facto standard today due to its original implementation advantages over autonomous WLAN architectures. Some vendors still support centralized data forwarding with their WLAN controllers, while other vendors have begun to distribute some data processing functions to the AP, keeping the controller primarily as a centralized point of control functionality and management.

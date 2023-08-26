@@ -1,0 +1,2 @@
+FEC
+Forward Error Correction; a technique for error correction where the sender adds redundant data to the frame before transmitting so as to enable the receiver to correct the errors without requesting a retransmission of the frame. [____] results in bandwidth overhead but allows frame error recovery more quickly and with fewer retransmissions.

@@ -1,0 +1,4 @@
+It is not recommended to deploy access points solely in the halls of a hospital or assisted living facility any longer. What has brought about the change in deployment recommendation?
+a:Appearances|b:Safety codes|c:Device density|d:Security requirements|x:I don't know
+c
+Not only are access points deployed in hospitals and assisted living facilities used by staff members for medical care, they are also being used more by patents and guests. The increase in devices being used has forced these deployments to add more access points, many in the rooms where residents may be located, to support the increase in traffic.

@@ -1,0 +1,4 @@
+Choose the statement that accurately describes the weaknesses of 802.1X/EAP-MD5 when used to secure a wireless LAN.
+a:No interoperability between vendors|b:No per-session encryption keys|c:No mutual authentication|d:No IEEE standards compliance|e:No support of passphrase authentication|x:I don't know
+b
+802.1X/EAP-MD5 uses static encryption keys and does not support mutual authentication (between the supplicant and authentication server), thus the encryption can be cracked and rogue access points can be easily placed on a network using EAP-MD5. Secure encryption mechanisms frequently change keys by means such as 'per-user, per-packet' or 'per-session.'

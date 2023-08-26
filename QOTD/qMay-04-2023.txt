@@ -1,0 +1,4 @@
+Layer 2 frame errors occur when frames collide or otherwise become corrupted. What conditions increase the likelihood of collisions and CRC errors? (Choose 3)
+a:Multipath|b:High SNR|c:Co-channel interference|d:RF interference|e:Long guard intervals|f:Receive diversity|x:I don't know
+a
+If a unicast frame is corrupted, the cyclic redundancy check (CRC) will fail and the receiving 802.11 radio will not return an ACK frame to the transmitting 802.11 radio. If an ACK frame is not received by the original transmitting radio, the unicast frame is not acknowledged and will have to be retransmitted. High amounts of multipath, RF interference, low SNR, hidden nodes, mismatched power settings, near/far problems, and excess co-channel interference may all cause layer 2 retransmissions.

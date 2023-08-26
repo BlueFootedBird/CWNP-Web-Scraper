@@ -1,0 +1,2 @@
+Firmware
+the programming code that runs a networking device. Typically programmed into a memory chip.

@@ -1,0 +1,2 @@
+UCT
+Unconditional Transition; an event that triggers an immediate transition.

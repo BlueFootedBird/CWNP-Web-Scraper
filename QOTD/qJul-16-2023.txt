@@ -1,0 +1,4 @@
+In addition to customer loyalty, why should a business offer a hotspot to their guests?
+a:To promote the use of rogue devices|b:To reduce attempts to use the internal WLAN|c:To provide employees with a BYOD network|d:To decrease co-channel interference|x:I don't know
+b
+By providing a network for guest use attempted access to the corporate network is reduces. Guests need access to the internet and a way to gain access to their own remote resources. This should not be allowed through the internal network. Most users simply expect a guest network today.

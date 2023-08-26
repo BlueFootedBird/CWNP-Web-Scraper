@@ -1,0 +1,4 @@
+Which of the following are methods used to locate Wi-Fi devices with no additional hardware in the clients? (Choose 2)
+a:Time Difference of Arrival (TDoA)|b:Angle of Arrival (AoA)|c:Trilateration of RSSI measurements|d:GPS Positioning|x:I don't know
+a
+TDoA, trilateration of RSSI, and triangulation are all location methods used on WLANs.

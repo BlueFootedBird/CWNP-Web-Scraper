@@ -1,0 +1,4 @@
+You are troubleshooting a performance problem experienced by several STAs in an area approximately five square meters in size. You want to see if a non-Wi-Fi interferer is in the space. What tool should you use?
+a:WLAN scanner|b:WLAN protocol analyzer|c:Spectrum analyzer|d:Throughput tester|x:I don't know
+c
+A spectrum analyzer must be used to determine if a non-Wi-Fi interferer is in the area with certainty. A protocol analyzer may show retries, but the retries can be caused by other problems. A WLAN scanner will not help in this situation and neither will a throughput tester (with the possible exception of verifying that a device cannot achieve expected throughput in that area.

@@ -1,0 +1,2 @@
+WLSM (Cisco)
+Wireless LAN Services Module; a module for the Cisco Catalyst 6500 Switch family that enables network management for Cisco Aironet autonomous APs and provides fast secure campus-wide wireless Layer 3 roaming.

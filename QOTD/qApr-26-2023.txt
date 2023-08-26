@@ -1,0 +1,4 @@
+Given: Your customer's hotels have long hallways with rooms on both sides, and the network manager has given you documented aesthetic requirements for access point and antenna deployment.  Due to facility design complications, the access point and antenna will be visible to guests at the hotel.Given these parameters, what antenna type would be most appropriate for covering hallways and rooms in your customer's hotels?
+a:Dipole|b:Patch|c:Yagi|d:Dish|e:Grid|x:I don't know
+b
+Patch antennas focus RF energy in a specific direction, usually with fairly wide vertical and horizontal beamwidths appropriate to hotels, hospitals, and other similar structures. Patch antennas are flat, and often blend into their surroundings very well. For that reason, they are often used in hotels, restaurants, and similar businesses where aesthetics are important.

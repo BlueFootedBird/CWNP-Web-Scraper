@@ -1,0 +1,4 @@
+What configuration parameters in a WLAN client's software can be used to control the access points to which the WLAN client device can connect?
+a:QoS|b:SSID|c:IP Address|d:Power Save|x:I don't know
+b
+A Service Set Identifier (SSID) is a unique, case sensitive, alphanumeric value up to 32 characters long. It is used to control the access points with which a WLAN client station can associate (connect). While an access point should reject association attempts from stations that do not have the same SSID as the access point, some access points may accept a 'null' or 'any' SSID. Security parameters, such as WEP, WPA, or WPA2 can also be used to control connectivity to APs. For example, a client station may have the correct SSID, but the wrong security configuration, and will not be allowed to connect.

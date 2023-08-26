@@ -1,0 +1,2 @@
+IEEE 802.11c-1998
+incorporated into the IEEE 802.1D-2004 standard, section 6.5.4; updates the IEEE 802.1D bridging standard for 802.11 operations. See also IEEE 802.11 standard (as amended).

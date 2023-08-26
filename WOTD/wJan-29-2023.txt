@@ -1,0 +1,2 @@
+PCF (WF)
+Point Coordination Function; a class of possible coordination functions in which the coordination function logic is active in only one station (STA) in a basic service set (BSS) at any given time that the network is in operation. PCF, while part of the IEEE 802.11 standard, has not been used in traditional Wi-Fi devices.

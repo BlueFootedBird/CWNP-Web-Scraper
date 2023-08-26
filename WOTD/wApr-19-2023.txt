@@ -1,0 +1,2 @@
+Domain name
+the text name that refers to a grouping of networks or network resources based on organization-type or geography; for example: name.com?commercial; name.edu?educational; name.gov? government; ISPname.net?network provider (such as an ISP); name.ar?Argentina; name.au?Australia; and so on.

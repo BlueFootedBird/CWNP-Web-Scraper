@@ -1,0 +1,2 @@
+EOSP
+End of Service Period; the bit value defined by 802.11e included in the QoS control field. Used by the HC to indicate the end of the current service period for that station.

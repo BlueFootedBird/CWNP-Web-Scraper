@@ -1,0 +1,4 @@
+What Wi-Fi Alliance security certifications can use the TKIP cipher suite?
+a:WPA-PSK|b:WPA2-Enterprise|c:WMM|d:WEP|e:WIPS|x:I don't know
+a
+TKIP, the Temporal Key Integrity Protocol, was introduced by the Wi-Fi Alliance as a part of their WPA-Personal and WPA-Enterprise certifications as a stop-gap solution while the IEEE completed the 802.11i amendment to the 802.11 standard. WPA2-Personal and WPA2-Enterprise certifications also support the use of the TKIP cipher suite, though the AES-based CCMP cipher suite is the default. Some legacy devices may only support TKIP, so there may be cases in which both TKIP and CCMP-AES will need to be supported within a BSS. Other devices that only support WEP may be upgraded via manufacturer software or firmware to support TKIP, since both WEP and TKIP use the RC4 encryption algorithm.

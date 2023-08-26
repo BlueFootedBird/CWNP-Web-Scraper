@@ -1,0 +1,2 @@
+Mobile station
+a type of STA that uses network communications while in motion.

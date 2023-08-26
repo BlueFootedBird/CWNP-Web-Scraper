@@ -1,0 +1,2 @@
+Staggered preamble (11n)
+a PLCP preamble in a sounding PPDU that is not an NDP that includes one or more DLTFs and one or more ELTFs.

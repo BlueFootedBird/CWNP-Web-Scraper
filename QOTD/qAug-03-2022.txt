@@ -1,0 +1,4 @@
+Why is using more than one SSID on a single radio less efficient than using a single SSID?
+a:Each SSID must be beaconed|b:Clients may take longer to connect to the desired SSID|c:Throughput will be reduced|d:All of these are true|x:I don't know
+d
+The use of one SSID is often required and used without any real problems. However, the use of more than one SSID on a single radio will negatively impact performance and connectivity.

@@ -1,0 +1,2 @@
+Database
+a collection of data that is organized so that its contents can easily be accessed, managed, and updated.

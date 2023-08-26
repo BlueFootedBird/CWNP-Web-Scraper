@@ -1,0 +1,2 @@
+AS
+Authentication Server; an entity that provides an authentication service to an Authenticator. This service determines, from the credentials provided by the Supplicant, whether the Supplicant is authorized to access the services provided by the Authenticator. (IEEE 802.1X-2004)

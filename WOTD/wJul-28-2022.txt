@@ -1,0 +1,2 @@
+Insertion loss
+loss incurred due to loss in signal or voltage by introducing an item in the circuit such as an RF connector or a cable.

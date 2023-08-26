@@ -1,0 +1,2 @@
+FCC Part 15
+in the U.S., [____] is a section of Federal Communications Commission (FCC) rules and regulations, for unlicensed transmissions. It is a part of Title 47 of the Code of Federal Regulations (CFR), and regulates everything from spurious emissions to unlicensed low-power broadcasting. It is cited as 47 CFR ?15. Frequently encountered types of Part 15 transmitters include: IEEE 802.11abg Wi-Fi 2.4 GHz and 5 GHz, IEEE 802.15 PANs such as Bluetooth and ZigBee in the 2.4 GHz spectrum, and 900 MHz cordless phones.

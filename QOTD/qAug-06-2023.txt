@@ -1,0 +1,4 @@
+What 802.11 authentication is supported by the 802.1X framework?
+a:Open System|b:Shared Key|c:Mutual|d:Username and password|e:Digital Certificate|x:I don't know
+a
+The IEEE 802.1X standard defines port-based, network access control that is used to provide authenticated network access for users wanting access to Ethernet and IEEE 802.11 wireless networks. With port-based network access control, a wireless station cannot send any frames on the network until access has been granted by the authenticator, (typically a wireless access point or controller).Before the 802.1X authentication process can begin, the WLAN client must first have access to the 802.1X authenticator, meaning it must first perform wireless authentication to the access point or controller. The only supported method for this type of authentication when combined with 802.1X authentication is Open System authentication, which is transparent to the user due to its automatic success.

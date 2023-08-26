@@ -1,0 +1,2 @@
+Minimum DTT2UTT spacing (11n)
+Minimum Downlink Transmission Time To Uplink Transmission Time Spacing; the minimum time within a PSMP sequence between the end of a STA?s PSMP-DTT and the start of its PSMP-UTT.

@@ -1,0 +1,2 @@
+SKEK
+STSL Key Encryption Key; used by the MAC to protect unicast communication between the initiator and peer STAs. See also Peer Key Handshake and STK.

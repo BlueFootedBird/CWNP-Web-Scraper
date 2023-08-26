@@ -1,0 +1,4 @@
+When using a utility like the one pictured above, what statistic is most important for VoIP communications?
+a:Upload speed|b:Download speed|c:Delay|d:SSID|x:I don't know
+c
+Delay is most important for VoIP. The upload and download speeds can be less than 1-2 Mbps and still provide sufficient quality for a voice call as long as the delay does not hinder communications.

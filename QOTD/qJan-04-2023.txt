@@ -1,0 +1,4 @@
+Given: All devices used on your WLAN support the three mandatory data rates of 6, 12, and 24 Mbps.Given these mandatory data rates, what IEEE physical layer (PHY) technology could be in use on your WLAN?
+a:802.11a (OFDM)|b:802.11b (HR/DSSS)|c:802.11g (ERP-OFDM)|d:802.11n (HT)|e:802.11e (EDCA)|f:802.11h (DFS)|x:I don't know
+a
+802.11a (OFDM), 802.11g (ERP-OFDM), and 802.11n (HT) PHYs require support of 6, 12, and 24 Mbps data rates. While 6, 12, and 24 are required, the 802.11 standard also defines optional support of 9, 18, 36, 48, and 54 Mbps for both OFDM and ERP-OFDM. In order to achieve backwards compatibility with HR/DSSS, ERP-OFDM also supports 1, 2, 5.5, and 11 Mbps. 802.11b (HR/DSSS) supports only 1, 2, 5.5, and 11 Mbps.

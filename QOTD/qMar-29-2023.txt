@@ -1,0 +1,4 @@
+Which type of wireless intrusion prevention system (WIPS) typically features sensors capable of channel scanning and analyzing wireless traffic on ISM and U-NII band frequencies?
+a:Overlay|b:Integrated|c:Automated|d:Dynamic|e:Promiscuous|x:I don't know
+a
+In an overlay WIPS network, dedicated wireless sensors analyze wireless communications, and are typically deployed with the ability to channel scan and analyze traffic on U-NII and ISM band frequencies. This is a benefit when identifying flood attacks (DoS), etc., but not when analyzing a single channel wireless network. This is because the sensor will miss attacks on the wireless network while scanning other frequencies.

@@ -1,0 +1,4 @@
+The distance between two successive peaks or valleys of an RF wave pattern is commonly referred to by what term?
+a:Frequency|b:Wavelength|c:Channel|d:Amplitude|x:I don't know
+b
+The wavelength of an RF signal is determined by the measure of the distance between two successive crests (peaks) or troughs (valleys) of its wave pattern.

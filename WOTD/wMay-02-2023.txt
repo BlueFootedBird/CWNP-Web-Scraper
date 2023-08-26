@@ -1,0 +1,2 @@
+HT-greenfield format (11n)
+High Throughput Greenfield Format; a PPDU format of the HT PHY using the HT-greenfield format preamble. This is represented at the PHY data SAP by the TXVECTOR/RXVECTOR FORMAT parameter being set to HT_GF.

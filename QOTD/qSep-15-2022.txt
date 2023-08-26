@@ -1,0 +1,4 @@
+Which of the following best describes encapsulation as it relates to the OSI Model and network communications?
+a:The process of compressing data so that it is transmitted efficiently|b:The process of encrypting data so that it is transmitted securely|c:The process of adding bits before and possibly after previous layer information (SDUs) for management, control and delivery|d:The process of removing redundant bits from higher layer data (SDUs) to improve efficiency|x:I don't know
+c
+The correct answer is The process of adding bits before and possibly after previous layer information (SDUs) for management, control and delivery. Encapsulation is used at each layer as service data units (SDUs) are received from the layer above. Headers are added and, at some layers, footers (frame check sequence or CRC codes) are added.

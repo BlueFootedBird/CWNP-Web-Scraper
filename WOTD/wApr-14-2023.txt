@@ -1,0 +1,2 @@
+CLEC (WMX)
+Competitive Local Exchange Carrier; a telecommunications provider company (sometimes called a ?carrier?) that competes with other, already established carriers (generally the ILECs). See also ILEC.

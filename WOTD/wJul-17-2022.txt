@@ -1,0 +1,2 @@
+ERP/OFDM (WF)
+Extended Rate Physical/Othogonal Frequency Division Multiplexing.

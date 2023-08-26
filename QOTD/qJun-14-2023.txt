@@ -1,0 +1,4 @@
+What spectrum analyzer feature removes the need for being able to identify wireless interference patterns through experience and knowledge of RF spectrum analysis?
+a:Classification signatures|b:Signal-to-Noise ratio calculators|c:Automatic Rate Shifting|d:Dynamic frequency adapter|e:RF Fingerprinting|x:I don't know
+a
+Many solutions rely on expertise and knowledge of wireless communication signatures to identify interference sources among Wi-Fi signals, including non-Wi-Fi signals such as Bluetooth, cordless phones, baby monitors, microwave ovens, etc. Classification signatures provide pattern recognition and classification that automatically identify the interference type, making it easier for less experienced analysts to correctly solve RF interference issues.

@@ -1,0 +1,4 @@
+Which antenna are you most likely to find for long range and narrow hallways or corridors?
+a:Dipole|b:Array|c:Patch|d:Yagi|x:I don't know
+d
+Yagi antennas are often used in hallways or corridors because of the narrower beam of the radiation pattern.

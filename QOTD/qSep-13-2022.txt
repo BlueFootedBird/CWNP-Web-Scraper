@@ -1,0 +1,4 @@
+You are planning an 802.11ac WLAN in the 5 GHz frequency band. You plan to use 802.11ac clients as well. What is the maximum data rate supported by an 802.11ac AP according to the standard?
+a:6933 Mbps|b:600 Mbps|c:150 Mbps|d:54 Mbps|x:I don't know
+a
+The maximum data rate of 802.11ac is 6933 Mbps. These data rates will not be seen by initial devices, just as the 600 Mbps data rate of 802.11n devices was not seen in the first few years of availability.

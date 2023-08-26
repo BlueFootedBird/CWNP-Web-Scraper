@@ -1,0 +1,4 @@
+Enterprise quality access points often have the ability to act as what type of authentication server?
+a:LDAP|b:RADIUS|c:Application Gateway|d:Layer 3 Firewall|x:I don't know
+b
+Enterprise access points can often act as RADIUS servers and or RADIUS Proxys.

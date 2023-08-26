@@ -1,0 +1,2 @@
+Multicast
+when applied to a medium access control (MAC) service data unit (MSDU), it is an MSDU with a [____] address as the destination address (DA). When applied to a MAC protocol data unit (MPDU) or control frame, it is an MPDU or control frame with a [____] address as the receiver address (RA).

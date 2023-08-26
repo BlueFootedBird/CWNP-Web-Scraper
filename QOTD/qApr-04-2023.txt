@@ -1,0 +1,4 @@
+When implementing mesh networks, what is required to connect the mesh to another network that is not 802.11-based?
+a:Portal|b:Wired router|c:Wired switch|d:Cellular router|x:I don't know
+a
+A mesh BSS (MBSS) can use a mesh gate to connect to other 802.11 networks; however, a portal is required to connect to a non-802.11 network.

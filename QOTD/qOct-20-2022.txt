@@ -1,0 +1,4 @@
+When 802.1X/EAP authentiation is used after 802.11 authentication and association, what role does the PMK play?
+a:It is used to derive the encryption keys|b:It is sent to the client for authentication|c:It is sent from the client to the AP for authentication|d:It is not used|x:I don't know
+a
+The Pairwise Master Key (PMK) is itself derived from the 802.1X/EAP Master Session Key (MSK) and is used to derive the Pairwise Transient Key (PTK) used for encryption.

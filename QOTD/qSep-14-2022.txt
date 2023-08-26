@@ -1,0 +1,4 @@
+When implementing a large WLAN switch/controller with 500 lightweight access points, where will the WLAN switch/controller be placed in the network?
+a:Connected between a Layer-3 distribution Ethernet switch and a Layer-2 access switch with Gigabit Ethernet links.|b:Connected between the AAA server and the Layer-3 core Ethernet switch with Gigabit Ethernet links.|c:Connected between the Layer-2 core Ethernet switch and the Layer-3 distribution Ethernet switch with Gigabit Ethernet links.|d:Connected to the Layer-3 core Ethernet switch with redundant Gigabit Ethernet links.|x:I don't know
+d
+In a high user density environment, the amount of WLAN traffic can be measured in gigabits. In a WLAN switch/controller environment, all WLAN data must traverse the WLAN switch/controller. The optimum connection point in a network for high throughput and moderate filtering capabilities is found in the Layer3 core Ethernet switch.

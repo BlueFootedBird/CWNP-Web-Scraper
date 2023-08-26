@@ -1,0 +1,2 @@
+Buffer
+a shared or assigned memory area that is used to support and coordinate different computing and networking activities so one isn't held up by the other.

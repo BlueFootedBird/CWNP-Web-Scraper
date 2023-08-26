@@ -1,0 +1,4 @@
+When designing a WLAN deployment for a warehouse, why would you typically recommend fewer access points than for an open conference center of exactly the same size?
+a:The warehouse will have more users and devices|b:Conference centers use 802.11ac, which transmits shorter distances|c:More users and devices will be used in the conference center|d:Warehouse devices can use 802.11b, which transmits farther|x:I don't know
+c
+With an increased number of devices per person and more people in a conference center than in a warehouse, more access points are required to handle the device density. Fewer APs would typically be required for the same square footage in a warehouse than in a conference center.

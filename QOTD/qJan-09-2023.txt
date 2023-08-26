@@ -1,0 +1,4 @@
+Using a spectrum analyzer, you locate a potential source of interference. The duty cycle is below 5% for the detected signal. What level of interference is this signal likely to cause for the WLAN that uses the same frequencies?
+a:Minimal|b:Moderate|c:Significant|d:None|x:I don't know
+a
+The correct answer is minimal. Even with a low duty cycle, it is not accurate to say that it will cause no interference; however, it will also not cause moderate or significant interference if the duty cycle (the amount of time the signal is transmitting) is less than 10-15 percent.

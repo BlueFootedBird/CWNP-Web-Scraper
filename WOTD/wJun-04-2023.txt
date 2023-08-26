@@ -1,0 +1,2 @@
+UL MAP (WMX)
+Uplink Media Access Protocol; provides sub-channel allocation and other control information for the UL sub-frames.

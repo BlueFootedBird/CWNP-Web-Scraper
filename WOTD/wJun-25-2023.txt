@@ -1,0 +1,2 @@
+Aggregated schedule
+the aggregation of delivery and/or poll schedules by the quality of service (QoS) access point (AP) for a particular non-access point (non-AP) QoS station (STA) into a single service period (SP).

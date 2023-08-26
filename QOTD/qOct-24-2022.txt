@@ -1,0 +1,4 @@
+What unit of measurement is used to reference a specific amount of RF power loss?
+a:dB|b:dBi|c:dBd|d:dBm|x:I don't know
+a
+Decibel (dB) values are logarithmic and thus can represent very large or very small numerical values using user-friendly numerical values. While milliwatts (mW) and watts (W) describe RF power in absolute terms, the Decibel (dB) describes RF power in terms of the change in power (increase or decrease) from one point in time to another. It is accurate to say that a transmitter is emitting 100 mW of RF power. It is accurate to say that an RF cable causes a 3dB loss when connected between a transmitter and an antenna.dBi is a term that describes the gain of an antenna as compared to an isotropic radiator (sometimes referred to as the 

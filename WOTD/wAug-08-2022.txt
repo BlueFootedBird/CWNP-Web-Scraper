@@ -1,0 +1,2 @@
+Switch (WF)
+a data switch that connects computing devices to host computers, allowing a large number of devices to share a limited number of ports. AKA: Ethernet switch.

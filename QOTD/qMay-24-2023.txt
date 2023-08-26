@@ -1,0 +1,4 @@
+You notice that when client STAs move from one AP to another, they are losing their IP addresses and acquiring new ones. This is a concern to you because you plan to implement VoIP with wireless 802.11 phones. What should be properly configured to allow the devices to move from one AP to another without losing their IP addresses?
+a:Fragmentation|b:Shared Key Authentication|c:Roaming|d:TKIP/RC4|x:I don't know
+c
+Roaming must be configured properly. Roaming can occur at Layer 2 or Layer 3 in wireless LANs. When configured properly, STAs should be able to maintain their IP address as they move throughout the campus. Additionally, roaming must occur quickly to allow for VoIP calls such as those specified in the question. When a VoIP call drops too many frames or has lengthy delays (usually more than 150 ms one way), they may simply hang-up the call.

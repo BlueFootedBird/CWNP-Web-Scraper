@@ -1,0 +1,2 @@
+SMK Handshake
+a key management protocol between two parties that create a new SMK.

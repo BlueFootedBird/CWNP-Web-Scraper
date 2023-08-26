@@ -1,0 +1,2 @@
+Mini-PCI
+the specification which defines an alternate implementation for small form factor PCI cards.

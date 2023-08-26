@@ -1,0 +1,2 @@
+Cisco TKIP
+a Cisco implementation of TKIP and includes a hashing algorithm and a message integrity check. AKA: CKIP. See also TKIP.

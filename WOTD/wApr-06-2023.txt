@@ -1,0 +1,2 @@
+Secondary channel (11n)
+a 20 MHz channel associated with a primary channel used by HT STAs for the purpose of creating a 40 MHz channel.

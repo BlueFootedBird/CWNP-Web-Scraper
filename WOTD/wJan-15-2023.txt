@@ -1,0 +1,2 @@
+HCI
+Host Controller Interface; an application-optional layer which provides a command interface to the LMP and Baseband layers.

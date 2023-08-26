@@ -1,0 +1,4 @@
+You have turned up your APs to 100mW. Your clients are really happy to see lots of bars when they look at their available WLANs. However they can't seem to connect. What is the name of this common issue?
+a:Hidden node|b:Channel saturation|c:Client misconfiguration|d:Driver errors|x:I don't know
+a
+Turning up the power so high on the AP is likely causing hidden node problems. Turn down the power and, if necessary, install more APs to resolve the issue.

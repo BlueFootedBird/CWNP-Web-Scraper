@@ -1,0 +1,4 @@
+You have taken measurements during a post-installation validation survey. The noice floor is -94 dBm. At a particular location, the RSSI is -61 dBm. What is the SNR?
+a:33 dB|b:61 dB|c:94 dB|d:6 dB|x:I don't know
+a
+The simple formula of noise floor value - signal strength value = SNR. Know that the signal strength may be provided in mW and need converted to dBM, but the mW value will usually be a basic value such as -0.1 or -0.01.

@@ -1,0 +1,4 @@
+You work as a WLAN consultant. A client is asking about installing a wireless repeater to provide coverage to a remote area in the warehouse. What should you inform the client as it relates to the implementation of such a configuration?
+a:Wireless repeaters are no longer available after the 802.11n amendment|b:Wireless repeaters cause a significant reduction in throughput|c:Wireless repeaters do not support the short guard interval|d:Wireless repeaters will reduce overall CCI|x:I don't know
+b
+The correct answer is Wireless repeaters cause a significant reduction in throughput. A wireless repeater, as its name implies, repeats wireless communications and, therefore, provides half the throughput of a direct connection to an AP that is either connected to a wired network or wireless distribution off channel.

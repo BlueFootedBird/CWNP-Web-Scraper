@@ -1,0 +1,2 @@
+HT PPDU (11n)
+High Throughput Physical Layer Protocol Data Unit; a Clause 20 PPDU with the TXVECTOR FORMAT parameter set to HT_MF or HT_GF.

@@ -1,0 +1,3 @@
+What is a key difference between the 802.11g ERP-OFDM and 802.11a OFDM technologies?
+a:802.11a OFDM devices can achieve data rates of up to 54 Mbps, but 802.11g ERP-OFDM cannot|b:802.11a OFDM specifies mandatory support for 6, 12, and 24 Mbps data rates, but 802.11g ERP-OFDM does not|c:802.11g ERP-OFDM supports CCK, QPSK, and QAM encoding and modulation techniques, but 802.11a OFDM does not|d:802.11g ERP-OFDM is used to support the mandatory data rates of 1, 2, 5.5, and 11 Mbps, but 802.11a OFDM does not|e:802.11a OFDM operates in the 5 GHz bands, but 802.11g ERP-OFDM does not|x:I don't know
+e

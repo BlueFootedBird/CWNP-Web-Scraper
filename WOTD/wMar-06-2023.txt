@@ -1,0 +1,2 @@
+APSD
+Automatic Power-Save Delivery; a mechanism for the delivery of downlink frames to power saving STAs. See WMM-PS. See also U-[____] and S-[____].

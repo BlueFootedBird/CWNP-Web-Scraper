@@ -1,0 +1,4 @@
+An interval is specified for use between symbols in 802.11 modulated comunications. What is this interval called?
+a:DIFS|b:Guard Interval|c:NAV|d:CW|x:I don't know
+b
+The correct answer is Guard Interval. A guard interval of 800 nanoseconds (ns) is standard and a short guard interval of 400 ns is also available and typically used in 802.11n and later implementations. The short guard interval may be problematic in some highly reflective environments, but will work well in most implementations.

@@ -1,0 +1,4 @@
+When a device lists a transmit power of 14 dBm, what does that equal in mW?
+a:50|b:100|c:25|d:40|x:I don't know
+c
+The correct answer is 25. Given that 0 dBm = 1 mW, you can calculate the needed value with the rules of 10s and 3s. 1 mW + 10 dB + 10 dB is equal to 100 mW. Now, to get to 14 dBm, subtract 3 dB twice. 100 mW - 3 dB - 3 dB is equal to 25 mW and this is 14 dBm.

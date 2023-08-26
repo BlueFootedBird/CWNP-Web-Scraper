@@ -1,0 +1,4 @@
+What is MAC filtering?
+a:Limiting which MAC addresses can connect to the AP|b:Limiting which frame types can pass through the AP|c:Allowing only aggregated frames through the AP|d:An authentication mechanism stronger than WPA2-PSK|x:I don't know
+a
+MAC filtering allows one to select which MAC addresses will be allowed on the network.

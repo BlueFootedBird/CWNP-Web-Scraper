@@ -1,0 +1,2 @@
+SISO (11n)
+Single Input, Single Output; the use of only one antenna for both the transmitter and receiver.

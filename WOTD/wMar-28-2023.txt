@@ -1,0 +1,2 @@
+TXASSR (11n)
+Transmit Antenna Selection Sounding Request or Resumption; indicates the first sounding PPDU in the original antenna selection training sequence when the number is 0 (specifying a ?Request?). When the number is 1 through 15 (specifying a ?Resumption?), it indicates the number of the first sounding PPDU to be transmitted.

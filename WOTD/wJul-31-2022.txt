@@ -1,0 +1,2 @@
+IEEE 802.11a-1999 (WF)
+uses Orthogonal Frequency Division Multiplexing (OFDM) instead of DSSS. Provides data rates up to 54 Mbps. Uses the 5 GHz U-NII bands. Not compatible with PHYs that use the 2.4 GHz ISM band such as DSSS and HR/DSSS. See also IEEE 802.11 Clause 17 and OFDM.

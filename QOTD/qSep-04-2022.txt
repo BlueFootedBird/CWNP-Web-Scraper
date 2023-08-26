@@ -1,0 +1,4 @@
+An autonomous AP has 3 SSIDs configured and mapped to three distinct vlans, 5, 10 and 39. The switchport was configured as a trunk. Clients on the wlan mapped to vlans 10 and 39 are able to authenticate and use their wlans. Clients trying to connect to the wlan mapped to vlan 5 have no success. What could be the issue?
+a:An ACL is blocking the vlan on the trunk|b:A list of allowed VLANs was defined but VLAN 5 wasn’t in the list|c:The DHCP server is down|d:The list of allowed VLANs uses a range for VLANs 5-45|x:I don't know
+b
+There is a good chance that VLAN 5 is not allowed on the trunk and so the traffic is not allowed on the trunk for this WLAN.

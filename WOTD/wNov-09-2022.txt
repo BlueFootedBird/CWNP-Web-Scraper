@@ -1,0 +1,2 @@
+Non-HT SIGNAL field transmit opportunity protection (L-SIG TXOP) (11n)
+a protection mechanism in which protection is established by the non-HT SIG Length and Rate fields indicating a duration that is longer than the duration of the packet itself.

@@ -1,0 +1,4 @@
+What are the three primary requirements met by a WLAN RBAC solution?
+a:Assigning authorization parameters to each role|b:Assigning authentication parameters to each role|c:Defining network access roles|d:Encryption|x:I don't know
+a
+Role-based access control (RBAC) refers to the general process of applying roles or groups to users. Then filters, rules, and permissions are applied to a security policy. Finally, a security policy is mapped to a specific group or role. In the end, a user is assigned a security policy through its role. The security policy sets the rights or permissions of the user. RBAC should be required for most enterprise wireless networks and should be specified in the security policy. RBAC requirements should include: Defining network access roles; Assigning authentication parameters to each role; Assigning authorization parameters to each role.

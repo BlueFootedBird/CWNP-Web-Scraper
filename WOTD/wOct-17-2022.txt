@@ -1,0 +1,2 @@
+Authentication (BT)
+procedure for ensuring the identity of a Bluetooth device by using a link key.

@@ -1,0 +1,4 @@
+When a new PHY is to be created for the 802.11 standard, what is formed first?
+a:Draft|b:Working group|c:Ratified amendment|d:Proposals|x:I don't know
+b
+The first thing that is formed is a working group. The working group will see the change through the draft and ratification phases until the amendment either becomes part of the standard or is dropped without ratification.

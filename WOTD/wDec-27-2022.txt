@@ -1,0 +1,2 @@
+IGRP
+Interior Gateway Routing Protocol; a routing protocol that was developed in the mid-1980s by Cisco Systems, Inc. Cisco's principal goal in creating [____] was to provide a robust protocol for routing within an autonomous system (AS). Such protocols are known as Interior Gateway Routing Protocols.

@@ -1,0 +1,2 @@
+FER
+Frame Error Rate/Ratio; number of bad (corrupted) frames sent per total number of frames sent.

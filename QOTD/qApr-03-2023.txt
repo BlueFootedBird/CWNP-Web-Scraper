@@ -1,0 +1,4 @@
+What is the term used for the area within a LoS RF path that carries the strongest direct signals, must be kept clear of obstructions, and is determined only by distance and frequency?
+a:Inductance sphere|b:First Fresnel zone|c:Interference band|d:Diffraction domain|e:Cone of silence|f:Multipath line|x:I don't know
+b
+The formula for calculating the radius of the Fresnel Zone is: r = 72.2 x square root of D/4F The only variables in the formula are frequency and distance. Something else to consider here is that focusing an antenna's beam does not change the size of the Fresnel zone. Antenna gain and beamwidth are not part of the Fresnel zone radius calculation. Whenever an outdoor link is being planned, tree growth should be considered, when appropriate. Tree height may not be a factor during the initial deployment of a PtP link. However, as the tree height increases, it is possible that this may affect Fresnel zone clearance.

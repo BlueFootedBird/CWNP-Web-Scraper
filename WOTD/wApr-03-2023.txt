@@ -1,0 +1,2 @@
+HT frame (11n)
+a frame transmitted in an IEEE 802.11 Clause 20 PHY PPDU with the TXVECTOR FORMAT parameter set to either HT_MF or HT_GF.

@@ -1,0 +1,4 @@
+What kind of antenna is closest to an isotropic radiator?
+a:Yagi|b:Patch|c:Panel|d:Omni-directional|x:I don't know
+d
+While no antenna is exactly like a theoretical isotropic radiator, the Omni-directional antenna is closest.

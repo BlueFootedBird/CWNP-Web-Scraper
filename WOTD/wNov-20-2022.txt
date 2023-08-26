@@ -1,0 +1,2 @@
+Information Field (WF)
+a fixed-length, mandatory component within IEEE 802.11 management frames. These are sometimes called ?fixed fields? due to the terminology used by the IEEE 802.11-1999 (R2003) standard. In the IEEE 802.11-2007 standard, these fields have been renamed to ?Information Field.? AKA: Fixed field.

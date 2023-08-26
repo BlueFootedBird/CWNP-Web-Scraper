@@ -1,0 +1,2 @@
+IEEE 802.11 (WF)
+The IEEE standard that specifies carrier sense media access control and physical layer specifications for 1- and 2-megabit-per-second (Mbps) wireless LANs operating in the 2.4-GHz band.

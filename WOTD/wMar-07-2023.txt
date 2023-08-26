@@ -1,0 +1,2 @@
+DELTS
+Delete Traffic Stream; a type of QoS action frame used for deleting the Traffic frame. It can be sent by the Hybrid Coordinator to the source station or vice-versa.

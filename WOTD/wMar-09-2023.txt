@@ -1,0 +1,2 @@
+CAT5
+Category 5 cabling; data and communication twisted pair cable. This industry standard supports high frequencies up to 100 MHz and speeds up to 100 Mbps while covering a maximum distance of 100 meters.

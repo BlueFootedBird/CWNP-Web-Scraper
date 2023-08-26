@@ -1,0 +1,4 @@
+When client devices are communicating with each other without the use of an access point, in which mode of operation are the functioning?
+a:Open Authentication Mode|b:Ad Hoc Mode|c:Infrastructure Mode|d:Workgroup Bridge Mode|x:I don't know
+b
+Ad Hoc Mode allows stations to communicate with each other without the use of an access point. It is also a security concern.

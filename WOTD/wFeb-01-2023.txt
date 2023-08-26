@@ -1,0 +1,2 @@
+Hijacking
+a kind of wireless attack where a user?s session is taken over by rogue AP or client. This attack can be at Layer 2 or Layer 3. For a Layer 3 attack, the attacker will be running a DHCP server.

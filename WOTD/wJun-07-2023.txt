@@ -1,0 +1,2 @@
+Spatial stream (11n)
+one of several streams of bits or modulation symbols that may be transmitted over multiple spatial dimensions that are created by the use of multiple antennas at both ends of a communications link.

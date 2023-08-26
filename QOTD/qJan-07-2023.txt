@@ -1,0 +1,4 @@
+Which one of the following is often an issue that must be addressed in hospital environments?
+a:Compliance with PCI DSS|b:Frequent large trucks making deliveries in the warehouse|c:Walls that block RF|d:Internet uplinks for mobile transportation|x:I don't know
+c
+X-Ray rooms often have lead-lined walls that block RF. To address this, if WLAN coverage is required in the X-Ray room, an AP may be installed within the room. Internet uplinks for mobile transportation are more commonly seen in planes, trains and other public transportation systems. PCI DSS is a constraint in retail where credit and debit cards are accepted. Frequent large trucks making deliveries is more common in industrial and warehousing deployments.

@@ -1,0 +1,4 @@
+What is true at the receiving antenna when two copies of a signal arrive by direct and indirect paths?
+a:The signals will be corrupted if the indirect signal arrives at the same time and is 90 degrees out-of-phase|b:The signal will be stronger assuming the two signals are 180 degrees out-of-phase|c:If the two signals are in-phase they will cancel each other out|d:An AP simply cannot process any scenario where multiple signals are received|x:I don't know
+a
+Generally, if two copies of a signal arrive 90 degrees out-of-phase or worse, the signal will be corrupted. If they arrive 180 degrees out-of-phase, they typically cancel each other out. If they arrive sufficiently less than 90 degrees out of phase, the receiver may be able to process the communication due to resiliency in the modulation. If they arrive in-phase, the result is a strengthened signal over what it would have been should just one copy be received.

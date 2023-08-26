@@ -1,0 +1,2 @@
+Router
+a networking device that connects multiple Layer 3 networks together using routing protocols.

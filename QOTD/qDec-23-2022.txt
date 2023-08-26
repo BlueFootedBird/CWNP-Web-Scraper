@@ -1,0 +1,4 @@
+What is one DISADVANTAGE of using a predictive software tool when performing RF site surveys?
+a:A predictive survey tool cannot consider building construction materials|b:A predictive survey tool cannot model client station data connectivity rates|c:A predictive survey tool cannot measure or identify RF interference sources|d:A predictive survey takes considerably longer to perform than a manual survey|e:A predictive survey tool cannot answer "what if" coverage questions|x:I don't know
+c
+Since a predictive survey tool is not used with a radio card to make actual measurements of the RF environment, it cannot measure, identify, or locate RF interference sources. This can only be done with a spectrum analyzer or manual RF site survey tool (or both working together). Predictive RF site survey tools are capable of performing the other tasks listed, and it typically takes far less time to perform a predictive survey than a manual survey.

@@ -1,0 +1,2 @@
+TID
+Traffic Identifier; any of the identifiers usable by higher layer entities to distinguish medium access control (MAC) service data units (MSDUs) to MAC entities that support quality of service (QoS) within the MAC data service. There are 16 possible [____] values; eight identify TCs, and the other eight identify parameterized TSs. The [____] is assigned to an MSDU in the layers above the MAC.

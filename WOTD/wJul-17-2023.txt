@@ -1,0 +1,2 @@
+SS (WMX)
+Subscriber station; a station in the mobile service intended to be used while in motion or during halts at unspecified points or a fixed station. AKA: Mobile station (MS).

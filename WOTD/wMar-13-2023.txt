@@ -1,0 +1,2 @@
+CPE
+Customer Premise Equipment; a terminal or any equipment which is located at the physical premises of the customer.

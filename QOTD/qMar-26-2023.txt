@@ -1,0 +1,4 @@
+A QoS AP uses the ACM (admission control mandatory) subfields advertised in the ____________ element to indicate whether admission control is required for each of the Access Categories.
+a:EDCA Parameter Set|b:QoS Capability|c:Admission Control|d:TCLAS Processing|e:QoS BSS Load|x:I don't know
+a
+802.11-2007, Section 9.9.3.1

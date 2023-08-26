@@ -1,0 +1,4 @@
+What kind of spectrum analysis solution provides a view of the RF activity near a client when required?
+a:Infrastructure|b:Mobile|c:AP-based|d:Controller-based|x:I don't know
+b
+The correct answer is Mobile. Mobile spectrum analyzers are USB-based or PC Card-based and run on laptop computers or other mobile devices. AP-based spectrum analyzers can only see the RF activity at the AP. Controller-based spectrum analyzers use the radios in APs and so also see activity at the APs. Infrastructure spectrum analysis is a phrase used in relation to AP-based analysis.

@@ -1,0 +1,2 @@
+Bit
+a binary digit usually represented as a 1 or 0, meaning on or off. A single [____] can represent any two values to an application.

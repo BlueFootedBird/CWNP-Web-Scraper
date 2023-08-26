@@ -1,0 +1,5 @@
+Given: Users of a WLAN in an office building complain of slow wireless speeds. Knowing that most SOHO access points use channel 6 by default, an administrator for a small office has changed the channel to the lesser used channel 5.
+Now the users complain that the network is even slower. What has most likely caused the network to become even slower?
+a:There are more users on the network than before|b:Channel 5 uses stronger encryption than channel 6|c:Channel 6 uses higher data rates than channel 5|d:The channel changed caused adjacent channel interference|x:I don't know
+d
+Devices using overlapping channels are not as readily able to recognize signals from each other and most often detect them as noise. This causes devices to transmit at the same time and increases collisions. The increase in collisions degrades throughput. A better channel choice would have been channel 1 or 11. The do not overlap with channel 6.

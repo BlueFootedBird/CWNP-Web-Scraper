@@ -1,0 +1,2 @@
+PSMP session (11n)
+the periodic generation of a PSMP burst aligned to its service period. The PSMP session exists while any periodic traffic stream exists that was established by a TSPEC with the APSD field set to 0 and the Schedule field set to 1 (representing Scheduled PSMP).

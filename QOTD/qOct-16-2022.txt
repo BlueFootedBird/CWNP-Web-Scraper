@@ -1,0 +1,4 @@
+What happens when a STA performs active scanning?
+a:It listens for beacon frames|b:It listens for 802.11w frames|c:It sends probe requests|d:It sends beacon frames|x:I don't know
+c
+Active scanning is performed by sending probe request frames and listening for probe response frames. Passive scanning involves listening for beacon frames only.

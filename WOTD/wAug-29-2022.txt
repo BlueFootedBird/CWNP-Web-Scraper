@@ -1,0 +1,2 @@
+MFB requester (11n)
+Modulation and Coding Scheme Feedback requester. See STA types. See also MFB.

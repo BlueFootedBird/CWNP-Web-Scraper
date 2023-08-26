@@ -1,0 +1,2 @@
+Multiple Basic Service Set Identifier (MBSSID) (Cisco)
+the goals of MBSSID is to create unique beacon transmissions for each BSSID allowing access points to appear to client devices to be several distinct co-located AP?s or multiple-virtual AP?s. This allows up to 8 MBSSIDs per radio or 16 MBSSIDs per AP (in a dual-radio AP), multiple multicast streams, and support for existing clients with no changes/impact on client devices. See also SSIDL.

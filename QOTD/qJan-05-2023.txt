@@ -1,0 +1,4 @@
+What three common methods are used to perform application validation? (Choose three.)
+a:Throughput testers|b:PING|c:Site survey software|d:The applications themselves|x:I don't know
+a
+The applications are the driver behind the WLAN. If the applications are not working, the WLAN is not working – this is the perspective of the users. For this reason, application validation is one of the most important steps in the validation survey process. Application validation can be performed using site survey software, throughput testers and the actual applications themselves.

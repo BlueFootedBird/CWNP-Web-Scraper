@@ -1,0 +1,5 @@
+Polar antenna charts are graphical representations of an antenna's coverage pattern.
+What statement best describes how polar charts are used and interpreted?
+a:Beamwidth is typically defined at the point where power is decreased by 1/2 (-3dB)|b:Elevation and Azimuth charts are always similar when measuring omnidirectional antennas|c:The Azimuth chart provides a side view of the antenna's coverage|d:The Elevation chart provides a top-down view of the antenna's coverage|x:I don't know
+a
+An antenna’s beamwidth is calculated by measuring how many degrees off the center axis is the strength ½ (-3dB) of the zero degree position (peak amplitude).The vertical beamwidth is measured in degrees and it is defined perpendicular to the Earth Surface. The horizontal beamwidth is also measured in degrees but is defined parallel to the Earth Surface. Azimuth and elevation charts are a standard way to represent an antenna’s coverage pattern. The azimuth chart shows a top-down view of the antenna’s coverage and the elevation chart shows a side-view of the antenna’s coverage.

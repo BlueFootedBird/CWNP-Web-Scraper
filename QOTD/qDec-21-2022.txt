@@ -1,0 +1,4 @@
+Of the listed coverage patterns, which one is more likely to be used by internal antennas in access points?
+a:Highly Directional|b:Omni-Directional|c:None of these|d:Unidirectional|x:I don't know
+b
+APs with internal antennas typically provide omnidirectional or semi-directional coverage patterns.

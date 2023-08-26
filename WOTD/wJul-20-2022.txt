@@ -1,0 +1,2 @@
+Pre-RSNA (WF)
+Pre-Robust Security Network Association; the type of association used by a pair of stations (STAs) if the procedure for establishing authentication or association between them did not include the 4-Way Handshake.

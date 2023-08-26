@@ -1,0 +1,2 @@
+Single Sign on
+For Cisco Compatible Extensions (CCX), when using single signon, the user enters one set of authentication credentials (typically username and password) and those credentials are used for both wireless LAN authentication and domain login. In Version 3 of the CCX specification, this requirement applies to LEAP and EAP-FAST only and is optional for ASDs.

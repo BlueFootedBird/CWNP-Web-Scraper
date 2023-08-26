@@ -1,0 +1,4 @@
+After performing corrective actions, according to the CWNP troubleshooting methodology, what action should be taken next?
+a:Verify the solution|b:Document the results|c:Discover the scale of the problem|d:Define possible causes|x:I don't know
+a
+The CWNP methodology follows the sequence: Identify the problem, Discover the scale of the problem, Define possible causes, Narrow to the most likely cause, Create a plan of action or escalate the problem, Perform corrective actions, Verify the solution, Document the results.

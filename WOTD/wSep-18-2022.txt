@@ -1,0 +1,2 @@
+PPPoE (WF)
+Point to Point Protocol over Ethernet; a type of broadband connection that provides authentication (username and password) in addition to data transport.

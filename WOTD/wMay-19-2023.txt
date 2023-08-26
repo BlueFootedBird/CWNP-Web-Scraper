@@ -1,0 +1,2 @@
+VoIP server
+IP PBX; a business telephone system designed to deliver voice over a data network and interoperate with the normal Public Switched Telephone Network (PSTN). An IP PBX can exist as a hardware solution, or virtually, as a software system.

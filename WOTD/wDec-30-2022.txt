@@ -1,0 +1,2 @@
+Group Key Handshake
+a group key management protocol defined by this standard. It is used only to issue a new group temporal key (GTK) to peers with whom the local station (STA) has already formed security associations.

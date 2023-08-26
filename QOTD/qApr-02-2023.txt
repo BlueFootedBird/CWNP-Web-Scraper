@@ -1,0 +1,4 @@
+Only one EAP type supports using MS-CHAPv2, EAP-GTC or EAP-TLS for wireless client authentication. What is this EAP type?
+a:EAP-MD5|b:LEAP|c:EAP-TTLS|d:PEAP|x:I don't know
+d
+The following list shows EAP types that are more commonly used with wireless networks: EAP-TLS – client and server certificates required; TTLS (EAP-MSCHAP-v2) – only server certificates required; PEAPv0 (EAP-MSCHAP-v2) – only server certificates required; PEAPv0 (EAP-TLS) – client and server certificates required; PEAPv1 (EAP-GTC) – used with token card and directory-based authentication systems and only server certificates required; EAP-SIM - EAP for GSM Subscriber Identity Module - mobile communicators; EAP-AKA - for use with the UMTS Subscriber Identity Module - mobile communications.

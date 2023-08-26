@@ -1,0 +1,2 @@
+ASELI (11n)
+Antenna Selection Indication; when set to 14, the MAI field contains an Antenna Selection Indication (ASELI) and works in conjunction with the ASEL Command and ASEL Data subfields to determine transmit and receive antenna selection parameters.

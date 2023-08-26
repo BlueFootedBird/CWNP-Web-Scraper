@@ -1,0 +1,5 @@
+Given: In your regulatory domain, a transmit power level of "1" is equal to 17 dBm. For every integer increment (for example, from 2 to 3) to the transmit power, the APs transmit power is actually halved.
+In units of mW, what is the transmit power for an AP configured at a transmit power level of "3"?
+a:12.5 mW|b:6.25 mW|c:50 mW|d:100 mW|x:I don't know
+a
+The correct answer is 12.5 mW. 17 dBm is equal to 50 mW. Remember, 0 dBm equals 1 mW. 1 mW times 10 times 10 divided by 2 is 50 mW (the math to calculate 17 dBm). Starting at 50 mW and halving the power twice results in 12.5 mW.

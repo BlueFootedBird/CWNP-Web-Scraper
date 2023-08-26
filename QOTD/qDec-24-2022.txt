@@ -1,0 +1,4 @@
+Converting an RF signal from RF energy to an electrical signal on the receiver is performed by which component of a wireless device?
+a:Antenna|b:Transmitter|c:Transducer|d:Amplifier|x:I don't know
+a
+The antenna of the receiving device is responsible for converting RF energy into an electrical signal and sending it either directly to the radio of the receiving device or onto the cabling connecting the antenna to the radio of the receiving device.

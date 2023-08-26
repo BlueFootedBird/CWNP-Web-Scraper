@@ -1,0 +1,4 @@
+In addition to modulation, guard interval, channel width, and the number of spatial streams, what impacts the data rate according to the 802.11-2016 MCS tables?
+a:RSSI|b:Signal strength|c:Coding|d:Noise floor|x:I don't know
+c
+The MCS tables in the standard do not consider signal strength, RSSI, or noise floor. In production systems, these are important factors when determining the data rate that can be used, but the MCS tables focus on modulation, coding, guard interval, channel width and the number of spatial streams.

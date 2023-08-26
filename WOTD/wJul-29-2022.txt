@@ -1,0 +1,2 @@
+PAE
+Port Access Entity; a logical entity that supports the IEEE 802.1X protocol that is associated with a port. A [____] can adopt the role of authenticator, supplicant, or both. AKA: LAN port or switch port. (IEEE 802.1X-2004)

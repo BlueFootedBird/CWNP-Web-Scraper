@@ -1,0 +1,2 @@
+NMS
+Network Management System; a system which is used to manage network infrastructure devices. [____] solutions may consist of various hardware or software components.

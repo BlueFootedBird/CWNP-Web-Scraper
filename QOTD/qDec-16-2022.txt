@@ -1,0 +1,4 @@
+What PHY operates in 2.4 GHz and is capable of a maximum of 11 Mbps?
+a:HT|b:ERP|c:HR/DSSS|d:DSSS|x:I don't know
+c
+The High Rate/Direct Sequency Spread Spectrum (HR/DSSS) PHY supports 5.5 and 11 Mbps data rates. All listed PHYs operate in 2.4 GHz, but DSSS has a lower maximum data rate (2 Mbps) and ERP and HT have higher maximum data rates (54 Mbps and 600 Mbps respectively).

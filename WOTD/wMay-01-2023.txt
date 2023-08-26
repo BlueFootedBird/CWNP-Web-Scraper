@@ -1,0 +1,2 @@
+Phase
+the fraction of a complete cycle corresponding to an offset in the displacement from a specified reference point at time t = 0. The [____] determines the starting point on the sine wave.

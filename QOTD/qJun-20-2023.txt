@@ -1,0 +1,4 @@
+How is more capacity added to an SCA solution?
+a:Add more channel blankets|b:Add additional APs to the existing channel|c:Remove APs from the existing channel|d:Implement an MCA overlay solution|x:I don't know
+a
+With SCA solutions, RF management is automatic within the channel selected and more density or WLANs dedicated to additional purposes can be added by adding new channel blankets. For example, if you first implement SCA on channel 6, you can later add a network on channel 11 to use for VoIP only. The remainder of this section will address areas with a high density of clients and mobile and non-mobile clients and their needs.

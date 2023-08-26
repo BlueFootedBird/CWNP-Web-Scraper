@@ -1,0 +1,4 @@
+As part of its corporate security policy, your organization requires all wireless LANs to be separated from the wired network core using a device capable of authentication, data encryption, and throughput limiting.  Which device will accomplish this policy requirement?
+a:Wireless workgroup bridge|b:Transparent tunneling bridge|c:Wireless LAN controller|d:Personal firewall software|x:I don't know
+c
+A Wireless LAN controller is the only segmentation device in the listed answers that is capable of performing all three functions. Examples of such devices are EWGs and WLAN switches. A Wireless workgroup bridge is incorrect because a workgroup bridge is a device that allows you to connect multiple wired devices through, essentially, a shared radio. A Transparent tunneling bridge does not exist. Personal firewall software is incorrect because it only filters packets and does not provide for authentication, data encryption, or throughput limiting.

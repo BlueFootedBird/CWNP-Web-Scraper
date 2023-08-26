@@ -1,0 +1,2 @@
+Jumbo frames
+frames which are greater than normal Ethernet frame size of 1518 bytes. Throughput can be increased by using [____] but all the network devices must be able to process [____] to gain maximum benefit otherwise the frames will require fragmentation and reassembly.

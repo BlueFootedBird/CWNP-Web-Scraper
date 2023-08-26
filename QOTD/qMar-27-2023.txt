@@ -1,0 +1,4 @@
+You are conducting a site survey in a hospital. The radiology department has several rooms that have lead-lined walls. What will happen to the RF signal in those rooms?
+a:It will be reflected and performance will be enhanced due to high multipath|b:It will be unaffected due to the walls' composition|c:It will be almost inexistent because lead is highly absorbent|d:It will be amplified|x:I don't know
+c
+Lead is highly absorbing and the signal will be nearly inexistent.

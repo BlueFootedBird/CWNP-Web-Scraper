@@ -1,0 +1,2 @@
+SA (WMX)
+Security association; the establishment of shared security information between two network entities to support secure communication. An SA may include cryptographic keys, initialization vectors or digital certificates. Each SA has its own ID called SAID.

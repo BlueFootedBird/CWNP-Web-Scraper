@@ -1,0 +1,4 @@
+The IEEE 802.11 TSPEC element contains which parameters?
+a:Traffic Stream (TS) Info|b:Maximum MSDU Size|c:Inactivity Interval|d:BSS Load Info|e:Minimum PHY Rate|x:I don't know
+a
+802.11-2007, Section 7.3.2.30

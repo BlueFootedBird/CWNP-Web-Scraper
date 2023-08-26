@@ -1,0 +1,2 @@
+L-STF (11n)
+Non-HT Short Training Field; the legacy short training OFDM symbol is identical to the IEEE 802.11a short training OFDM symbol. The L-STF is BPSK modulated at 6 Mbps. It contains no channel coding and is not scrambled.

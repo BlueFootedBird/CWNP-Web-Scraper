@@ -1,0 +1,4 @@
+How many bits are included in the Ethernet frame preamble?
+a:128|b:7|c:56|d:48|x:I don't know
+c
+The correct answer is 56. Like with 802.11 PHY frames, 802.3 frames are sent with a preamble and start-of-frame delimiter (SFD) prepended to the MAC frame. The preamble is 7 octets (56 bits) and is used to allow the physical signaling sublayer (PLC) circuitry to enter steady state synchronization so that its timing is aligned with the incoming frame on receipt. It is like a wakeup call to the receiving network interface adapter (NIC). The Ethernet preamble is simply: 10101010 10101010 10101010 10101010 10101010 10101010 10101010 The preamble bits are sent LSBF with the bits sent as presented here from left to right; or with the left-most bit first.

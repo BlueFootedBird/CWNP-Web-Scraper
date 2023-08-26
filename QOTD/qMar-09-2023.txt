@@ -1,0 +1,4 @@
+When the To DS and From DS bits in an IEEE 802.11 Data frame are both set to 1, how many address fields are there in the frame, and how are they used?
+a:Two address fields, used for SA/TA, DA/RA|b:Three address fields, used for SA, DA, BSSID|c:Three address fields, used for TA, RA, BSSID|d:Four address fields, used for SA, DA, BSSID, RA|e:Four address fields, used for SA, DA, TA, RA|x:I don't know
+e
+There are up to 4 address fields in an 802.11 MAC frame. Either 3 or 4 of these addresses are used at any given time – depending on the architecture of the WLAN. The Transmitter Address (TA), Receiver Address (RA), and BSSID (access point’s MAC address) are the most often used addresses, but when a WDS environment is constructed, all four will be used (TA, RA, SA, DA) at the same time.

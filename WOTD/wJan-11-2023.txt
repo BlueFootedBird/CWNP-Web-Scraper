@@ -1,0 +1,2 @@
+CCM
+Counter Mode with Cipher-block Chaining Message Authentication Code; a symmetric key block cipher mode providing confidentiality using counter mode (CTR) and data origin authenticity using cipher-block chaining message authentication code (CBC-MAC). AKA: CTR with CBC-MAC, [____]P.

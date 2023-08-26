@@ -1,0 +1,2 @@
+STK
+STSL Transient Key; a value that is derived from the STSL master key (SMK), initiator MAC address (MAC_I), peer MAC address (MAC_P), initiator nonce (INonce), and peer nonce (PNonce), using the pseudo-random function (PRF). The value is split into as many as five keys, i.e., temporal encryption key, two temporal message integrity code (MIC) keys, EAPOL-Key encryption key (KEK), and EAPOL-Key confirmation key (KCK).

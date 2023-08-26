@@ -1,0 +1,4 @@
+You are looking at AP utilization in an area and seeing that clients seem to cluster on a specific AP. Which roaming protocol could allow clients to be balanced out once they learn that an AP is very busy through queries performed by the client itself?
+a:802.11i|b:802.11s|c:802.11k|d:802.11e|x:I don't know
+c
+802.11k works with clients asking their AP for a list of neighboring APs to which they could potentially roam, saving time in scanning and finding a new AP to roam to.

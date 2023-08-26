@@ -1,0 +1,4 @@
+Given:  WLAN standards are created by IEEE, an organization that cannot enforce standards compliance; therefore, manufacturers are responsible for ensuring that their devices remain compliant with a particular standard.What organization certifies devices for IEEE 802.11 standard compliance and interoperability?
+a:IETF|b:WiMax Forum|c:Wi-Fi Alliance|d:CompTIA|x:I don't know
+c
+The Wi-Fi Alliance is an organization that tests 802.11 WLAN devices for standards compliance and interoperability. Connectivity standards such as 802.11abgn (Wi-Fi), security standards such as 802.11i (WPA/WPA2), and QoS standards such as 802.11e (WMM) are examples of Wi-Fi Alliance device certifications.

@@ -1,0 +1,4 @@
+Your network manager asked you to help the company's wireless network administrator go from area to area within your building temporarily hanging APs and recording coverage information.  In what type of RF site survey did you participate?
+a:Predictive survey|b:Manual survey|c:Interpretive survey|d:Virtual survey|e:Adaptive survey|x:I don't know
+b
+Predictive surveys, also called virtual surveys, use software to perform a predictive analysis of an RF environment based on an imported floor plan and RF obstacle loss information. There is no such thing as adaptive or interpretive surveys. Manual surveys come in two flavors: active and passive. Active manual surveys involve having site survey software connect to a temporarily-placed AP to perform connectivity analysis. Passive manual surveys involve having site survey software listen to beacons transmitted by a temporarily-placed AP to received signal strength analysis and noise analysis.

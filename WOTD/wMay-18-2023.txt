@@ -1,0 +1,2 @@
+CAP
+Controlled Access Phase; a time period when the hybrid coordinator (HC) maintains control of the medium, after gaining medium access by sensing the channel to be idle for a point coordination function (PCF) interframe space (PIFS) duration. It may span multiple consecutive transmission opportunities (TXOPs) and can contain polled TXOPs.

@@ -1,0 +1,2 @@
+Integration service
+the service that enables delivery of medium access control (MAC) service data units (MSDUs) between the distribution system (DS) and a non-IEEE-802.11 local area network (LAN) (via a portal).

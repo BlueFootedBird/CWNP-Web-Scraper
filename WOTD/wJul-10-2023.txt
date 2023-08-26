@@ -1,0 +1,2 @@
+ESA
+Extended Service Area; the area within which members of an extended service set (ESS) may communicate. An [____] is larger than or equal to a basic service area (BSA) and may involve several basic service sets (BSSs) in overlapping, disjointed, or both configurations.

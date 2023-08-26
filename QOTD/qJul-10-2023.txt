@@ -1,0 +1,4 @@
+What protocol should be used for Web-based administration interfaces in order to increase security?
+a:HTTPS|b:HTML|c:HTTP|d:SNMPv3|x:I don't know
+a
+Instead of HTTP, HTTPS should be used. HTTPS provides encryption for the link and HTTP does not. HTML is the programming language or markup language used to create web pages and SNMPv3 is a network management protocol not an administration access protocol.

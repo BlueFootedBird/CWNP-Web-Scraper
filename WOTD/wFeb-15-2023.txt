@@ -1,0 +1,2 @@
+SPP (BT)
+Serial Port Profile; defines the protocols and procedures that are used by devices using Bluetooth for RS232 (or similar) serial cable emulation.

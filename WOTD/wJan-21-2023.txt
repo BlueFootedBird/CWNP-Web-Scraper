@@ -1,0 +1,2 @@
+AES
+Advanced Encryption Standard; a method that uses up to 256-bit key encryption to secure data. [____] is the encryption standard that replaced the Digital Encryption Standard (DES) in order to improve encryption strength. It is based on the Rijndael algorithm.

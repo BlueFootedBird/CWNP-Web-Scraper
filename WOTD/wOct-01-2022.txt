@@ -1,0 +1,2 @@
+Multicast-group address
+a medium access control (MAC) address associated by higher level convention with a group of logically related stations (STAs).

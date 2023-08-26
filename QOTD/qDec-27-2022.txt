@@ -1,0 +1,4 @@
+What is a common cause of return loss in a wireless transmission system? (Choose 2)
+a:Too much Fresnel Zone blockage|b:Voltage Standing Wave Ratio (VSWR) is greater than 1:1|c:Component and RF cable connectors have different impedance|d:Multipath signals out of phase with the main signal|e:Attenuation as an RF signal travels through open air|f:High delay spread|x:I don't know
+b
+Voltage Standing Wave Ratios (VSWR) higher than 1:1 occur when there is mismatched impedance between devices in an RF system. VSWR higher than 1:1 causes return loss, which is the loss of forward energy through a system due to some of the power being reflected back toward the transmitter. When the VSWR is equal (1:1), there is no return loss. Impedance mismatch is a common cause of high VSWR, so it is also a cause of return loss.

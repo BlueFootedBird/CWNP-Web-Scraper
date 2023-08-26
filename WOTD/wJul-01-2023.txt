@@ -1,0 +1,2 @@
+CBC (WF, WMX)
+Cipher Block Chaining; part of several different encryption schemes used for Wi-Fi and WiMAX solutions.

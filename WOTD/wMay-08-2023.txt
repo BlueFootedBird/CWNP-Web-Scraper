@@ -1,0 +1,2 @@
+RFI
+Radio Frequency interference; undesirable RF disturbance that affects a narrowband or broadband radio frequency due to electromagnetic radiation emitted from an external source. The disturbance may interrupt, obstruct, or otherwise degrade or limit the effective performance of the device. AKA: RF noise. See also EMI.

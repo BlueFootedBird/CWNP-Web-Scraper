@@ -1,0 +1,2 @@
+HEMM (WF)
+HCCA, EDCA Mixed Mode; a wireless IEEE 802.11e QoS mode which allows the use of both HCCA and EDCA methods to gain the access to the medium.

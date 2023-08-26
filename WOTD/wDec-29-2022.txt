@@ -1,0 +1,2 @@
+DCF
+Distributed Coordination Function; a class of coordination function where the same coordination function logic is active in every station (STA) in the basic service set (BSS) whenever the network is in operation.

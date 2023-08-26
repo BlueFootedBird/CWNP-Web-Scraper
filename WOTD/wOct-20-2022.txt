@@ -1,0 +1,2 @@
+STBC beacon (11n)
+a beacon that is transmitted using the basic STBC MCS to enable discovery of the BSS by HT STAs that support the HT STBC feature in order to extend the range of the BSS.

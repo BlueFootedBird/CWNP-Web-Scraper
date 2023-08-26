@@ -1,0 +1,2 @@
+HT-SIG (11n)
+High Throughput Signal Field; used to carry information required to interpret the HT packet formats. Composed of two parts, HTSIG1 and HTSIG2, each containing 24 bits.

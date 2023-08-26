@@ -1,0 +1,2 @@
+MFSI (11n)
+MCS Feedback Sequence Identifier; the value which identifies the MCS request for which the MCS feedback is provided by the responder. This value is taken from the MSI field of the MCS request for immediate MCS feedback and is set to 7 for unsolicited MFB.

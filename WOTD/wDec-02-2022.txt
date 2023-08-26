@@ -1,0 +1,2 @@
+TFTP
+Trivial File Transfer Protocol; a version of the FTP protocol that uses UDP and is less reliable than FTP. [____] has no directory or password capability.

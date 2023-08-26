@@ -1,0 +1,4 @@
+Which EAP type supports only password authentication (without support for certificates), but supports a form of mutual authentication of the supplicant and authentication server?
+a:EAP-TLS|b:EAP-MD5|c:LEAP|d:PEAPv1/EAP-GTC|e:PEAPv0/EAP-MSCHAPv2|f:EAP-FAST|x:I don't know
+c
+The EAP-TLS (Transport Layer Security) method mutually authenticates with client and server side certificates only. The EAP-MD5 method uses passwords but only one-way authenticates the client to the server (but not the server to the client). The PEAPv1/EAP-GTC method is an EAP withinEAP method that supports the mutual authentication with cycling credentials originating from a token card. PEAP (any flavor) requires a server-side x.509 certificate. The EAP-FAST method uses the concept of PACs or protected access credentials in lieu of passwords.

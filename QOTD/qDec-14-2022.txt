@@ -1,0 +1,4 @@
+You plan to implement a WIPS to help continuously monitor your wireless system.  Before you can create alarms that alert you to anomalies or potential issues, what step must you take?
+a:Create a security baseline|b:Define the security policies|c:Remove all outside rogue access points|d:Enable active scanning on each sensor|e:Configure the WIPS to accept broadcast SSIDs|x:I don't know
+a
+A security baseline should be part of every wireless security policy. Basically, the baseline identifies what is considered normal in order to later identify anomalies.

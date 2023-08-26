@@ -1,0 +1,2 @@
+RSC
+Receive Sequence Counter; used to provide validation and prevent replay attacks in an EAP group key handshake during provisioning of a new GTK.

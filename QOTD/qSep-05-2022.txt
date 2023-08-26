@@ -1,0 +1,4 @@
+Your users have been complaining that the WLAN works yet new users cannot connect because they don't see the SSID listed. You open a protocol analyzer and see the beacons from the AP. Analyzing the information in the beacon as best you can, you see that the SSID is null. What could be the cause of this behaviour?
+a:The SSID is secured with AES|b:The SSID is secured with RC4|c:The SSID is hidden|d:The SSID is secured with 802.11w|x:I don't know
+c
+A hidden SSID will appear as a null value in the Beacon frame. Some APs call the feature Hide SSID and others state Do Not Broadcast SSID or some such terminology.

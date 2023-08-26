@@ -1,0 +1,4 @@
+What does dBd measure?
+a:Normalized decibels measured against a milliwatt|b:Rating for cable loss in a wireless system|c:Attenuation of RSSI at the receiver|d:Receiver sensitivity threshold|e:Gain relative to a theoretical half-wave dipole antenna|x:I don't know
+e
+dBd measures the gain of a real antenna relative to a theoretical half-wave dipole antenna. dBd can be converted to dBi by adding 2.14 (0 dBd = 2.14 dBi). You may find some antenna gain specifications referenced in dBd. It may be helpful simply to think about the gain of a half-wave dipole as being 2.14 dBi. Then remember that a dBd measurement is compared against the 2.14 dBi dipole. Most antenna specs are referenced in dBi, but in the real world, it is helpful to understand the conversion in case you are comparing two different antennas with different gain reference units.

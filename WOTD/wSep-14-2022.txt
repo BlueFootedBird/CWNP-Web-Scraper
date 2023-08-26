@@ -1,0 +1,2 @@
+Fresnel zone
+ellipsoidal volumes around the RF line-of-sight that carry the RF energy from transmitter to receiver. The first [____] must be at least 60 percent clear of major intrusions to maintain a healthy RF link. The line-of-sight condition between the transmitter and the receiver is crucial in high-frequency radio communication. By calculating the [____], you can determine antenna height so that radio signals can travel between the AP and the client stations without any obstacles.

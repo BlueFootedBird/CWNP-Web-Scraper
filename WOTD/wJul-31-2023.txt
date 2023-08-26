@@ -1,0 +1,2 @@
+MAI (11n)
+MCS Request (M) or Antenna Selection (A) indication (I); The MAI Subfield is structured as follows: Bit 2 is the MRQ (MCS Request) and Bits 3-5 are the MSI (MCS Request Sequence Identifier). See also MCS and MSI.

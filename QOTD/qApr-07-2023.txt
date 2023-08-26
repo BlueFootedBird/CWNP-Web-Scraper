@@ -1,0 +1,4 @@
+Which protocol is used by a WNMS to gather statistics from autonomous access points?
+a:SSL|b:SNMP|c:LLC|d:FTP|e:TFTP|f:HTTPS|x:I don't know
+b
+Simple Network Management Protocol (SNMP) is used by network management systems to poll infrastructure devices for statistics, configuration, and other parameters. WNMS is specific to wireless systems, and uses standard management information bases (MIBs) unique to specific wireless infrastructure devices.

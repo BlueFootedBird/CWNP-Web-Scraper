@@ -1,0 +1,2 @@
+Bluetooth Baseband (BT)
+the part of the Bluetooth system that specifies or implements the medium access and physical layer procedures to support the exchange of real-time voice, data information streams, and ad hoc networking between Bluetooth Devices.

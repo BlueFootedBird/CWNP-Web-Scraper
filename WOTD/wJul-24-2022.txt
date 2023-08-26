@@ -1,0 +1,2 @@
+DEV
+Independent WPAN data [____]ice. (IEEE 802.15.3)

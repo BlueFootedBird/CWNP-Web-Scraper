@@ -1,0 +1,4 @@
+What is the term most commonly used to describe the number of times an even occurs within a specified time period in RF transmissions?
+a:Wavelength|b:Channel|c:Frequency|d:Propagation|x:I don't know
+c
+The number of times an event occurs within a specific time period is called Frequency.

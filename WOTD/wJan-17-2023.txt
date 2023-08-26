@@ -1,0 +1,2 @@
+Downlink
+a unidirectional link from an access point (AP) to one or more non-AP stations (STAs).

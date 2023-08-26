@@ -1,0 +1,4 @@
+What device type is likely to have the lowest quality 802.11 radio configuration?
+a:Tablet|b:Gaming laptop|c:Corporate laptop|d:AP|x:I don't know
+a
+Tablets and mobile phones are less likely to have powerful radios due to battery and space design constraints. Laptops have larger batteries and more space for antenna design. APs are very well designed from a radio perspective.

@@ -1,0 +1,4 @@
+Prior to starting the 4-Way Handshake within RSNA, what key must be agreed upon between the supplicant and the authenticator?
+a:The Group Temporal Key (GTK)|b:The Pairwise Master Key (PMK)|c:The Pairwise Transient Key (PTK)|d:The EAPOL-Key|x:I don't know
+b
+Once the system has authenticated, associated, completed higher-level authentication, and created the PMK, the 4-way handshake process can begin.

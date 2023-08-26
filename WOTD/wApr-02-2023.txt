@@ -1,0 +1,2 @@
+TSN
+Transition Security Network; a security network that allows the creation of pre-robust security network associations (pre-RSNAs) as well as RSNAs. A [____] can be identified by the indication in the robust security network (RSN) information element of Beacon frames that the group cipher suite in use is wired equivalent privacy (WEP). See also RSN.

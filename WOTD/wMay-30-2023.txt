@@ -1,0 +1,2 @@
+FSR (WF)
+Fast Secure Roaming; a generic term for describing fast, secure handoffs between access points within an ESS. Using Robust Security Network (RSN) features such as CCMP with fast authentication methods such as preauthentication, PMK Caching, Opportunistic PMK caching, and IEEE 802.11r FT, client stations can roam from BSS to BSS performing only a 4-Way Handshake (802.11i) or over-the-air/over-the-DS exchanges (802.11r FT) instead of a full IEEE 802.1X/EAP authentication. FT is necessary for high-quality VoIP over 802.11 WLANs (wVoIP). AKA: FT and Fast BSS Transition.

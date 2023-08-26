@@ -1,0 +1,2 @@
+L2CAP Channel (BT)
+a logical connection on L2CAP level between two devices serving a single application or higher layer protocol.

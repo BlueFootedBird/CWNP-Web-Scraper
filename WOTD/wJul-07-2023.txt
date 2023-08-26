@@ -1,0 +1,2 @@
+Auto-RF (Cisco)
+Cisco?s Auto-RF feature of RRM enables the controller to automatically form an RF group with other controllers. The group dynamically elects a leader to optimize RRM parameter settings, such as channel and transmit power assignment, for the group. See also Radio Resource Management and RRM.

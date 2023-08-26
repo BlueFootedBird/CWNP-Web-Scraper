@@ -1,0 +1,4 @@
+What kind of roaming may take place and include Layer 1 roaming?
+a:Band roaming from 2.4 GHz to 5 GHz|b:Roaming from Wi-Fi to Ethernet|c:Roaming from Wi-Fi to Token Ring|d:No roaming involves Layer 1|x:I don't know
+a
+The primary roaming we consider at Layer 1 is that which occurs when a STA moves from a 2.4 GHz BSS to a 5 GHz BSS or vice versa. In this case, the client radio must switch from 2.4 GHz operation to 5 GHz operation.

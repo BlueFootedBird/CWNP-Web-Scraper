@@ -1,0 +1,2 @@
+Connectable device (BT)
+a Bluetooth device in range that periodically listens on its page scan physical channel and will respond to a page on that channel.

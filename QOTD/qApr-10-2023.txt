@@ -1,0 +1,5 @@
+Given: Your WLAN is designed as an SCA using virtual cell technology. You have deployed 50 dual-band 802.11ac APs. Each AP supports three SSIDs, which are enabled on both the 2.4 and 5 GHz radios.
+How many different BSSIDs should you expect to see across the entire network?
+a:6 BSSIDs|b:3 BSSIDs|c:One for each client device.|d:100 BSSIDs|e:50 BSSIDs|x:I don't know
+a
+In a virtual cell environment, each SSID is assigned a BSSID for each band and this BSSID is shared by all APs supporting this SSID. So, since there are 3 SSIDs in each band, there would be 6 total BSSIDs. Each radio would advertise all three SSIDs, and all APs in the deployment would use the same six BSSIDs. In this way, the BSSID is virtualized across the enterprise.

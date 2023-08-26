@@ -1,0 +1,2 @@
+HT-STF (11n)
+High Throughput Short Training Field; the purpose of the HT-STF is to improve AGC training in a multi-transmit and multi-receive system. The duration of the HT-STF is 4?sec.

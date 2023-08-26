@@ -1,0 +1,2 @@
+DMZ
+Demilitarized Zone; removes the router's firewall protection from one or more hardened machines, like the company web server or mail server, allowing them to be ?seen? from the Internet.

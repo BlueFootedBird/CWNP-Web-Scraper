@@ -1,0 +1,4 @@
+What is not an option to power APs in most plenum spaces?
+a:Power injector|b:Electrical outlet|c:PoE switch|d:PoE hub|x:I don't know
+b
+Most building codes to not allow the use of power adapters in plenum spaces and so electrical outlets will not be available there.

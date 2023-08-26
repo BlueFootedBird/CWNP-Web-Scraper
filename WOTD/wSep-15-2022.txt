@@ -1,0 +1,2 @@
+Bluetooth HCI (BT)
+Bluetooth Host Controller Interface; provides a command interface to the baseband controller and link manager and access to hardware status and control registers. This interface provides a uniform method of accessing the Bluetooth baseband capabilities.

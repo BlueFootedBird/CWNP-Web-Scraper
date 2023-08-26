@@ -1,0 +1,2 @@
+Server
+any computer whose function in a network is to provide user access to files, printing, communications, and other services.

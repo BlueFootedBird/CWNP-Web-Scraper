@@ -1,0 +1,4 @@
+Which of the following security solutions have known utilities designed specifically to crack their protection?
+a:EAP-TLS|b:WEP|c:WPA-Personal|d:LEAP|x:I don't know
+b
+The weaknesses of WEP are well published, and many utilities exist to crack WEP encryption, including Aircrack and Kismet. WPA-Personal can be cracked with coWPAtty, while LEAP can be cracked with ASLEAP.

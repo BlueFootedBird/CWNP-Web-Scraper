@@ -1,0 +1,2 @@
+PC (WF)
+Point Coordinator; the entity within the STA in an AP that performs the point coordination function.

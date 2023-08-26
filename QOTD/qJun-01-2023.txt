@@ -1,0 +1,4 @@
+What statement correctly describes a type of Wi-Fi security?
+a:Wired Equivalent Privacy is a certification offered by the Wi-Fi Alliance for the creation of a robust security network.|b:Wi-Fi Multimedia is a certification that provides strong security for voice and video data.|c:Wi-Fi Protected Access is a certification designed to facilitate the configuration of a secure network for homes and small offices.|d:802.1X/EAP is a legacy certification that has proven to have inadequate industry support in enterprise deployments.|x:I don't know
+c
+Wi-Fi Protected Access (WPA) is a certification designed by the Wi-Fi Alliance that addresses security solutions for IEEE 802.11 WLAN devices. Wired Equivalent Privacy (WEP) is legacy 802.11 security. Wi-Fi Multimedia (WMM) is a certification for IEEE 802.11 QoS (based on 802.11e), and 802.1X/EAP is based on two Requests For Comment (RFCs) and is used for enterprise-class security solutions.

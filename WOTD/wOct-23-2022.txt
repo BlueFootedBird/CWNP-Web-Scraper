@@ -1,0 +1,2 @@
+HT-GF-STF (11n)
+High Throughput Greenfield Short Training Field; short training fields used in greenfield mode.

@@ -1,0 +1,2 @@
+BSS
+Basic Service Set; a set of stations (STAs) that have successfully synchronized using the JOIN service primitives and one STA that has used the START primitive. Membership in a [____] does not imply that wireless communication with all other members of the [____] is possible. See also [____] types.

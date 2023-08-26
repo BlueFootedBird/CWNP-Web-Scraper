@@ -1,0 +1,4 @@
+What is the most common external antenna connector type for outdoor WLAN bridges?
+a:N-type|b:RP-TNC|c:RP-SMA|d:MMCX|x:I don't know
+a
+Due to their larger size and stronger construction, N-type antennas are typically used as outdoor antenna connectors. The wireless industry has largely standardized on outdoor antennas using N-type connectors, which makes it easier to match the antenna and AP.

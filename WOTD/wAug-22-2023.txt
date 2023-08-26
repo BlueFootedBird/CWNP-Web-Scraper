@@ -1,0 +1,2 @@
+PSMP-UTT (11n)
+Power Save Multi-Poll Uplink Transmission Time; a period of time described by a PSMP frame during which a non-AP STA may transmit.

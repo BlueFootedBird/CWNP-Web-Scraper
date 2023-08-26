@@ -1,0 +1,4 @@
+In an autonomous setup, you have configured your port on the AP and the switch. The link comes up but when clients connect, the link goes down. What can explain this behavior?
+a:There is a PoE issue on the port|b:There might be port security or MAC limiting configured on the switch port which shuts it off once it reaches a threshold|c:There might be an IP conflict with the client|d:There might be an issue with the DHCP server|x:I don't know
+b
+Often, port-security mechanisms and other MAC-limiting configuration options explain this type of behavior.

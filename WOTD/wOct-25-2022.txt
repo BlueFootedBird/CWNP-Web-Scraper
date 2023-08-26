@@ -1,0 +1,2 @@
+FTP (BT)
+File Transfer Profile; dependent on the generic object exchange profile. It provides guidelines for applications that need to exchange objects such as files and folders, instead of the more limited objects supported by the object push profile. The file transfer profile also defines client and server device roles and describes the range of their responsibilities in various scenarios.

@@ -1,0 +1,4 @@
+What simple modulation is used to transmit frames at 1 Mbps with DSSS?
+a:DBPSK|b:QPSK|c:OFDM|d:Barker|e:Open format|f:RTS/CTS|x:I don't know
+a
+DSSS supports two types of modulation—DBPSK and DQPSK—to provide 1 and 2 Mbps data rates. DBPSK is a fairly simple form of modulation that transmits only 1 bit of data per symbol.

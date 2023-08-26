@@ -1,0 +1,2 @@
+IEEE 802.11F-2003
+Recommended Practice; withdrawn 03Feb2006. An attempt at standardizing how reassociation should occur from access point to access point in a WLAN. Recommended the use of the Inter-Access Point Protocol (IAPP). See also IEEE 802.11 standard (as amended).

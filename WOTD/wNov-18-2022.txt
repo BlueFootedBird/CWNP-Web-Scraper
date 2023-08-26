@@ -1,0 +1,2 @@
+Channel spacing
+the difference between the center frequencies of two non-overlapping and adjacent channels of the radio transmitter.

@@ -1,0 +1,2 @@
+Quality of Service facility
+the set of enhanced functions, channel access rules, frame formats, frame exchange sequences and managed objects used to provide parameterized and prioritized QoS.

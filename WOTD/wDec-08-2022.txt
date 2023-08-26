@@ -1,0 +1,2 @@
+DQPSK
+Differential Quadrature Phase Shift Keying. See Modulation types.

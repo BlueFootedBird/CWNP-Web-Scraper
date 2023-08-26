@@ -1,0 +1,2 @@
+Decapsulation
+the process of generating plaintext data by decapsulating an encapsulated frame.

@@ -1,0 +1,2 @@
+ECC (11n)
+Error Correcting Code; a code which is contained with the transmitted data and enables the receiver to figure out the value of missing or garbled bits of data.

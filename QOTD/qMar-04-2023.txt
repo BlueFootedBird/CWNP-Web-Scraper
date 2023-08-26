@@ -1,0 +1,4 @@
+Given: With EDCA, a QoS AP’s Beacons and Probe Response frames include an EDCA Parameter Set with a Parameter Record for each AC.  Within the Parameter Record for each AC is a TXOP Limit field.In this field, what does a TXOP Limit value of 0 indicate?
+a:It indicates that MSDUs or MMPDUs must be transmitted at the lowest basic rate during each TXOP.|b:It indicates that QoS STAs must wait for the HC to transmit a Polled TXOP before they can transmit MSDUs or MMPDUs.|c:It indicates that no MSDUs or MMPDUs may be transmitted by a non-pollable QoS STA.|d:It indicates that a single MSDU or MMPDU may be transmitted for each TXOP.|e:It indicates that QoS STAs may not transmit voice MPDUs (Access Category 7, 8) during TXOPs.|x:I don't know
+d
+802.11-2007, Section 7.3.2.29

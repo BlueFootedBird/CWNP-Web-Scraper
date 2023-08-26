@@ -1,0 +1,4 @@
+What role does LDAP play in a wireless security solution?
+a:Provides a login authentication service|b:Provides AAA services similar to RADIUS|c:Acts as a network access server|d:Used to query a database by an 802.1X authentication server|e:Provides layer 3 encryption by creating a VPN tunnel|x:I don't know
+d
+LDAP (Lightweight Directory Access Protocol) is a networking protocol based upon the X.500 standard for querying and modifying directory services running over TCP/IP. The core LDAP specifications are all defined in RFCs -- a complete list of LDAP-related RFCs may be found at the LDAPman RFC page found here: http://www.ldapman.org/ldap_rfcs.html.

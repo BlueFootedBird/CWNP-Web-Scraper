@@ -1,0 +1,2 @@
+WAP (BT)
+Wireless Application Protocol; an open international standard for application layer network communications in a wireless communication environment. Its main use is to enable access to the Internet (using HTTP) from a mobile phone or PDA.

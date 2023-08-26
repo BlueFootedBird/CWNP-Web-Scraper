@@ -1,0 +1,2 @@
+Data rates
+the range of data transmission rates supported by a device. [____] are measured in megabits per second (Mbps).

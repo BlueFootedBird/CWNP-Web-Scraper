@@ -1,0 +1,4 @@
+What is not required to provide mutual authentication when using EAP-FAST?
+a:X.509 certificate|b:PAC|c:TLS|d:Supported supplicant|x:I don't know
+a
+EAP-FAST uses symmetric key algorithms to achieve a tunneled authentication process. The tunnel establishment relies on a Protected Access Credential (PAC) (instead of an X.509 certificate) that can be provisioned and managed dynamically by EAP-FAST through the authentication, authorization, and accounting (AAA) server (such as the Cisco Secure Access Control Server [ACS] v. 3.2.3). With a mutually authenticated tunnel, EAP-FAST offers protection from dictionary attacks and man-in-the-middle vulnerabilities.

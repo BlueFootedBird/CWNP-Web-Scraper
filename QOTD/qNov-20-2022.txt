@@ -1,0 +1,4 @@
+What kind of tool shows the statistics related to TCP and UDP traffic transmitted across the network in a testing scenario?
+a:Protocol analyzers|b:Spectrum analyzers|c:Throughput testers|d:Data rate calculators|x:I don't know
+c
+Throughput testing can be simple or complex. Simple throughput testing can be implemented using basic features such as returned metrics from common client tools, like FTP download clients. Figure 3.14 shows the Windows FTP client reporting the speed of a download. More advanced software, coming as command line tools or graphical engines, add capabilities beyond the basic metrics of file transfer programs. For example, they may offer the ability to choose statistics for UDP or TCP. They may be able to simulate particular traffic types, such as VoIP, streaming video or large file transfers. These features add great advantage to true throughput testing software.

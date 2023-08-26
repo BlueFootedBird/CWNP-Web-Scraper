@@ -1,0 +1,2 @@
+Non-STBC frame (11n)
+a frame that is transmitted in a PPDU that has the TXVECTOR STBC parameter set to 0, or a frame that is received in a PPDU that has the RXVECTOR STBC parameter set to 0.

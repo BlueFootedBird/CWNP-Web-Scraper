@@ -1,0 +1,4 @@
+What kind of environment is most likely to benefit from the disabling of short guard intervals in 802.11n deployments?
+a:Warehouses|b:Standard office spaces|c:Education|d:Outdoor Wi-Fi access|x:I don't know
+a
+In environments such as warehouses with highly reflective materials, it is sometimes useful to test the WLAN with short guard intervals disabled. While most environments can handle the short guard intervals, some environments may benefit by disabling this feature first introduced with the 802.11n amendment.

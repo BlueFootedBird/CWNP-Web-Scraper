@@ -1,0 +1,4 @@
+When implementing an indoor Wi-Fi mesh solution, it is important that the antennas on each AP be oriented in the same manner.  What is the term that describes this type of antenna orientation?
+a:Beamwidth|b:Polarization|c:Diversity|d:Diffraction|x:I don't know
+b
+Because of RF wave characteristics, antennas on opposing sides of a link should be polarized (oriented) in the same manner. Failing to do so could result in signal losses as high as 20 dB (99%). Polarization is particularly important in outdoor links, indoor mesh links, and other implementations when external antennas are used.

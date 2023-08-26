@@ -1,0 +1,4 @@
+When using a spectrum analyzer, you want to display 802.11 information as well. In addition to the spectrum adapter, what else is required?
+a:A compatible 802.11 adapter|b:An AP that implements spectrum communications|c:A controller that implementes spectrum communications|d:RBAC support on the AP|x:I don't know
+a
+The correct answer is A compatible 802.11 adapter. The spectrum analysis software will use the spectrum adapter to read the raw RF energy on the medium; however, a compatible 802.11 adapter is required to display 802.11 information such as beacon frame data, clients communicating and so on.

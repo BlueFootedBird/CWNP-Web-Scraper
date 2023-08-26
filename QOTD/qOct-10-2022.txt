@@ -1,0 +1,4 @@
+A large accounting firm has just changed the software they use to perform audits. Now the users are complaining about slow network connectivity. Nothing else has changed. What is the most likely cause of this problem?
+a:The CPUs in their laptops are not fast enough for the new application|b:The amount of RAM in their laptops is not enough for the new application|c:The CPUs in the access points are not fast enough for the new applications|d:The new application requires a significantly higher amount of bandwidth|x:I don't know
+d
+Some applications require more bandwidth than others. The increased need for air time by all of the users has resulted in degraded performance.

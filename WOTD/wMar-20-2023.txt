@@ -1,0 +1,2 @@
+DSM
+Distribution System Medium; the medium or set of media used by a distribution system (DS) for communications between access points (APs) and portals of an extended service set (ESS).

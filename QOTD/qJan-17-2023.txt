@@ -1,0 +1,4 @@
+Which phenomenon can be described as what happens to the signal as it travels through an unobstructed medium?
+a:Free space path loss|b:Frequency|c:Diffraction|d:Refraction|x:I don't know
+a
+Free space path loss occurs as the signal travels through space.

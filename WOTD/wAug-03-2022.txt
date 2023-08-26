@@ -1,0 +1,2 @@
+Preamble (WF)
+part of the wireless signal that synchronizes network traffic.

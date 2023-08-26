@@ -1,0 +1,2 @@
+PER
+Packet Error Rate; the number of packets lost or corrupted compared to the actual packets sent.

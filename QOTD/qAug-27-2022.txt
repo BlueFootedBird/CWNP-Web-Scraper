@@ -1,0 +1,4 @@
+On what device type is the DNS server service most often implemented?
+a:Switch|b:Router|c:Server|d:Controller|x:I don't know
+c
+The correct answer is Server. While some attempts have been made to implement DNS in routers over the years, the reality is that management is typically poor for such a service and network servers are still used in nearly all cases.

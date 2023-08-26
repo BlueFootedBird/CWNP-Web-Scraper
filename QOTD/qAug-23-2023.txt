@@ -1,0 +1,4 @@
+A WLAN administrator enables STA-to-STA traffic blocking on the APs in her facility. Why would she do this?
+a:To prevent man-in-the-middle attacks|b:To prevent client-to-client attacks on the network|c:To prevent rogue AP attacks|d:To prevent wireless sniffing|x:I don't know
+b
+Normally, this setting is configured for public or guest networks so that attackers cannot easily launch attacks against other STAs on the network.

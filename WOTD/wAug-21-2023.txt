@@ -1,0 +1,2 @@
+Attenuation
+the weakening of an RF signal. It is the opposite of amplification.

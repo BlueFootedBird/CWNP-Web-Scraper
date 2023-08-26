@@ -1,0 +1,4 @@
+As a new salesperson for ABC Consulting, you are familiarizing yourself with the features of the equipment you will sell.  You have been reading about a remote AP feature that creates an encrypted tunnel across the Internet in order to securely transfer traffic from the remote location onto a corporate network.  What is the term that is used to refer to this technology?
+a:Wireless Intrusion Prevention System (WIPS)|b:Virtual Private Network (VPN)|c:Role-Based Access Control (RBAC)|d:Mobile User Tunneling (MUT)|e:Distributed Channel Access (DCA)|x:I don't know
+b
+VPN technology creates an encrypted "tunnel" within the TCP/IP protocol to securely move traffic across a non-secure network.

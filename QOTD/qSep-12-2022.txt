@@ -1,0 +1,4 @@
+In what frame type is the Duration/ID field interpreted as an Association Identifier?
+a:PS-Poll|b:Association Response|c:ATIM|d:Beacon|e:BlockAck|f:Authentication Request|x:I don't know
+a
+The Duration/ID field of any frame consists of 16 bits (bits 15-0). In a PS-Poll Frame, bits 14 & 15 (the most significant two bits) are both set to 1 to indicate that the other 14 bits (13-0) refer to the association identifier (AID) of the station wishing to retrieve the traffic queued for it on the access point.

@@ -1,0 +1,4 @@
+Which antenna would cover an open space most appropriately if placed in the center of the space?
+a:Omni-directional|b:Yagi|c:Patch|d:Panel|x:I don't know
+a
+Omni-directional antennas have a 360 degree radiation pattern and are best placed in the center of the target coverage area.

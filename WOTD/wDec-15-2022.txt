@@ -1,0 +1,2 @@
+Near-far problem
+a wireless communication problem where a lower power distant node is unable to communicate with another node which is surrounded by other high power transmitting STAs which are far away from the access point but operating at low enough power to not be heard over the traffic from closer higher-powered clients.

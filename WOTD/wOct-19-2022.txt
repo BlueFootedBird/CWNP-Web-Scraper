@@ -1,0 +1,2 @@
+Network upstream
+traffic leaving the AP traveling to the controller. The AP classifies traffic from the AP to the upstream network according to the traffic classification rules of the AP. See also Radio Upstream QoS.

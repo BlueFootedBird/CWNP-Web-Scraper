@@ -1,0 +1,4 @@
+What relative units of measurement could be used when calculating an RF link budget? (Choose 2)
+a:mW|b:dBi|c:dBm|d:dBd|e:Ohm|f:RSSI|x:I don't know
+b
+dBi is used to measure the gain of an antenna by comparing the degree to which an antenna focuses its energy relative to an isotropic radiator. dBd measures the gain of a real antenna relative to a theoretical half-wave antenna. dBi and dBd are both power measurements based on decibels (dB) which always measure the relative strength between two signals.A watt is the basic unit of power. Wireless systems are typically measured in milliwatts (mW), which measures the absolute strength of one signal. dBm is a unit of measurement that uses decibels to measure absolute power levels, referred to as normalizing the decibel. Ohms measure resistance, such as the resistance to current flow in an RF cable. RSSI is also a proprietary and absolute measurement of signal amplitude.

@@ -1,0 +1,2 @@
+PCI
+Peripheral Component Interconnect; an industry specification or bus for connecting hardware devices to a computer's central processor.

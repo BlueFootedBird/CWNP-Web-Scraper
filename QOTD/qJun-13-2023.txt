@@ -1,0 +1,4 @@
+What Wi-Fi device can be powered using standards-based (IEEE 802.3af or 802.3at) Power-over-Ethernet (PoE)?
+a:Laptop Computer|b:WLAN Controllers|c:Access Points|d:RF Amplifier|e:MIMO Patch Antenna|x:I don't know
+c
+PoE is a method of delivering DC voltage to a powered device (PD) over Cat5 (or greater) cabling for the purpose of powering the PD over the same cable that carries data to it. Some WLAN controllers have integrated PoE-enabled Ethernet ports, but most PoE implementations are through Ethernet switches and PoE Midspan hubs (multi-port injectors). WLAN controllers are not powered by PoE, nor are RF amplifiers, laptop computers, or MIMO patch antennas. Most types of APs support PoE or even dual-PoE ports. There are two main types of standards-based PoE currently supported: 802.3af and 802.3at, with 802.3at being the newer, more powerful of the two.

@@ -1,0 +1,4 @@
+ABC Company has 6 employees, each of whom uses a laptop with an 802.11a/b/g Mini-PCI card configured for Ad-Hoc mode.  These laptops are the only computers in the company.  Why is it not possible for ABC Company to have a Wireless Intrusion Prevention System (WIPS) with the existing network configuration?
+a:In an Ad-Hoc WLAN environment, there is no central management station to which to report intrusions.|b:Most intrusion detection systems by design are incompatible with 802.11 Ad-Hoc mode.|c:Intrusion detection systems use the SNMP protocol, which is incompatible with 802.11 Ad-Hoc mode.|d:Intrusion detection systems work only in switched WLAN environments.|x:I don't know
+a
+WIPS are generally used in the implementation of large scale enterprise networks due to expense and complex nature of IDS configuration and management. Host-based and network-based IDS both report to a central management station, which is not present in an Ad-Hoc wireless LAN implementation.

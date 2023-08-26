@@ -1,0 +1,4 @@
+You are installing 3 APs on the outside of your facility. The APs will be mounted at a height of 7 feet. What must you do to implement these APs in a secure manner beyond the normal indoor AP implementations? (Choose the single best answer.)
+a:Use external antennas.|b:Use internal antennas.|c:Power the APs using PoE.|d:Use ruggedized outdoor enclosures.|x:I don't know
+d
+Anytime you deploy outdoor devices, NEMA (or the like) enclosures not only help to protect them from weather, but also from other security issues such as physical theft or damage.

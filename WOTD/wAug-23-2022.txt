@@ -1,0 +1,2 @@
+PC Card
+the form factor of a peripheral interface designed for laptop computers. The [____] standard (as well as its successor ExpressCard) was defined and developed by a group of industry-leading companies called the PCMCIA. See also PCMCIA.

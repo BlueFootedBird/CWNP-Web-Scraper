@@ -1,0 +1,2 @@
+Primary channel (11n)
+the common channel of operation for all STA that are members of the BSS, some members of the BSS may operate on additional channel(s).

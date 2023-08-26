@@ -1,0 +1,2 @@
+Temporal message integrity code (MIC) key
+the portion of a transient key used to ensure the integrity of medium access control (MAC) service data units (MSDUs) or MAC protocol data units (MPDUs). See also MIC.

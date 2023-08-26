@@ -1,0 +1,2 @@
+Telnet
+a user program and TCP/IP protocol used for accessing remote PCs or terminals.

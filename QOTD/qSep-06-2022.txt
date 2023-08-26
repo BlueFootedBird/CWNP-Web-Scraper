@@ -1,0 +1,4 @@
+You are creating documentation for a WLAN project. What document releases one or both parties from legal actions based on accidental damage?
+a:Bill of materials|b:Non-Disclosure Agreement|c:Scope of work|d:Hold harmless|x:I don't know
+d
+Scope of Work: A document that defines what is to be included in the WLAN design project and what is not. Non-Disclosure Agreements (NDAs): A document signed by an individual binding them to secrecy related to organizational practices, plans, products and processes. Hold Harmless: A document or contract between two parties that releases one or both parties from possible legal action based on accidents, damages and other possible negative outcomes. Bill of Materials (BoM): A document that lists that hardware and software licenses to be acquired for the WLAN implementation.

@@ -1,0 +1,4 @@
+100 mW is equivalent to what absolute value?
+a:0 dBm|b:10 dBm|c:13 dBm|d:20 dBm|e:23 dBm|f:30 dBm|g:100 dBm|x:I don't know
+d
+The reference point for absolute measurements in RF math is 0 dBm and 1 mW. For every 10 dB of gain, the mW value is multiplied by 10. 1 mW x 10 x 10 = 100 mW, thus a gain of 20 dB is needed to move from the reference point to 20 dBm. It should be noted that in terms of physical power, the following holds true:A value of 0 dBm corresponds to a value of 1 mW.A positive value in dBm corresponds to a value of power that is greater than 1mw. For example, +20 dBm corresponds to 100 mW.A negative value in dBm corresponds to a value of power that is less than 1mW. For example, -20 dBm corresponds to 0.01 mW.

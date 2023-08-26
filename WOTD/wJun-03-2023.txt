@@ -1,0 +1,2 @@
+DAC (BT)
+Device Access Code; code used during page, page scan and page response substates. It is a code derived from the unit's BD_ADDR.

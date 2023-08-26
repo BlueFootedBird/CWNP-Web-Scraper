@@ -1,0 +1,2 @@
+MFB (11n)
+Modulation and Coding Scheme (MCS) Feedback; part of the link adaptation algorithm which is used to select the MCS for the current environment and consists of a MCS feedback requestor and a MCS feedback responder.

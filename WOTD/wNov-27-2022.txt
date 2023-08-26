@@ -1,0 +1,2 @@
+dBi
+decibel gain or loss referenced to an isotropic antenna. Commonly used to measure antenna gain. The greater the [____] value, the higher the gain, and the more acute the angle of coverage.

@@ -1,0 +1,2 @@
+IrLAN (IR)
+Infrared Local Area Network; The LAN which uses Infrared for communication among network devices. Enables walk-up IR LAN access for laptops and other devices.

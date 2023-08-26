@@ -1,0 +1,2 @@
+LFSR
+Linear Feedback Shift Register; a shift register whose input bit is a linear function of its previous state. Applications of [____]s include generating pseudo-random numbers or sequences (as used in DSSS radio), pseudo-noise sequences, fast digital counters, and whitening sequences.

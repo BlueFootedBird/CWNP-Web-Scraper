@@ -1,0 +1,4 @@
+Given:  While using EDCA, QoS STAs and QoS APs must use a backoff algorithm in order to arbitrate for medium access.  The backoff procedure includes randomly choosing an integer from the contention window.When may QoS STAs and QoS APs decrement their randomly chosen Backoff Time by one interval?
+a:Each time the NAV timer decrements by one interval|b:When the medium is considered idle for the duration of a slot time|c:After waiting an Arbitrated Interframe Space (AIFS)|d:After waiting a SIFS following a DTIM Beacon|e:Immediately preceding a TBTT|f:After receiving a unicast data frame for which it must transmit an ACK|x:I don't know
+b
+The random backoff timer is used for contention in addition to the Carrier Sense (CCA and NAV) and interframe space (IFS) functions. The backoff timer may be decremented by one interval for every slot time when the medium is considered to be idle. This process introduces an element of randomness to WLAN arbitration to reduce collisions.

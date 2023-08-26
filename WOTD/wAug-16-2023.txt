@@ -1,0 +1,2 @@
+IrOBEX (IR)
+Infrared Object Exchange Protocol; the protocol used in Infrared implementations which allows for the easy transfer of files and other data objects.

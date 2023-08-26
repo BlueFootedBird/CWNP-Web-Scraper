@@ -1,0 +1,2 @@
+ACL
+Access Control List; a network traffic filter which controls whether packets are forwarded or blocked at the device's interfaces.

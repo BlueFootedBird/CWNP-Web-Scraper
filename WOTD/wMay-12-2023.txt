@@ -1,0 +1,2 @@
+Downtilt angle
+antenna downtilt affects radio signals traveling between the transmitter and the receiver. As a rule of thumb, the higher the transmitter antenna and the shorter the distance, the more tilt is required.

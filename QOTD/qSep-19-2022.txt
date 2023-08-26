@@ -1,0 +1,4 @@
+In order to implement a robust security network (RSN) as defined by the 802.11i-2004 amendment, an administrator may not implement _____________________?
+a:The Wired Equivalent Privacy (WEP) Cipher Suite|b:The STAKey Handshake|c:The Pass-phrase-to-Preshared Key Algorithm|d:The Group Key Handshake|e:The TKIP Message Integrity Check (MIC) called 'Michael'|x:I don't know
+a
+802.11i-2004, Section 3.106robust security network (RSN): A security network that allows only the creation of robust security network associations (RSNAs). An RSN can be identified by the indication in the RSN Information Element (IE) of Beacon frames that the group cipher suite specified is not wired equivalent privacy (WEP).

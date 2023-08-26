@@ -1,0 +1,2 @@
+DFS (WF, WMX)
+Dynamic Frequency Selection; facilities mandated to satisfy requirements in some regulatory domains for radar detection and uniform channel spreading in the 5 GHz band. These facilities may also be used for other purposes, such as automatic frequency planning.

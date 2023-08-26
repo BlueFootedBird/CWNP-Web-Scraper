@@ -1,0 +1,4 @@
+The OSI model is a seven layer model for understanding the operations of a networked communication system. What OSI layer includes the LLC and MAC sublayers?
+a:Data Link|b:Layer 1|c:Physical|d:Layer 3|e:Application|x:I don't know
+a
+The OSI Model layers are known by numbers and names. The two most directly related to the 802.11 standard are Layer 1 (Physical) and Layer 2 (Data Link). The Data Link layer includes the LLC and MAC sublayers. The 802.11 standard specified the MAC sublayer for wireless framing and communications. The PLCP sublayer is also defined in the 802.11 standard. It is a sublayer of the Physical or Layer 2 layer of the OSI Model.

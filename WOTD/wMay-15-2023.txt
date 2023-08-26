@@ -1,0 +1,2 @@
+SN (11n)
+Sequence Number; indicates the sequence number of an MSDU, A-MSDU, or MMPDU. Each MSDU, A-MSDU or MMPDU transmitted by a STA is assigned a sequence number. Sequence numbers are not assigned to control frames, as the Sequence Control field is not present.

@@ -1,0 +1,2 @@
+RC4
+Rivest Cipher 4; a widely-used software stream cipher and used in popular protocols such as Secure Sockets Layer (SSL) (to protect Internet traffic) and WEP (to secure wireless networks. AKA: TKIP.

@@ -1,0 +1,4 @@
+Why are near-far problems rare in modern WLANs?
+a:Because 802.11g removed all near-far problems|b:Because higher output power APs are used and fewer APs are used|c:Because 802.11n removed all near-far problems|d:Because lower output power APs are used and more APs are used|x:I don't know
+d
+The correct answer is Because lower output power APs are used and more APs are used. In most cases the CSMA/CA coordination functions take care of near-far without administrative intervention. In the real world today, near-far problems are less common as we typically deploy APs with 25 mW of power or less and simply deploy more APs.

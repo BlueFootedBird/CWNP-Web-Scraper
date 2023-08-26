@@ -1,0 +1,2 @@
+SP
+Service Period; a contiguous time during which one or more downlink unicast frames are transmitted to a quality of service (QoS) station (STA) and/or one or more transmission opportunities (TXOPs) are granted to the same STA. [____]s can be scheduled or unscheduled. For a non-access point (non-AP) STA, there can be at most one [____] active at any time.

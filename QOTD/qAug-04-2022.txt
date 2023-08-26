@@ -1,0 +1,4 @@
+Several factors can impact the distance at which an RF signal can be effectively received at a given data rate. What are some of these factors as listed here? (Choose 2.)
+a:Rx STA's radio sensitivity|b:Ethernet backhaul speed|c:PoE standard selected|d:Free space path loss|x:I don't know
+a
+The common factors that impact the ability to receive an RF signal are: -The receiving (Rx) station's (STA's) radio sensitivity rating -Free space path loss -The transmitting (Tx) STA's output power -The gain of the antennas on either end -Interference near the Tx or Rx STAs

@@ -1,0 +1,2 @@
+Bluetooth Device (BT)
+a device that is capable of short-range wireless communications using the Bluetooth system.

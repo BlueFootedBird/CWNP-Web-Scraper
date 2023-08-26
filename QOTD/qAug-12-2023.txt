@@ -1,0 +1,4 @@
+What is true about WPA in 802.11 wireless networks?
+a:WPA implements AES encryption in the same way that WEP does.|b:WPA is based on CCMP/AES and is non-deprecated in the 802.11-2016 standard.|c:When WPA is used, 802.11n and 802.11ac devices fall back to 54 Mbps as the highest data rate.|d:WPA is based on TKIP/RC4 and is non-deprecated in the 802.11-2016 standard.|x:I don't know
+c
+WPA is based on TKIP/RC4 and is deprecated in the 802.11-2016 standard. When used, the standard requires that 802.11n and 802.11ac devices not use the HT or VHT PHY format and they must, therefore, fall back to 54 Mbps as the highest data rate (OFDM and ERP).

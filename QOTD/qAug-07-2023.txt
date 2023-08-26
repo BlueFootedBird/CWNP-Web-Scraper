@@ -1,0 +1,4 @@
+What is the best type of antenna to use when wirelessly connecting two buildings on the same campus?
+a:Dish|b:Panel|c:Dipole|d:Patch|x:I don't know
+a
+Dish antennas are highly directional. This allows you to create point-to-point networks more securely while exposing them to fewer sources of interference.

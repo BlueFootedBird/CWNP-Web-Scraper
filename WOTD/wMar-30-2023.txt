@@ -1,0 +1,2 @@
+Non-HT frame (11n)
+a frame transmitted in a Clause 20. PHY PPDU with the TXVECTOR FORMAT parameter set to NON_HT and the CH_BANDWIDTH parameter set to NON_HT_CBW20.

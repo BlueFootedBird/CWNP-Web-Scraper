@@ -1,0 +1,4 @@
+Which one of the following best defines a sweep cycle in relation to a spectrum analyzer?
+a:The length of time it takes to walk through a building|b:The length of time between vacuuming the carpet|c:The length of time it takes to scan an RF band|d:The length of time it takes to gather all used data rates in a band|x:I don't know
+c
+The correct answer is The length of time it takes to scan an RF band. The sweep cycle is shorter with lower RBW settings and longer with higher resolution RBW settings.

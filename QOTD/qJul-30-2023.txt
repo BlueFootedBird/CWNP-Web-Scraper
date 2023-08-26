@@ -1,0 +1,4 @@
+What is a major reason why local regulatory agencies require notification of tower implementation above certain levels for Wi-Fi deployment?
+a:Air traffic|b:Signal propagation distance|c:Resident health issues|d:Worker safety issues|x:I don't know
+a
+Depending on the scenario, government permits may be required. For example, the FCC requires that you notify the FAA any time a tower will be more than 200 feet or 60.96 meters above ground level in the United States. Additionally, structures placed on top of existing buildings that cause the total height to exceed 200 feet will require the notification of the FAA. The proper forms and where they should be sent can be found in the Code of Federal Regulations, title 47, part 17. Simply search the web for “47 CFR Part 17” and you will find it.

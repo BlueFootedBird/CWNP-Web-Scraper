@@ -1,0 +1,4 @@
+What common credential types might you expect to see defined or required in a wireless security policy?
+a:PACs|b:Tokens|c:X.509 Certificates|d:Kerberos TGTs|e:LDAPs|f:WEP keys|x:I don't know
+a
+A credential provides a means of user or computer identification, and the solution used should be proportional to your security requirements based upon a risk assessment. Common credential types include username and password, certificates, privilege attribute certificates (PACs), biometrics, and tokens.LDAP is a standard credential access method. WEP keys are used to encrypt data or part of the shared-key authentication handshake.

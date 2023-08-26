@@ -1,0 +1,4 @@
+What significant difference exists between 802.11ad transmissions and 802.11ac transmissions, other than the frequency range and modulations techniques used?
+a:802.11ac devices have a larger transmission range|b:802.11ad devices have a larger transmission range|c:802.11ac devices have a shorter transmission range|d:None|x:I don't know
+a
+The higher the frequency used in RF transmissions the shorter the transmission range will be. Therefore, since 802.11ad uses 60 GHz and 802.11ac uses 5 GHz, 802.11ac has a larger transmission range.

@@ -1,0 +1,2 @@
+AKMP
+Authentication and Key Management Protocol; the mechanism which is used for authentication and key distribution for network devices. [____] is found in the PMKSA. When using IEEE 802.11i, the STA must complete the [____] and the 4-Way Handshake establishing the PTKs before the authenticator in the AP will allow frames to pass between the STA and the DS. Available protocols for [____] are EAP and PSK.

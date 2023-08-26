@@ -1,0 +1,2 @@
+Key management service
+a service to distribute and manage cryptographic keys within a robust security network (RSN).

@@ -1,0 +1,2 @@
+Direct link
+a bidirectional link from one non-access point (non-AP) quality of service (QoS) station (STA) to another non-AP QoS STA operating in the same infrastructure QoS basic service set (BSS) that does not pass through a QoS access point (AP). Once a [____] has been set up, all frames between the two non-AP QoS STAs are exchanged directly.

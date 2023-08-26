@@ -1,0 +1,4 @@
+ABC Company secures their network with WPA2-Personal authentication and AES-CCMP encryption. What part of the 802.11 frame is not protected from eavesdroppers by this type of security?
+a:All MSDU contents|b:All MPDU contents|c:All LSDU contents|d:All LPDU contents|x:I don't know
+b
+The MSDU is received from the LLC and is encrypted by the 802.11 processes. The MPDU includes the MAC headers, which are not encrypted. The LSDU and LPDU are protected because they ultimately become the MSDU.

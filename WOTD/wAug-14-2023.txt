@@ -1,0 +1,2 @@
+DBPSK
+Differential Binary Phase Shift Keying. See Modulation types.

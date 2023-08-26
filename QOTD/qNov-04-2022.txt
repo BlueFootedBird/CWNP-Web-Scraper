@@ -1,0 +1,4 @@
+What is the output of a link budget?
+a:System Cost (SC)|b:Signal-to-Noise-Ratio (SNR)|c:Total Cost of Ownership (TCO)|d:System Operating Margin (SOM)|x:I don't know
+d
+A link budget includes the transmit power, antenna gain, cable and connector losses, FSPL, and receiver sensitivity. The results of a link budget is an SOM.

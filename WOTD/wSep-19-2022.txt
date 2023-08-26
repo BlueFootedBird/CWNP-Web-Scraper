@@ -1,0 +1,2 @@
+PSK (WF)
+Pre-Shared Key; secret password on both sides of an encryption scheme for WPA or WPA2. See also Passphrase.

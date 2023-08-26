@@ -1,0 +1,2 @@
+File server
+a repository for files so that a local area network can share files, mail, and programs.

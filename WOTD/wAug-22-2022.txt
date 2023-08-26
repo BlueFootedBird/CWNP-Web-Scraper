@@ -1,0 +1,2 @@
+Association
+the service used to establish access point/station (AP/STA) mapping and enable STA invocation of the distribution system services (DSSs).

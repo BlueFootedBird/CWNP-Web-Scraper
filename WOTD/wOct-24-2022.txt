@@ -1,0 +1,2 @@
+GI
+Guard Interval; a quiet period between symbols that provides for the arrival of late symbols over long paths. The length of the guard interval is selected for the severity of the multipath environment.

@@ -1,0 +1,4 @@
+Why do clients take some time to roam from one AP to another even when the APs are part of the same Extended Service Set (ESS)?
+a:A required wait time of 500 ms is used when roaming|b:They must reassociate and authenticate properly to the new AP|c:The must reinitiate the 802.11 driver on each connection|d:The radio has to be turned off and back on to move to a different channel in the same frequency band|x:I don't know
+b
+Even when two APs are part of the same ESS, they are separate networks from a Basic Service Set (BSS) perspective. The clients are connected to one BSS and must move to another BSS to roam within an ESS. The client is fully associated with only on BSS at a time. Therefore, some time is required to move from one BSS to the next.

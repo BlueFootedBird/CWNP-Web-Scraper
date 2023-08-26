@@ -1,0 +1,2 @@
+PNC
+Piconet Coordinator; responsible for piconet management such as in coordinating beacons and timeslot reservations. (IEEE 802.15.3)

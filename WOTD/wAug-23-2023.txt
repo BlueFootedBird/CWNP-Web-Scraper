@@ -1,0 +1,2 @@
+NIC
+Network Interface Card; hardware which provides an interface to wired or wireless media. Every [____] has a unique 48-bit identifier known as MAC address. AKA: Network card or network adapter.

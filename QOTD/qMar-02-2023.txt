@@ -1,0 +1,4 @@
+What power metric is used to measure both transmit and receive signal strengths and allows for easier conceptualization of very low receive power levels?
+a:mW|b:W|c:dBm|d:dBi|x:I don't know
+c
+dBm is the power metric used on both transmit and receive ends. For example, 100 mW of transmit power is equal to 20 dBm and it is common to say that the received signal strength is at some dBm level as well. dBi is used to measure antenna gain.

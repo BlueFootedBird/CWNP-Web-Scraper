@@ -1,0 +1,4 @@
+What feature, if provided in a spectrum analyzer, would allow for a table listing the detected APs in the area scanned?
+a:Wi-Fi integration|b:RBW adjustment|c:Dwell time adjustment|d:Device identification|x:I don't know
+a
+The correct answer is Wi-Fi integration. For a spectrum analyzer to report on 802.11-related information, it must support integration with a Wi-Fi (WLAN) adapter. The Wi-Fi adapter will gather the 802.11 information and the spectrum adapter (or remote device) will gather the RF information.

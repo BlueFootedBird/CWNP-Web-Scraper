@@ -1,0 +1,2 @@
+FTTN (WMX)
+Fiber to the Node; the data transmission method where data at the PHY layer is transmitted to the common serving device (~500 meters from the end user) using fiber optic cables and from there onwards using traditional wiring.

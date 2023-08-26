@@ -1,0 +1,4 @@
+Which one of the following problems may require wired side analysis with a protocol analyzer to resolve the issue?
+a:DNS|b:High 802.11 CRC rates|c:WMM QoS issues|d:High 802.11 retry rates|x:I don't know
+a
+The correct answer is DNS. When a network-side service experience problems, this often requires the use of a wired protocol analyzer. DNS, DHCP, routing, wired QoS and switching are all potential areas for wired-side network analysis in relation to WLANs.

@@ -1,0 +1,4 @@
+What term is used by the IEEE 802.11-2007 standard for one or more interconnected Basic Service Sets connected by a distribution system?
+a:Enhanced Service Set|b:Distributed Service Set|c:Controller-based Service Set|d:Independent Service Set|e:Extended Service Set|f:Distribution System Medium|x:I don't know
+e
+The 802.11-2007 standard defines a Distribution System (DS) and an Extended Service Set (ESS) as follows:“3.40 distribution system (DS): A system used to interconnect a set of basic service sets (BSSs) and integrated local area networks (LANs) to create an extended service set (ESS).”“3.54 extended service set (ESS): A set of one or more interconnected basic service sets (BSSs) that appears as a single BSS to the logical link control (LLC) layer at any station (STA) associated with one of those BSSs.”

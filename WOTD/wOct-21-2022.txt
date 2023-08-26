@@ -1,0 +1,2 @@
+LDPC coding (11n)
+Low Density Parity Check coding; these codes are optionally used in the HT system as a high-performance error correcting code, instead of the convolutional code. LDPC coding provides a method of transmitting a message over a noisy transmission channel. While LDPC and other error correcting codes cannot guarantee perfect transmission, the probability of lost information can be made as small as desired. LDPC was the first code to allow data transmission rates close to the theoretical maximum, the Shannon Limit.

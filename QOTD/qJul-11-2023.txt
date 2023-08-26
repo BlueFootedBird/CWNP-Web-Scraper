@@ -1,0 +1,4 @@
+What are two common software Wireless LAN discovery utilities used for locating SSIDs, signal strength, channel use, and security?
+a:L0phtCrack (LC5)|b:NetStumbler|c:WinSniffer|d:Kismet|e:ShareEnum|x:I don't know
+b
+NetStumbler and Kismet are tools used to locate and interrogate wireless LANs. L0phtCrack (LC5) and WinSniffer are used as password auditing and recovery tools. ShareEnum is a tool for discovering network shares and the permissions applied to those shares.

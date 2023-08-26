@@ -1,0 +1,2 @@
+ACU (WF)
+Admission Control Unit; administers admission of the traffic stream (TS). The ACU ensures that all admitted streams have guaranteed access to the channel.

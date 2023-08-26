@@ -1,0 +1,4 @@
+When implementing a WLAN for corporate data access, you are planning for WPA2 implementation. What issue related to planning corporate data access are you considering?
+a:Ensure sufficient coverage|b:Ensure sufficient throughput|c:Ensure sufficient security|d:Ensure availability|x:I don't know
+c
+You must consider authentication, authorization, confidentiality and integrity. Authentication can be provided with 802.1X. Authorization can be implemented using VLANs and role-based access control. Confidentiality can be provided with CCMP/AES encryption. Finally, integrity can be provided with integrity checks.

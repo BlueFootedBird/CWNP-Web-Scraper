@@ -1,0 +1,2 @@
+Supplicant
+an entity at one end of a point-to-point LAN segment that is being authenticated by an Authenticator attached to the other end of that link. (IEEE 802.1X-2004)

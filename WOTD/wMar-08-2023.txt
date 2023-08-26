@@ -1,0 +1,2 @@
+Logical Channel (BT)
+identical to an L2CAP channel but deprecated due to an alternative meaning in Bluetooth 1.1.

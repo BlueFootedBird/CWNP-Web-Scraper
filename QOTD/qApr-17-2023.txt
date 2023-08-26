@@ -1,0 +1,4 @@
+You are passing random UDP data across the WLAN and measuring results with iPerf. What kind of test is most likely being performed?
+a:Interference location|b:Signal strength monitoring|c:Throughput test|d:Black box testing|x:I don't know
+c
+This action describes a throughput test utility. iPerf is an open source throughput testing application.

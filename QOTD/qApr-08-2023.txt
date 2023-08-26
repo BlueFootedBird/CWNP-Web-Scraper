@@ -1,0 +1,4 @@
+Given:  The phases of security policy development include:1.  Communication2.  Response and enforcement3.  Define and document4.  Monitoring and auditing5.  Management buy in6.  Revise and fine tuneChoose the correct order of steps for security policy development phases, from first to last.
+a:3, 5, 1, 4, 2, 6|b:5, 2, 3, 6, 4, 1|c:3, 4, 2, 1, 5, 6|d:1, 2, 4, 5, 6, 3|x:I don't know
+a
+The security policy needs to be defined and documented before any other steps can take place. Secondly, management needs to support the security policy. Next, the policy must be communicated to the organization. After the policy has been defined, has the support of management, and has been communicated it must be monitored and audited. The results of monitoring and auditing will dictate the response and enforcement. Lastly the policy must be revised and fine tuned. Refer to the exam objectives for this list of steps.

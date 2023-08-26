@@ -1,0 +1,2 @@
+PN
+Pseudonoise; a code sequence that has a spectrum similar to a random sequence of bits (i.e., noise) but is deterministically generated. The most commonly used sequences in direct-sequence spread spectrum systems are maximal length sequences, Gold codes, Kasami codes, and Barker codes.

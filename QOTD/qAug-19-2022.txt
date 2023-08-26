@@ -1,0 +1,4 @@
+According to the CWNP troubleshooting methodology, what comes after you narrow to the most likely cause?
+a:Document the results|b:Verify the solution|c:Discover the scale of the problem|d:Create a plan of action|x:I don't know
+d
+The correct answer is Create a plan of action. The fifth step in the CWNP methodology is to create a plan of action or escalate the problem. The CWNP troubleshooting methodology recommends the following steps: 1) Identify the problem 2) Discover the scale of the problem 3) Define possible causes of the problem 4) Narrow to the most likely cause 5) Create a plan of action or escalate the problem 6) Perform corrective actions 7) Verify the solution 8) Document the results This recommended methodology is based on shared recommendations among major WLAN vendors and feedback from the CWNE community.

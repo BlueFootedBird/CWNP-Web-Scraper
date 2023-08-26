@@ -1,0 +1,2 @@
+Site survey
+the process of evaluating RF behavior in an environment and determining the best way to implement a WLAN based on this information. [____]s can be manual, predictive, virtual, or RF (the actual environment is surveyed).

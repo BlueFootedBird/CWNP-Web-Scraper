@@ -1,0 +1,2 @@
+RP-TNC
+Reverse Polarity-Threaded Naval Connector; a connector type unique to Cisco Aironet radios and antennas. Part 15.203 of the FCC rules covering spread spectrum devices limits the types of antennas that may be used with transmission equipment. In compliance with this rule, Cisco Aironet, like all other wireless LAN providers, equips its radios and antennas with a unique connector to prevent attachment of non-approved antennas to radios, however, these ?unique? connectors are no longer unique since is it easy to convert from one type to another using adapters.

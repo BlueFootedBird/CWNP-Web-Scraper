@@ -1,0 +1,2 @@
+DFT (11n)
+Discrete Fourier Transform; a mathematical technique for converting data between time, space, and frequency domain.

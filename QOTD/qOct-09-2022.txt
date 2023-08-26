@@ -1,0 +1,4 @@
+What is a relative unit of measurement that allows comparison of the amplitude between two signals?
+a:dB|b:RSSI|c:dBm|d:mW|x:I don't know
+a
+The decibel (dB) is a relative unit of measurement. For example, an antenna may add 6 dB of gain, but without knowing the input power (that to which the antenna gain is relative) you have no way to determine the actual power (absolute power) of the signal leaving the antenna. dBm and mW are absolute power metrics with dBm being logarithmic and mW being linear. RSSI is an arbitrary value defined in the 802.11 standard for received signal strength reporting.

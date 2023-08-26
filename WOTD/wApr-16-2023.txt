@@ -1,0 +1,2 @@
+Adjacent channel
+See Channel comparisons for a description of adjacent versus non-adjacent and overlapping channels. See also ACI ([____] Interference).

@@ -1,0 +1,2 @@
+HC (WF)
+Hybrid Coordinator; a type of coordinator, defined as part of the quality of service (QoS) facility, that implements the frame exchange sequences and medium access control (MAC) service data unit (MSDU) handling rules defined by the hybrid coordination function (HCF). The HC operates during both the contention period (CP) and contention-free period (CFP). The HC performs bandwidth management including the allocation of transmission opportunities (TXOPs) to QoS stations (STAs). The HC is collocated with a QoS access point (AP).

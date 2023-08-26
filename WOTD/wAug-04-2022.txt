@@ -1,0 +1,2 @@
+DSCP
+Differentiated Services Code Point; an integer value encoded in the DS field of the IP header which acts as traffic marking for QoS purposes.

@@ -1,0 +1,2 @@
+Downtilt
+the main lobe of the antenna is physically pointed down a few degrees instead of pointing out perpendicular to the antenna housing. This allows a higher mount point while the antenna is able to serve the same or additional ground coverage.

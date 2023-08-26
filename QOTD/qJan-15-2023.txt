@@ -1,0 +1,4 @@
+What statements about ERP slot times are true?
+a:When the ERP-OFDM modulation is in use, the SIFS and slot time are always equal.|b:All interframe spaces are calculated based on the slot time value.|c:The optional 9 µs slot time may not be used if the BSS has one or more associated non-ERP stations.|d:When the ERP DSSS-OFDM modulation is in use, all stations may use the 9 µs slot time.|x:I don't know
+c
+802.11-2007, Section 19.4.4-19.4.6

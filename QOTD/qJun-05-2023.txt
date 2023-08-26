@@ -1,0 +1,4 @@
+Which one of these is not a good use of a spectrum analyzer?
+a:Locating sources of RF interference|b:Determining retry rates on the WLAN|c:Evaluating RF air time utilization in a channel|d:Viewing historical RF activity in a channel|x:I don't know
+b
+Spectrum analyzers are mostly used for raw RF analysis. Therefore, locating interference, viewing channel RF utilization and historical RF activity are all practical applications. In most cases, a protocol analyzer is better for determining retry rates on the WLAN.

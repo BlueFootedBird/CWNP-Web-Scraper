@@ -1,0 +1,2 @@
+PP A-MSDU (11n)
+Payload protected A-MSDU; an A-MSDU that is CCMP protected but does not include the A-MSDU Present field (bit 7 of the QoS control field) in the construction of the AAD.

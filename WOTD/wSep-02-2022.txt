@@ -1,0 +1,2 @@
+WWAN
+Wireless Wide Area Network; a [____] differs from a WLAN because it uses cellular network technologies such as WIMAX, UMTS, GPRS, CDMA2000, GSM, CDPD, Mobitex, HSDPA or 3G to transfer data. It can use also LMDS and Wi-Fi to connect to the Internet. There are two basic means that a mobile network may use to transfer data: Packet-switched Data Networks (GPRS/CDPD) and circuit-switched dial-up connections.

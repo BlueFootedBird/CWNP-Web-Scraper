@@ -1,0 +1,4 @@
+What happens if an 802.11n client uses WPA and TKIP as a security solution?
+a:802.11n data rates will be disabled|b:The clients will not be impacted in any way|c:The clients won't be able to authenticate|d:The AP will simply function as normal|x:I don't know
+a
+According to the standard, if WPA/TKIP is used, 802.11n data rates cannot be used.

@@ -1,0 +1,2 @@
+Return loss
+the ratio of the power reflected from imperfections in an electrical or optical communications link. Excessive [____], typically expressed in decibels, is usually caused due to an impedance mismatch between connecting devices.

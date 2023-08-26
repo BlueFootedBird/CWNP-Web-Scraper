@@ -1,0 +1,4 @@
+How does implementing the TKIP cipher suite improve upon the security of wireless networks currently using WEP?
+a:Offers per-user, per-frame encryption keying|b:Mitigates replay attacks using a per-frame sequence counter|c:Increases the Initialization Vector to 64 bits|d:Includes a new integrity checking process|e:Requires mutual authentication|f:Replaces the RC4 stream cipher with a stronger block cipher|x:I don't know
+a
+As a replacement for WEP, TKIP (which is used in the WPA specification) is a stopgap solution for securing wireless networks that are not capable of supporting AES-CCMP encryption required by the WPA2 specification. It improves upon WEP by offering per-user, per-frame encryption keying. Additionally, TKIP has an improved integrity check algorithm called Michael. The previous ICV (called CRC-32) was extremely weak. TKIP uses the same RC4 encryption cipher used in WEP and does not require mutual authentication.

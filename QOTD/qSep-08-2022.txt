@@ -1,0 +1,4 @@
+What should be done as a security measure to prevent hackers from gaining management access to wireless LAN infrastructure devices when implementing a new wireless setup?
+a:Configure all infrastructure devices to the same password of 'admin'|b:Set all access points to channels 1, 6, and 11|c:Reconfigure manufacturer's default settings|d:Use the lowest power level setting available on all access points|x:I don't know
+c
+Numerous websites list default administrative user names and passwords for all manufacturer's infrastructure devices. Without changing the default settings, an attacker will have no difficulty logging in and taking control of the infrastructure device.

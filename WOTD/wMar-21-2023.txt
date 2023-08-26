@@ -1,0 +1,2 @@
+Sounding (11n)
+the use of preamble training fields to measure the channel for purposes other than demodulation of the Data portion of the PPDU containing the training fields. These uses include calculation of transmit steering, calculation of recommended MCS, and calculation of calibration parameters.

@@ -1,0 +1,4 @@
+Which Wi-Fi device can only connect in the 5 GHz band?
+a:A laptop using an 802.11b/g/n radio|b:A laptop using an 802.11ac radio|c:A laptop using an 802.11a/b/g/n/ radio|d:A laptop using an 802.11a/b/g/n/ac radio|x:I don't know
+b
+802.11ac only operates in the 5 GHz band. Any device using only an 802.11ac radio will only be able to connect in the 5 GHz band.

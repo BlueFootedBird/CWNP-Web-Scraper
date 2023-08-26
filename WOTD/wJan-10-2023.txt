@@ -1,0 +1,2 @@
+VPN
+Virtual Private Network; a security measure using encryption and sometimes digital signatures to protect data as it leaves one network and goes to another over the Internet. Two primary types of [____] are IPSec and L2TP.

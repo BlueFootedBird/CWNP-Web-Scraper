@@ -1,0 +1,2 @@
+PLME
+Physical Layer Management Entity; the entity which is responsible for PHY operational characteristics and parameters such as channel selection and the PHY MIB.

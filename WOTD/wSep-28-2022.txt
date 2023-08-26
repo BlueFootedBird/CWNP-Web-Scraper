@@ -1,0 +1,2 @@
+Adjacent Non-overlapping Channel
+See Channel comparisons for a description of adjacent versus non-adjacent and overlapping channels.

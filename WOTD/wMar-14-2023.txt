@@ -1,0 +1,2 @@
+PMKID
+Pairwise Master Key Identifier; a 16 byte value to identify the cached PMK.

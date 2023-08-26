@@ -1,0 +1,2 @@
+Phased coexistence operation (PCO) (11n)
+a BSS mode with alternating 20 MHz and 40 MHz phases controlled by an AP.

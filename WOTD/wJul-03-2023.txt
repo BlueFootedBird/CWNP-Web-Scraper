@@ -1,0 +1,2 @@
+PPP
+Point-to-Point Protocol; originally designed for use in dial-up networks.

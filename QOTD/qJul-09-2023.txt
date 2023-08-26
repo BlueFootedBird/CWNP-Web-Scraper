@@ -1,0 +1,4 @@
+What common building component is likely to cause coverage holes in a WLAN deployment if not considered and resolved in the WLAN design?
+a:Windows|b:Cubicle partitions|c:Elevators|d:Tile floors|x:I don't know
+c
+Elevators, due to their shaft designs and the elevator construction materials, can cause dead spots when an AP is located on one side of the elevator and RF coverage is desired on the other side. The problem is often resolved by ensuring that APs are placed on both sides of the elevators on each floor.

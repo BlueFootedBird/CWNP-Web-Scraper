@@ -1,0 +1,2 @@
+SLRC
+Station Long Retry Count; incremented when any long retry count (LRC) associated with any MPDU of type Data is incremented.

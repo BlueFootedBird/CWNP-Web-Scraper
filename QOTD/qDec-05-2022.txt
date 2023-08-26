@@ -1,0 +1,4 @@
+Which of the following services does Internet Key Exchange (IKE) provide for IPSec?
+a:Establishment of keys for encryption algorithms|b:Updates access control lists within IPSec VPN technologies|c:Negotiation of IKE and IPSec security associations|d:Controls the pre-shared secret integrity for the message digest calculation|e:Allows dynamic authentication of peers|x:I don't know
+a
+The Internet Key Exchange (IKE) protocol is a key management protocol standard which is used in conjunction with the IPSec standard. IPSec is an IP security feature that provides robust authentication and encryption of IP packets.IPSec can be configured without IKE, but IKE enhances IPSec by providing additional features, flexibility, and ease of configuration for the IPSec standard.

@@ -1,0 +1,2 @@
+MSB
+Most Significant Bit; the bit position in a binary number having the greatest value. The [____] is sometimes referred to as the left-most bit, due to the convention in positional notation of writing more significant digits further to the left.

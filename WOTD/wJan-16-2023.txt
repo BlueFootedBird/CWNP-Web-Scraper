@@ -1,0 +1,2 @@
+LRC
+Long Retry Count; the counter which tracks number of retries for frames larger than the configured RTS/CTS threshold.

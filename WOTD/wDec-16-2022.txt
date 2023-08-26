@@ -1,0 +1,2 @@
+Front-to-back ratio (F/B)
+a figure of merit that attempts to describe the level of radiation from the back of a directional antenna. Basically, the front-to-back ratio is the ratio of the peak gain in the forward direction to the gain 180-degrees behind the peak. On a dB scale, the front-to-back ratio is the difference between the peak gain in the forward direction and the gain 180-degrees behind the peak.

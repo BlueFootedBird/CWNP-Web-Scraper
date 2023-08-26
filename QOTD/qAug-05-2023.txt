@@ -1,0 +1,4 @@
+VoIP is heavily used in your organization. You must troubleshoot and repair problems with dropped calls on the WLAN. What is a common solution to dropped VoIP WLAN calls?
+a:OKC|b:Enabling low data rates|c:WPA2-Enterprise|d:802.1X/EAP using EAP-TTL|x:I don't know
+a
+The correct answer is OKC. Opportunistic Key Caching (OKC) is used to provide fast and secure roaming. A common problem causing dropped called is slow roaming. Therefore, fast roaming solutions, such as OKC, 802.11r and other solutions are of key importance.

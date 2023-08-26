@@ -1,0 +1,4 @@
+When securing a wireless Ad Hoc network, which options are practical security mechanisms?
+a:WEP|b:WPA-Enterprise|c:IPSec/ESP|d:PPTP/MPPE VPN|e:SSH2 VPN|f:WPA2-Personal|x:I don't know
+a
+Static WEP keys are the most simple, cost-effective method of securing Ad Hoc (peer-to-peer) wireless networks, but they are also the most vulnerable to attack. Since no authentication server is available, 802.1X/EAP solutions, such as WPA-Enterprise, are not configurable for Ad Hoc networks. PPTP and SSH2 VPN solutions require a server piece, whereas IPSec can work in a peer-to-peer environment. ESP is the IPSec sub-protocol that encapsulates and encrypts the data. WPA2-Personal uses a simple pass-phrase for security, and in that capacity is configurable in much the same way as WEP without the weak security.

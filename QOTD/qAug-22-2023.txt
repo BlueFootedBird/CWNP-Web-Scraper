@@ -1,0 +1,4 @@
+You are implementing a WLAN that requires roaming for some client devices. What kind of roaming should be implemented to ensure IP connections are not broken?
+a:Layer 2 roaming|b:Layer 3 roaming|c:Layer 4 roaming|d:No roaming|x:I don't know
+a
+Layer 2 roaming is acceptable for most applications as it does not break the network connections of higher layers. Layer 3 roaming may cause many applications to fail or require a reset because it changes the IP address and results in lost connections for higher layers.
