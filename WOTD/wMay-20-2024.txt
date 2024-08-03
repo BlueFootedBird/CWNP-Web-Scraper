@@ -1,0 +1,2 @@
+SMKSA
+Station-to-Station Link (STSL) Master Key Security Association; the context resulting from a successful STSL Master Key (SMK) Handshake.

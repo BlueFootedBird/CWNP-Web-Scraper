@@ -1,0 +1,2 @@
+STBC DTIM (11n)
+Space-Time Block Coded Delivery Traffic Indication Map; an STBC beacon transmission that is a DTIM Beacon.

@@ -1,0 +1,2 @@
+UEQM (11n)
+Unequal Modulation; the ability to modulate different spatial streams using different modulation methods

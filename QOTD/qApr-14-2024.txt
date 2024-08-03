@@ -1,0 +1,4 @@
+Which ports are typically used for RADIUS servers?
+a:TCP 179|b:UDP 1812 and 1813|c:TCP 1812 and 1813|d:TCP 1645 and 1646|x:I don't know
+b
+Most modern RADIUS servers use UDP ports 1812 and 1813. Some older servers may use UDP ports 1645 and 1646, but they do not typically use TCP ports.

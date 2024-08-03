@@ -1,0 +1,2 @@
+Multipath
+that which occurs when multiple copies of the original signal arrive at the receiver close to the same time after experiencing reflection, diffraction, scattering, and other RF behaviors.

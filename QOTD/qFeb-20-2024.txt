@@ -1,0 +1,4 @@
+Why is it not recommended to use a spectrum analyzer to identify radar and determine if DFS channels should be used in a channel plan?
+a:Radar has a low amplitude and it can be hard to identify|b:Radar looks just like Bluetooth|c:Radar looks just like an older DSSS channel mask|d:Spectrum analyzers do not detect radar signals|x:I don't know
+a
+Radar signals have a low amplitude in the space, however, your WLAN could interfere with them. Therefore your APs must detect radar and move away from DFS channels if radar activity is seen. The best way to detect radar is to enable APs in the area and then look at the logs to see if any DFS events have happened.

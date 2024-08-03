@@ -1,0 +1,2 @@
+Link budget
+the signal strength needed to provide stable and consistent wireless communications.

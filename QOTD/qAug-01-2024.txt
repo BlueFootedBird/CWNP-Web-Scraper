@@ -1,0 +1,4 @@
+You wish to implement a spectrum analysis solution that provides real-time web-based viewing of spectrum activity within your environment. What kind of solution will work best for this scenario?
+a:USB-based|b:AP-based|c:Cardbus-based|d:Desktop|x:I don't know
+b
+The correct answer is AP-based. Most laptop-based spectrum analyzers (USB and cardbus) do not provide web-based views of the spectrum data; however, AP- or infrastructure-based spectrum analyzers do.

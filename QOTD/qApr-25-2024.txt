@@ -1,0 +1,4 @@
+You want to capture the traffic passing through a specific switch port that connects to another switch. Which one of the following options would capture all such traffic?
+a:Install Wireshark on the client|b:Install Wireshark on the server|c:Hubbing out|d:Internal 802.11 frame capture|x:I don't know
+c
+The correct answer is hubbing out. Hubbing out is the process that involves connecting an Ethernet hub to a switch port and then connecting both the original switch port cable and an analyzer to the hub. Such a configuration allows for the capture of all frames, but may introduce performance loss.

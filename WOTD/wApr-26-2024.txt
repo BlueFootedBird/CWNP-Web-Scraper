@@ -1,0 +1,2 @@
+Paired device (BT)
+a Bluetooth device with which a link key has been exchanged (either before connection establishment was requested or during connecting phase).

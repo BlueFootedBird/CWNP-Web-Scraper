@@ -1,0 +1,4 @@
+What frame type should always be encrypted for secure wireless transmissions?
+a:Management|b:Data|c:Control|d:Beacon|x:I don't know
+b
+Management and control frames are usually not encrypted. Beacon frames are management frames. Data frames should always be encrypted for secure wireless communications.

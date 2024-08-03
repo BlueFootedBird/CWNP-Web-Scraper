@@ -1,0 +1,2 @@
+DL-MAP (WMX)
+Downlink Media Access Protocol; a type of MAC message defined by IEEE 802.16e for the burst start times by a subscriber station on downlink. Provides sub-channel allocation and other control information for the DL sub-frames.

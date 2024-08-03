@@ -1,0 +1,4 @@
+Loss is added to a transmission by all of the following things except which one?
+a:An Attenuator|b:RF Cables|c:An Antenna|d:A Lightning Arrestor|x:I don't know
+c
+An antenna is a passive amplifier. Therefore, an antenna will add gain to a transmission by increasing its amplitude. All of the other components add loss.

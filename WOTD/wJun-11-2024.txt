@@ -1,0 +1,2 @@
+Coverage area (BT)
+the area where two Bluetooth devices can exchange messages with acceptable quality and performance.

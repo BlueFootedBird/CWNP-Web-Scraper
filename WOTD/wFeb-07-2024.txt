@@ -1,0 +1,2 @@
+L-SIG (11n)
+Non-HT Signal field; used to transfer rate and length information. The L-SIG consists of one OFDM symbol assigned to all 52 subcarriers. This symbol is BPSK modulated at 6 Mbps and is encoded at a one-half rate.

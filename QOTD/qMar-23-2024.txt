@@ -1,0 +1,4 @@
+In an IEEE 802.11 RSN-enabled network, which key is used to derive all other keys used in the authentication process?
+a:Pairwise Master Key (PMK)|b:Group Master Key (GMK)|c:Group Temporal Key (GTK)|d:Pairwise Transient Key (PTK)|e:Advanced Encryption Standard Key (AES)|x:I don't know
+a
+A Pairwise Master Key (PMK) is the highest order key used within the 802.11 standard. The PMK may be derived from a Master Session Key exported by an Extensible Authentication Protocol (EAP) session or may be obtained directly from a Preshared key (PSK).

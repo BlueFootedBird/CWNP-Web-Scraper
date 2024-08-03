@@ -1,0 +1,2 @@
+GUI
+Graphical User Interface; a type of user interface which offers graphical icons and visual indicators as opposed to text-based interfaces, typed command labels or text navigation.

@@ -1,0 +1,4 @@
+In a WMM-capable BSS, what access category contention parameters are used for VoWiFi data frames transmitted by non-QoS STAs?
+a:AC_VI|b:AC_VO|c:AC_BK|d:AC_BE|x:I don't know
+d
+In QoS networks, non-QoS stations are treated with best effort queuing, prioritizing them above the background queue, but below both voice and video priorities.

@@ -1,0 +1,4 @@
+What acronym is used to define everyday devices equipped with computing components used to connect wirelessly to the Internet?
+a:MDM|b:IoT|c:PPTP|d:VPN|x:I don't know
+b
+The Internet of Things (IoT) is the phrase and acronym used to define this.

@@ -1,0 +1,2 @@
+GMH (WMX)
+Generic MAC header; fixed format MAC header defined in IEEE 802.16e which provides details of the MPDU, such as connection ID, Length, CRC, sub headers, etc.

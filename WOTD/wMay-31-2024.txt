@@ -1,0 +1,2 @@
+RSSI
+Received Signal Strength Indicator; a mechanism by which RF energy is to be measured by the circuitry on a wireless NIC. This numeric value is an integer with an allowable range of 0-255 (a 1-byte value). [____] is an indication of the power level being received by the antenna. Generally, the higher the [____] level, the stronger the signal.

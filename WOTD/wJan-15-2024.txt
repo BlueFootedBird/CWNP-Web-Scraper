@@ -1,0 +1,2 @@
+Backoff time
+the random length of time that a station waits before sending a packet on the LAN. [____] is a multiple of slot time, so a decrease in slot time ultimately decreases the [____], which increases throughput.

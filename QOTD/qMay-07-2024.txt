@@ -1,0 +1,4 @@
+What multi-antenna technology used at the transmitter to improve the signal received at the receiver was first introduced in 802.11n and standardized on a single option in 802.11ac?
+a:Transmit beamforming|b:MRC|c:STBC|d:Diversity|x:I don't know
+a
+Transmit beamforming (also called TxBF) was introduced in the 802.11n standard, but narrowed to one method (explicit beamforming) in 802.11ac. It uses manipulated transmissions out of multiple antennas to cause signal upfade at the receiver for improved received signal strength.

@@ -1,0 +1,4 @@
+What is the maximum channel width in MHz supported by 802.11ac?
+a:20|b:40|c:80|d:160|x:I don't know
+d
+802.11ac can support 160 MHz channel widths, though it is not recommended for use due to limited frequency availability.

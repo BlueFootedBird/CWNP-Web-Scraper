@@ -1,0 +1,2 @@
+Cell
+the area of radio range or coverage in which the wireless devices can communicate with the base station. The size of the [____] depends upon the speed of the transmission, the type of antenna used, and the physical environment, as well as other factors.

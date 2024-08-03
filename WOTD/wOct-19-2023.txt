@@ -1,0 +1,2 @@
+Watt
+a basic unit of power equal to one joule per second. Named after James [____], an eighteenth-century Scottish inventor. One [____] is equal to one ampere of current flowing at one volt. AKA: W.

@@ -1,0 +1,2 @@
+PHYCS
+PHY carrier sense; a method of detecting the presence of signal activity on the physical media.

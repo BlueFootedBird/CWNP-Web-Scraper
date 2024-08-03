@@ -1,0 +1,4 @@
+What term describes a decrease in the amplitude of an RF signal?
+a:Inductance|b:Induced Reactance|c:Attenuation|d:Differential Variance|e:Scattering|f:Multipath|x:I don't know
+c
+Attenuation means to reduce in force, amount, degree, or intensity. Attenuation of an RF signal is caused when the RF signal attempts to pass through a device that absorbs or scatters some of its power. Cables and attenuators can attenuate the power of an RF signal prior to being transmitted by an antenna. When RF signals pass through the atmosphere, a certain amount of the RF signal is attenuated. Rainfall can also cause attenuation of an RF signal. Higher frequencies are affected more by rainfall than lower frequencies.

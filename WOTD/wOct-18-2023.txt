@@ -1,0 +1,2 @@
+IEEE P802.11n
+ratification expected late in 2008 or early 2009; defines modifications to the IEEE 802.11 physical and media access control layers that will allow for much higher throughputs and a maximum throughput of at least 100 Mbps. This is currently being accomplished with the use of MIMO (multiple-input-multiple-output) technology in conjunction with OFDM technology.

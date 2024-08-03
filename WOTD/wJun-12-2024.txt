@@ -1,0 +1,2 @@
+Beamforming (11n)
+a spatial filtering mechanism used at a transmitter to improve the received signal power or signal-to-noise ratio at an intended receiver. AKA: Beamsteering.

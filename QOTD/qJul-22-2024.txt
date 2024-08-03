@@ -1,0 +1,4 @@
+What feature in a WPA-Enterprise network mitigates wireless replay attacks?
+a:MIC-MAC key hashing|b:RADIUS replay mitigation|c:Frame sequence numbers|d:Anti-bitflip hashed code keying|e:Frame extension bit ordering|f:EAP authentication|x:I don't know
+c
+By numbering frames, TKIP (used as the security protocol in WPA networks) can see when a frame is inserted into the data stream out of sequence or when a series of frames are replayed on the medium. TKIP designates out of sequence or replayed frames as invalid.

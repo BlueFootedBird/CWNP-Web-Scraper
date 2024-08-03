@@ -1,0 +1,2 @@
+SNonce
+Supplicant Nonce; a random or pseudo-random value contributed by the Supplicant. Its value is taken when a PTK is instantiated and is sent to the PTK Authenticator. See also Nonce.

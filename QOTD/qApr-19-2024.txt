@@ -1,0 +1,4 @@
+After reviewing the packet capture in the included graphic, what do the EAPOL-Key frames indicate?
+a:An RSN association|b:A Pre-shared key authentication 4-way handshake|c:A Transitional Secure Network association|d:The client and server are using 802.1X/EAP-TLS|x:I don't know
+a
+In the included graphic, you can see 4 EAPOL-Key frames in a 4-Way Handshake (each acknowledged.) This is an indication of an RSNA (Robust Secure Network Association.) Seeing only two acknowledged EAPOL-Key frames would typically indicate a pre-RSNA or TSN (Transitional Secure Network) network using dynamic WEP.

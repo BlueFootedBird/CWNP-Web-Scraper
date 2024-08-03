@@ -1,0 +1,4 @@
+Your facility has 10 access points currently installed, and you have implemented 802.1X/LEAP with TKIP as an authentication and encryption solution.  Your network prevents all of the following attacks, except:
+a:Man-in-the-middle attacks|b:WEP cracking attacks|c:Session hijacking attacks|d:Password dictionary attacks|x:I don't know
+d
+Since LEAP is based on password authentication and sends the username across the wireless segment in clear text, it is subject to dictionary attacks against the password.

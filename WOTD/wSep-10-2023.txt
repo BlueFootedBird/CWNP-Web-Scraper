@@ -1,0 +1,2 @@
+DT (BT)
+Data Terminal; a device which controls the inflow and outflow of data.

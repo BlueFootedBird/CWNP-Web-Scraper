@@ -1,0 +1,2 @@
+ACL (BT)
+Asynchronous Connection-Less; used primarily to send data. Bluetooth devices communicating using ACL must wait their turn before they can transmit data.

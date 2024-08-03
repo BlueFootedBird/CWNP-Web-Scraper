@@ -1,0 +1,2 @@
+Trigger-enabled access category (AC)
+a non-access point (non-AP) quality of service (QoS) station (STA) AC where frames of subtype QoS Data and QoS Null from the non-AP STA that map to the AC trigger an unscheduled service period (SP) if one is not in progress. See also AC.

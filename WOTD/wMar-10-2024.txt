@@ -1,0 +1,2 @@
+Diffraction
+the bending of an RF signal around an obstacle that often results in a redirection of the signal?s main path and may result in RF shadow

@@ -1,0 +1,2 @@
+IEEE 802.15.3
+a PHY and MAC standard for high-rate (1100 to 1055 Mb/s) wireless personal area networks (WPAN) employing ultrawideband (UWB) wireless solutions.

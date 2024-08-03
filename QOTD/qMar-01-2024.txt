@@ -1,0 +1,4 @@
+What method uses multiple senders, receivers and streams to turn multipath propagation into a positive phenomenon, thus improving the speed in use by STAs and APs?
+a:SISO|b:MIMO|c:Diversity|d:SIMO|x:I don't know
+b
+Multiple Input/Multiple Output (MIMO) uses multiple transmitters and receivers (radio chains) to send and receive multiple streams of data concurrently, thus increasing data rates.

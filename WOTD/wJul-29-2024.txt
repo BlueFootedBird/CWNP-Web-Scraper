@@ -1,0 +1,2 @@
+HCCA (WF)
+Hybrid Coordination Function (HCF) Controlled Channel Access; the channel access mechanism utilized by the hybrid coordinator (HC) to coordinate contention-free media use by quality of service (QoS) stations (STAs) for downlink unicast, uplink, and direct-link transmissions.

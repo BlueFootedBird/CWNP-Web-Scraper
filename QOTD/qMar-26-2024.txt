@@ -1,0 +1,4 @@
+You are performing a site survey and have determined that the noise floor is approximately -94 dBm. The WLAN specification states that a minimum RSSI of -67 dBm should be available in all areas. What application is most likely to make this demand?
+a:On-demand-video|b:VoIP|c:FTP|d:HTTP|e:SFTP|x:I don't know
+b
+Most VoIP vendors recommend a -67 dBm signal everywhere that VoIP should be used. This provides sufficient SNR, with a standard noise floor, for effective communications.

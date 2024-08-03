@@ -1,0 +1,4 @@
+Your company has offices in the airport terminal at JFK. You would like to use as many channels as possible in 5Ghz to cover all the space with non-overlapping channels. Which frequencies should you avoid to prevent disruption in service?
+a:Channels 36-42|b:DFS channels|c:UNII-1 channels|d:UNII-5 channels|x:I don't know
+b
+DFS channels are used by TDWR and other radar, which are in use in or near airports.

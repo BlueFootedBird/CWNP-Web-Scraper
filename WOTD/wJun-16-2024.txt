@@ -1,0 +1,2 @@
+PSMP burst (11n)
+a series of one or more PSMP sequences, separated by SIFS.

@@ -1,0 +1,2 @@
+IEEE P802.11p
+ratification expected in 2009; specifies support for the licensed Intelligent Transportation Systems (ITS) band of 5.9 GHz and other 5 GHz bands, specifically 5.850 GHz to 5.925 GHz in North America, for data exchanges between high-speed vehicles. Data communications occur at speeds up to 200 km/h and distances of up to 1000 meters.

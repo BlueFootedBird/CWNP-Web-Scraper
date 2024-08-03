@@ -1,0 +1,2 @@
+IEEE 802.1X
+the IEEE standard for port-based network access control; 802.1X provides an authentication framework where the user is authenticated by a central authority and authenticates that central authority. Authentication is done using an Extensible Authentication Protocol (EAP) type, such as LEAP, PEAP, or EAP-TLS. When used with WLANs, 802.1X provides not only strong and mutual authentication but also derivation of a dynamic encryption key.

@@ -1,0 +1,2 @@
+IEEE P802.11u
+ratification expected in 2009; provides amendments to the IEEE 802.11 PHY and MAC layers that enable interworking with other networks. May provide for handoffs between WiMAX and WLANs or between WLANs and cellular networks.

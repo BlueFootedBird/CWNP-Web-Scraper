@@ -1,0 +1,2 @@
+Decapsulate
+to recover an unprotected frame from a protected one.

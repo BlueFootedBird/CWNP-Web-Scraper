@@ -1,0 +1,2 @@
+BSSID
+Basic Service Set Identification; the 48-bit globally unique identifier for a basic service set (BSS). In infrastructure WLANs, the Ethernet MAC address of the AP is used as the [____]. In ad hoc WLANs, the first station generates a random 48-bit value which is used as the [____].

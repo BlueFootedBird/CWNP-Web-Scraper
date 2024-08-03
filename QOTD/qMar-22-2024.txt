@@ -1,0 +1,4 @@
+It is important to implement effective security solutions based on long-established best practices. One best practice is ensuring CIA in a system. What does the security acronym CIA reference? (Choose three.)
+a:Covert|b:Confidentiality|c:Integrity|d:Authentication|e:Availability|x:I don't know
+b
+A WLAN installation should be designed with a secure foundation that provides Confidentiality, Integrity, and Availability. Remember these functional pieces by the acronym CIA. Confidentiality ensures the privacy of communications. Integrity ensures that the communication received is the communication sent. Availability ensures that the system functions and is there when the user needs it.

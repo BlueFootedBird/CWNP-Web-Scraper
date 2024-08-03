@@ -1,0 +1,4 @@
+Additional access points have been deployed to support the growing number of client devices on the network. Over the course of the first few weeks an increasing number of people report not being able to access network resources or the Internet when connected to any of the access points, both new and old. What is the most likely cause of this problem?
+a:The RADIUS server is offline|b:The DNS server is offline|c:The DHCP server is out of addresses|d:The new access points cause interference|x:I don't know
+c
+With increased device use, both company owned and BYOD, more access points are being deployed to provide access to the same number of people. However, it is a very common thing for administrators to forget to have the DHCP scope increased in size, adding more IP addresses for client use. The stations can connect to the APs at Layer 2 but can not connect to any network resources or the Internet due to their lack of IP addressing.

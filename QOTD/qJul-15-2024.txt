@@ -1,0 +1,5 @@
+Given: Your WLAN consists of a "split MAC" centralized architecture with centralized data forwarding and encrypted L3 tunnels between the APs and WLAN controllers. Your WLAN infrastructure supports WMM and your corporate users take full advantage of the WLAN with video, voice, and general data applications. You also provide guest Internet access.
+In this design scenario, what DSCP classification would be assigned to voice traffic travelling from the AP to the WLAN controller when the voice traffic (e.g. Skype) is sent upstream by a non-WMM client station on the guest network?
+a:DSCP 0|b:DSCP 32-39|c:DSCP 40-47|d:DSCP 48-55|x:I don't know
+a
+Other details aside, since the client station in this scenario is non-WMM, its traffic classification is unknown, and thus would receive a best effort policy, mapping to DSCP 0 (untagged).

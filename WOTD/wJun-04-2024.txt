@@ -1,0 +1,2 @@
+MAC_P (WF)
+Peer MAC address; the MAC address of the recipient or peer STA.

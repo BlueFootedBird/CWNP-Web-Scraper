@@ -1,0 +1,2 @@
+POP (WMX)
+Point of Presence; a WiMAX Base Station that has a high capacity point-to-point backhaul or fiber connection to connect to the core network.

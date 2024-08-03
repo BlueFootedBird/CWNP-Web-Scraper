@@ -1,0 +1,4 @@
+You are viewing the configuration of autonomous AP. Why would there be radio sub interfaces in this configuration?
+a:The AP has more than one SSID|b:The AP has more than one radio|c:The AP is dual band|d:The AP is a mesh AP|x:I don't know
+a
+Many APs use sub interfaces to allow for multiple SSIDs on each radio.

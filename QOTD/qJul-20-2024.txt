@@ -1,0 +1,4 @@
+You are installing an indoor AP. Which of the following can be used to increase the signal strength from the AP? (Choose 3)
+a:Increased transmit power|b:Antennas with higher gain|c:Using WEP instead of WPA2|d:Using WPA2 instead of WPA|e:Reduced RF cable length|f:Using PoE instead of a wall plug|x:I don't know
+a
+You can increase the signal strength from the AP by using higher gain antennas, increasing the transmit power or reducing the RF cable length. Reducing the RF cable length increases the output power at the antenna because a shorter cable causes lower loss than a longer cable would. The security solution used (WEP, WPA or WPA2) has no impact on the signal strength. Using PoE instead of a wall plug will not change the output power of the AP.

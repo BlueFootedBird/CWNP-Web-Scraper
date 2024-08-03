@@ -1,0 +1,2 @@
+dBd
+decibel gain or loss referenced to a dipole antenna. A measurement of RF signal strength compared to a practical dipole antenna. [____] is 2.14 dB stronger than dBi.

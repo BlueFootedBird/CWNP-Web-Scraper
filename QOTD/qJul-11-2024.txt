@@ -1,0 +1,4 @@
+What is the term used for the set of rules governing the operation of an AP in a country or geographical area?
+a:Regulatory domain|b:Channel domain|c:Polar chart|d:IEEE committee|x:I don't know
+a
+The regulatory domain is the name given to the area in which a particular set of rules for RF utilization are enforced.

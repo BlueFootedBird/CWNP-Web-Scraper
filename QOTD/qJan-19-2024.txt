@@ -1,0 +1,4 @@
+How many bands in the 5.15 – 5.825 GHz spectrum support Wi-Fi operation?
+a:1|b:2|c:4|d:12|e:19|f:24|x:I don't know
+c
+There are a total of five bands (independent of regulatory domain) between 5 GHz and 6 GHz that support 802.11 operations. There are four bands within the frequency range listed in this question (5.15 – 5.825). Below is a list of the 5 GHz bands, frequency ranges, and channels.UNII-1 or “Band 1” (5.15-5.25 GHz) -- 36, 40, 44, 48UNII-2 or “Band 2” (5.25-5.35 GHz) -- 52, 56, 60, 64UNII-2e or “Band 3” (5.47-5.725 GHz) -- 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140UNII-3 or “Band 4” (5.725-5.825 GHz)* -- 149, 153, 157, 161ISM 5.8 GHz -- (5.725-5.875 GHz) -- 165 (the center frequency of channel 165 is 5.825 GHz) *Note: The channels in UNII-3 could also be considered ISM 5.8 GHz because the ISM band overlaps the UNII band.

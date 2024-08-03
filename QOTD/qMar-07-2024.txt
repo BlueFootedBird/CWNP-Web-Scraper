@@ -1,0 +1,4 @@
+In addition to device density and coverage, what else can make managing a WLAN deployment in a conference center a challenge?
+a:Daily or weekly changes made to the conference center for events cause propagation issues|b:The large number of people inside the conference center can cause absorption|c:Rogue devices can be deployed by guests within the conference center|d:All of these add to the complexity of managing a WLAN in a conference center|x:I don't know
+d
+Any environment that has a high user density, high device density, changing layout and neighboring networks will be a challenge to manage.

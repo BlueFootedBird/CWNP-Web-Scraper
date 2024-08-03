@@ -1,0 +1,2 @@
+DS
+Distribution Service; the service that, by using association information, delivers medium access control (MAC) service data units (MSDUs) within the distribution system ([____]).

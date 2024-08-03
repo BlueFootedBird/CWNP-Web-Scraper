@@ -1,0 +1,4 @@
+What will decrease in an environment when the noise floor increases?
+a:Signal strength|b:SNR|c:Transmit power|d:Antenna gain|x:I don't know
+b
+The signal-to-noise ratio (SNR) will decrease when a higher noise floor is present. That is, if the signal strength is -70 dBm and the noise floor is -98 dBm, the SNR is 28 dB. If the noise floor increases to -93 dBm, the SNR will decrease to 23 dB.

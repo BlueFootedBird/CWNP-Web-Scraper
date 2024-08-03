@@ -1,0 +1,4 @@
+When selecting an antenna for use with an access point, what are the most important RF propagation properties?
+a:Gain|b:Size|c:Coverage pattern|d:Connector type|e:Sheath material|x:I don't know
+a
+For RF propagation, the two most important factors to consider when buying an antenna are gain and coverage pattern (azimuth and elevation). The size, connector type, and sheath material do not directly relate to the antenna's RF propagation properties. Changes in gain will create changes in the coverage area.

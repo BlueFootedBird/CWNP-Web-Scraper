@@ -1,0 +1,4 @@
+To what WMM access category (AC) do the 802.1d values of 5 and 4 usually map?
+a:AC_VI|b:AC_VO|c:AC_BE|d:AC_BK|x:I don't know
+a
+The correct answer is AC_VI. Commonly, the 802.1d to WMM AC mappings are as follows: 7 and 6 to AC_VO, 5 and 4 to AC_VI. 0 and 3 to AC_BE, and 2 and 1 to AC_BK.

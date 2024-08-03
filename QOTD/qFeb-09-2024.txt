@@ -1,0 +1,4 @@
+What step comes after "Define the possible causes" when considering the CWNP troubleshooting methodology?
+a:Create a plan of action and implement it|b:Narrow to the most likely cause|c:Escalate the problem to the wireless vendor support staff|d:Document the results and close the case|x:I don't know
+b
+The CWNP methodology follows the sequence: Identify the problem, Discover the scale of the problem, Define possible causes, Narrow to the most likely cause, Create a plan of action or escalate the problem, Perform corrective actions, Verify the solution, Document the results.

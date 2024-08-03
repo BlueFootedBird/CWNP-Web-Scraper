@@ -1,0 +1,4 @@
+What two components are prepended to the MPDU in order to transmit a PHY frame by an 802.11 standard device?
+a:Preamble and PLCP header|b:PLCP header and FCS|c:Preamble and FCS|d:Preamble and LPDU|x:I don't know
+a
+The correct answer is Preamble and PLCP header. The preamble is transmitted before the PHY frame to prepare the receiver for reception. The PLCP header contains important information, including length and data rate, used to process the MPDU. The MPDU is sent at the actual data rate and the PLCP header is transmitted at some other data rate based on the PHY in question. The FCS is part of the MPDU. The LPDU is passed to the MAC sublayer and is considered the MSDU by the MAC sublayer.

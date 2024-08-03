@@ -1,0 +1,2 @@
+Temporal key
+the combination of temporal encryption key and temporal message integrity code (MIC) key. See also TKIP.

@@ -1,0 +1,2 @@
+Liveness
+a demonstration that the peer is actually participating in this instance of communication.

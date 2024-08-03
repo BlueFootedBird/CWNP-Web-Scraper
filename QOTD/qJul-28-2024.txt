@@ -1,0 +1,4 @@
+You are implementing an MDM solution. For what might this be used?
+a:High availability for controllers|b:BYOD|c:VPN endpoint|d:Automatic channel selection|x:I don't know
+b
+A mobile device management (MDM) solution is used to manage mobile devices, which may include enterprise-owned devices as well as personal devices used through BYOD.

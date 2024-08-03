@@ -1,0 +1,4 @@
+Within RSNA Security Associations, how many station key security associations can exist at a time between the device and a given peer?
+a:One|b:Two|c:Three|d:Unlimited|x:I don't know
+a
+The STAKeySA occurs as the result of a STAKey handshake and only one can exist at a time between the device and a given peer.

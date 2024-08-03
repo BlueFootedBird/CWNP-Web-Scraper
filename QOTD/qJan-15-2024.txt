@@ -1,0 +1,4 @@
+When a target building for a new WLAN is in a remote area with no nearby WLANs, why should the building be scanned with a spectrum analyzer before choosing channels for the new WLAN?
+a:To determine whether you can use channels 1, 2 and 3 in the same area|b:To determine the interference caused by cellular networks|c:To locate intermittent Wi-Fi signals from airplanes|d:To locate non-802.11 interference areas|x:I don't know
+d
+Many non-802.11 devices operating in the 2.4 GHz and 5 GHz frequency bands. These devices must be identified to avoid using channels that operating in the same frequencies when possible.

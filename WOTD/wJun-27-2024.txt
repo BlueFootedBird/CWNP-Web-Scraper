@@ -1,0 +1,2 @@
+Unicast address
+a medium access control (MAC) address that does not have the group bit set. AKA: Directed address, Individual address.

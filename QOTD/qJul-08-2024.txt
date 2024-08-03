@@ -1,0 +1,4 @@
+ABC Company has 5 departments, and each requires a separate LAN segment and 802.11g WLAN connectivity.  Which devices in ABC Company's network are unaware of the 802.1Q VLANs?
+a:Supplicant|b:Authenticator|c:Ethernet Switch|d:Authentication Server|x:I don't know
+a
+Only the authenticators (access points or WLAN switches) and the Ethernet switches are VLAN aware. The supplicant and authentication server do not participate in segmenting traffic by VLAN tags. The authentication server may assign VLAN tags to users, but neither the supplicant nor the authentication server is aware of the VLANs.

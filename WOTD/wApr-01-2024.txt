@@ -1,0 +1,2 @@
+Coding
+the altering of the characteristics of a signal to make the signal more suitable for an intended application, such as optimizing the signal for transmission, improving transmission quality and fidelity, modifying the signal spectrum, increasing the information content, providing error detection and/or correction, and providing data security. A single [____] scheme usually does not provide more than one or two specific capabilities. Different codes have different sets of advantages and disadvantages.

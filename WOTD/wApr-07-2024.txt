@@ -1,0 +1,2 @@
+Unknown device (BT)
+a Bluetooth device for which no information (Bluetooth Device Address, link key or other) is stored.

@@ -1,0 +1,4 @@
+What is the primary difference between throughput testing and load testing?
+a:Throughput testing is often a single machine test and load testing includes a simulated production load.|b:Throughput testing provides no value while load testing does provide value.|c:Throughput testing is not supported on WLANs, but load testing is.|d:Load testing is not supported on WLANs, but throughput testing is.|x:I don't know
+a
+The biggest difference between throughput testing and load testing is that throughput testing is often based on a single machine communicating, while load testing can simulate multiple machines to be closer to real-world production performance levels.

@@ -1,0 +1,2 @@
+Radio downstream QoS
+traffic leaving the AP and traveling to the WLAN clients. [____] is still the most common deployment. The radio client upstream QoS depends on the client implementation. See also Network downstream.

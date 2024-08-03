@@ -1,0 +1,2 @@
+Frames
+data that is transmitted between network points as a unit complete with addressing and necessary protocol control information. Contains a header field and a trailer field that ?frame? the data; however, some control [____] contain no data.

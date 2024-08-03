@@ -1,0 +1,4 @@
+What NETSH command can be used to see signal quality in Windows systems?
+a:NETSH WLAN SHOW STATS|b:NETSH WLAN SHOW NETWORKS MODE=BSSID|c:NETSH WLAN SHOW INTERFACE|d:NETSH WLAN SHOW PROFILE|x:I don't know
+b
+Using the mode=bssid parameter, the netsh wlan show networks command can reveal the signal quality of the current WLAN connection.

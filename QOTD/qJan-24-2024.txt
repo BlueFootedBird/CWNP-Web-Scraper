@@ -1,0 +1,4 @@
+When an RF signal is detected using a spectrum analyzer, what is the major determining factor as to whether that signal will prevent the operation of a WLAN channel in the same frequencies?
+a:Duty cycle|b:Frequency bandwidth|c:Power source method (PoE vs wall outlet)|d:Spectral mask|x:I don't know
+a
+The duty cycle is the key factor. Even when a signal is detected, if it has a very low duty cycle a WLAN can coexist. Some frames may require retransmission, but as long as the retransmissions are not excessive, the WLAN can be considered operational and even well performing in a space with other RF activity.

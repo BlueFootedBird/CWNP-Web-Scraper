@@ -1,0 +1,4 @@
+What is in HT and VHT PHY preambles that allows for the synchronization of the receiving radio?
+a:Length field|b:Data rate specification|c:Duration field|d:Training fields|x:I don't know
+d
+The training fields are used in HT and VHT (as well as OFDM and ERP) PHYs to synchronize the receiver with the incoming signal. The length field in the PHY PLCP header indicates the length (in octets or bytes) of the current frame. The data rate indicates the rate at which the PSDU (or MPDU if you prefer) will be transmitted. The Duration (or Duration/ID) field is in the MAC header and not the PHY preamble or PHY PLCP header.

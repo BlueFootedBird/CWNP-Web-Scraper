@@ -1,0 +1,2 @@
+API
+Application Programming Interface; facilitates exchanging messages or data between two or more different software applications.

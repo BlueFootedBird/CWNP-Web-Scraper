@@ -1,0 +1,2 @@
+WPAN (IR)
+Wireless Personal Area Network; a computer network used for communication among computer devices (including telephones and personal digital assistants) close to one person. WPANs can connect using network technologies such as IrDA, Bluetooth, UWB, and ZigBee.

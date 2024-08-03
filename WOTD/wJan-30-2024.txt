@@ -1,0 +1,2 @@
+EIRP
+Effective Isotropic Radiated Power; the equivalent power of a transmitted signal in terms of an isotropic (omnidirectional) radiator. The [____] equals the product of the transmitter power and the antenna gain (reduced by any coupling losses between the transmitter and antenna). See also ERP.

@@ -1,0 +1,4 @@
+What type of antenna is best suited for use in a 20 kilometer (12 mile), outdoor, point-to-point bridge deployment?
+a:Dipole|b:Grid|c:Panel|d:Patch|e:Sector|x:I don't know
+b
+Grid and dish antennas are two types of highly directional antennas with narrow beam widths and high gain, which makes them well suited for outdoor point-to-point links that cover great distances. In Wi-Fi networks, these antennas are often used to establish connectivity between two remote buildings with line-of-sight conditions between them. Panel and patch antennas have a semi-directional coverage pattern and do not provide the gain or directionality required for long-range outdoor bridge links. Sector antennas are often used to provide semi-directional coverage for moderate distances, usually less than 2 miles.

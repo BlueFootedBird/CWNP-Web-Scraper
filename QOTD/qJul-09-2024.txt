@@ -1,0 +1,4 @@
+Handheld scanners are often legacy 802.11b/g devices. Why should you consider accommodating these scanners instead of updating the fleet to the latest 802.11 standard?
+a:Scanners are not manufactured anymore|b:Scanners integrate with databases which would also need to be replaced or adapted to the new devices|c:There are no reasons why scanners should not be replaced|d:Scanners integrate with phone systems only|x:I don't know
+b
+Because scanners integrate with server-side databases and applications, the cost of replacement can be high both in time and finances. This is the primary reason they are not replaced in many organizations.

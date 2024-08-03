@@ -1,0 +1,2 @@
+VSWR bandwidth
+the frequency range over which an antenna has a specified VSWR. Often, 2:1 [____] is specified, but 1.5:1 is also common.

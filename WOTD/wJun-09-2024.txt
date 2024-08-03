@@ -1,0 +1,2 @@
+GPRS (Cell)
+General Packet Radio Service; high-speed packet-based digital data service provided by cellular carriers that use GSM technology. GPRS was superseded by EDGE.

@@ -1,0 +1,2 @@
+DRS
+Dynamic Rate Switching; this name is used in IEEE 802.11g Clause 9.6 referring to multirate support, whereby stations may change their data rate (and hence coding and modulation types in use) as they move toward or away from an access point in order to maintain a high quality connection. This was previously referred to as either ?Automatic Rate Switching (ARS)? or ?Dynamic Rate Selection ([____])?- both of which were vendor-specific names for this functionality.

@@ -1,0 +1,2 @@
+CP
+Contention Period; the time period outside of the contention-free period (CFP) in a pointcoordinated basic service set (BSS). In a BSS where there is no point coordinator (PC), this corresponds to the entire time of operation of the BSS.

@@ -1,0 +1,4 @@
+What is the center frequency for channel 3 in 2.4 GHz?
+a:2412|b:2422|c:2432|d:2442|x:I don't know
+b
+2.4 GHz channels are only 5 MHz apart on their center frequencies. Since channel 1 is centered on 2412 MHz (2.412 GHz) it can be determined that channel 3 is on 2422 MHz (2.422 GHz)

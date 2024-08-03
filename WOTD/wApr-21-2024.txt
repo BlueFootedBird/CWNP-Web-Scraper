@@ -1,0 +1,2 @@
+CTR
+Counter mode; a mode of operation in cryptography where a block cipher is used as a keystream generator and the keystream is bitwise exclusive-ORed into the plaintext to produce the ciphertext.

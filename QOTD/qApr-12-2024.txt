@@ -1,0 +1,4 @@
+Your laptop computer currently has an 802.11a/g Mini-PCI card installed.  You would like to upgrade your laptop to have dual-band 802.11n capability and to utilize MCS rates up to 300 Mbps.  Which interface types can be used for this upgrade?
+a:PCI|b:USB 2.0|c:ExpressCard|d:Mini-PCIe|e:N-type|f:USB 1.0|x:I don't know
+b
+PCI cards do not fit into laptop computers. USB 1.0 adapters are too slow to support 802.11n data rates, so USB 2.0 must be used. 802.11a/g Mini-PCI cards use two antennas instead of the three required for 802.11n and the Mini-PCI slot does not support the Mini-PCIe format. ExpressCard and CardBus formats are external, insertable card types that will work in most modern laptops; however, most laptops today are not sold with CardBus interfaces. USB 2.0 adapters are most likely to be supported, and the interface is fast enough to support 802.11n throughput.

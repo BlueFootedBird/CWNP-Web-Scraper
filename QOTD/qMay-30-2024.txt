@@ -1,0 +1,4 @@
+What high availability solution uses one controller as a backup for several other controllers in case a controller fails?
+a:RAID5|b:N+1|c:Striping|d:Clustering|x:I don't know
+b
+N+1 allows multiple controllers (N) to have a single backup controller (1). The primary controllers operate as long as they are functional, but it one fails, the +1 controller takes over for that failed controller. This option is offered by several controller vendors.

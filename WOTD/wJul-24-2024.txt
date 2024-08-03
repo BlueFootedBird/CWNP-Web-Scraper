@@ -1,0 +1,2 @@
+PSTN
+Public Switched Telephony Network; the network of the world?s public circuit-switched telephone networks, in much the same way that the Internet is the network of the world's public IP-based packet-switched networks. Originally a network of fixed-line analog telephone systems, the [____] is now almost entirely digital, and now includes mobile as well as fixed telephones. The [____] is largely governed by technical standards created by the ITU-T, and uses E.163/E.164 addresses (more commonly known as telephone numbers) for addressing.

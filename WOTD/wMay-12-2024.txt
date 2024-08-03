@@ -1,0 +1,2 @@
+GPP (IR)
+Generic Positioning Protocol; a protocol for interchange of positioning information between different devices which may be using different technologies. GPP supports different positioning techniques and works as a common language for the positioning platform to communicate with external positioning sources.

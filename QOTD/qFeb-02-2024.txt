@@ -1,0 +1,4 @@
+Why might you create an alias for a device in a protocol capture file?
+a:To more easily identify the device while viewing the capture|b:To force the device to impersonate another device|c:To force the AP to accept the device|d:To change the PLCP header information|x:I don't know
+a
+The correct answer is To more easily identify the device while viewing the capture. When viewing a capture file, a device is identified by its MAC address. Given that these addresses are not human friendly, but a machine friendly, it is often easier to work with the capture file by providing an alias for the important devices.

@@ -1,0 +1,2 @@
+GNonce
+Group Nonce; a value that shall not be reused with a given key, including over all reinitializations of the system. Used in generation of Group Temporal Keys from the Group Master Key. Also used for encryption of broadcast and multicast frames in IEEE 802.11i-capable networks.

@@ -1,0 +1,2 @@
+UDP
+User Datagram Protocol; a network protocol for transmitting data that does not require acknowledgement from the recipient of the data that is sent (connectionless).

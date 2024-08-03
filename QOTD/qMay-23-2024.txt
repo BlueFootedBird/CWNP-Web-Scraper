@@ -1,0 +1,4 @@
+Given that antenna gain is measured in comparison to a theoretical antenna that can radiate RF energy equally in all directions, what relative unit is used to measure antenna gain?
+a:mW|b:dB|c:dBm|d:dBi|x:I don't know
+d
+Antenna gain is measured in dBi (a decibel referenced against an isotropic radiator). An isotropic antenna is a theoretical antenna that can radiate energy equally in all directions. It is not uncommon to see antenna gain measured against a half-wave dipole, which is expressed as dBd. The measurement of dBd is 2.15 dB less than dBi, thus, 0 dBd = 2.15 dBi.

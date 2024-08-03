@@ -1,0 +1,2 @@
+GAP (BT)
+Generic Access Profile; a specification that defines the minimum requirement that a Bluetooth device must support regarding discovery, link management, and security levels.

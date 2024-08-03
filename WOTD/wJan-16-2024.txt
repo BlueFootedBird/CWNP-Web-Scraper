@@ -1,0 +1,2 @@
+PSF
+PLCP Signaling field; part of the PLCP header which specifies the length, data rate, and service parameters for the frame transmission.

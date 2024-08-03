@@ -1,0 +1,4 @@
+Given:  The Traffic Identifier (TID) is assigned to an MSDU in the layers above the MAC.  There are 16 possible TID values.  What statement is true about TID values?
+a:4 values are assigned to traffic categories (TC), and 12 values are assigned to traffic streams (TS)|b:8 values are assigned to traffic categories (TC), and 8 values are assigned to traffic streams (TS)|c:12 values are assigned to traffic categories (TC), and 4 values are assigned to traffic streams (TS)|d:All 16 values can be used for traffic categories (TC) or traffic streams (TS)|x:I don't know
+b
+802.11-2007, Section 3.152

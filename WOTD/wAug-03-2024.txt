@@ -1,0 +1,2 @@
+PTK
+Pairwise Transient Key; a value that is derived from the pairwise master key (PMK), Authenticator address (AA), Supplicant address (SPA), Authenticator nonce (ANonce), and Supplicant nonce (SNonce) using the pseudo-random function (PRF) and that is split up into as many as five keys: the temporal encryption key, two temporal message integrity code (MIC) keys, EAPOL-Key encryption key (KEK), and/or the EAPOL-Key confirmation key (KCK).

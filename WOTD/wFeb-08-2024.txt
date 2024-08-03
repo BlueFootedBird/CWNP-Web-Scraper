@@ -1,0 +1,2 @@
+HT-delayed block ack (11n)
+an optional Delayed Block Ack mechanism optimized for use by HT STAs, which requires the use of the compressed BlockAck frame and requires support of the NoAck ack policy setting within both BlockAckReq and BlockAck frames. This Block Ack scheme is negotiated between two HT STAs that both support HT Delayed Block Ack.

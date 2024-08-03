@@ -1,0 +1,2 @@
+ERP
+Effective Radiated Power; the maximum conducted output power is measured as a conducted emission over any interval of continuous transmission using instrumentation calibrated in terms of an RMS-equivalent voltage. See also EIRP.

@@ -1,0 +1,2 @@
+XID (IR)
+Exchange Identification; a frame that includes information for device identification and communication condition setting.

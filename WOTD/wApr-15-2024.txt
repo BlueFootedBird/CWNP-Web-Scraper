@@ -1,0 +1,2 @@
+Roaming (Cell)
+Moving between cellular networks. See also Hand-off.

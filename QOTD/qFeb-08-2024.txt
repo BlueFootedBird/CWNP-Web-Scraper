@@ -1,0 +1,4 @@
+Your customer bought new 802.11n APs with 3x3:2 specifications for their corporate office environment. Following deployment best practices for 802.11n in 2.4 GHz, what is the maximum MCS rate achievable on these APs in an environment with little or no interference?
+a:130 Mbps|b:144 Mbps|c:150 Mbps|d:300 Mbps|e:450 Mbps|f:600 Mbps|x:I don't know
+b
+In the 2.4 GHz spectrum, best practices suggest that you should use only 20 MHz channels. If the environment has little or no interference, you can use a 400 ms guard interval, thus achieving 144 Mbps over 2 spatial streams.

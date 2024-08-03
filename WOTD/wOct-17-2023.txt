@@ -1,0 +1,2 @@
+RRM (Cisco)
+Radio Resource Management; Cisco controller software that provides real-time RF management of Cisco controller-based wireless networks. RRM enables controllers to continually monitor lightweight access points for traffic load, interference, noise, coverage, and the number of nearby access points. Using this information, RRM can periodically reconfigure the 802.11 RF network for best efficiency. To do this, RRM performs radio resource monitoring, transmit power control, dynamic channel assignment, and coverage hole detection and correction.

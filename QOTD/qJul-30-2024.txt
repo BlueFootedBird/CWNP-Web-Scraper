@@ -1,0 +1,4 @@
+Why are access points with internal antennas most often chosen over those with external antennas for indoor wireless LANs?
+a:Smaller coverage patterns|b:Appearance|c:Costs|d:All of these|x:I don't know
+d
+Cost and looks are very often considerations for deploying Wi-Fi indoors and outdoors alike. Most WLAN vendors sell antennas separately from the APs, for those devices that are able to use them, increasing cost. Properly polarizing antennas increases the cost of deployments by increasing the time it takes to mount them. Typically, internal antenna APs will have smaller coverage patterns than external antenna APs, because most indoor deployments will use several APs to reduce the number of clients per AP and provide a better user experience.

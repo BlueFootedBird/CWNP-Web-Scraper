@@ -1,0 +1,2 @@
+U APSD (WF)
+Unscheduled Automatic Power Save Delivery. See WMM-PS. AKA: WMM-PS.

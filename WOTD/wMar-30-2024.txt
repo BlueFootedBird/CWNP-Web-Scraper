@@ -1,0 +1,2 @@
+IV (WF)
+Initialization Vector; a continuously changing number used in combination with a secret key to encrypt data.

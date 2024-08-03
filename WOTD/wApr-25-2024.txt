@@ -1,0 +1,2 @@
+SQ
+Signal Quality; a measure of the match (correlation) between the incoming DSSS signal and an ideal DSSS signal. [____] reflects the amount of signal within the channel formed between the two communicating stations (e.g. an AP and a client).

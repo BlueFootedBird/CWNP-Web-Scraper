@@ -1,0 +1,4 @@
+When there are no AC power outlets near the locations where access points are to be deployed and the switches used to connect the access points to the wired LAN do not provide PoE connectivity, how can you power the access points without adding AC power outlets or using extension cords?
+a:Use over-the-air 802.11 power provisioning|b:Use midspan PoE injectors to power the access points|c:Use an electric generator at each AP location|d:This deployment is not able to be implemented with the given switches|x:I don't know
+b
+Midspan injectors draw power from AC outlets and inject the power into the Ethernet cables used to connect the access points. Placing generators at each location is not a cost-feasible solution and over-the-air power is not an available solution today.

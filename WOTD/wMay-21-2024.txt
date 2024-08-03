@@ -1,0 +1,2 @@
+Broadcast packet
+a single data message (packet) sent to all addresses on the same subnet basic service area (BSA).

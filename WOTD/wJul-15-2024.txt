@@ -1,0 +1,2 @@
+Fragmentation
+the process of segmenting a MSDU, A-MSDU, or MMPDU into a sequence of smaller MPDUs prior to transmission. The process of recombining a set of fragment MPDUs into an MSDU, A-MSDU or MMPDU is known as de[____].

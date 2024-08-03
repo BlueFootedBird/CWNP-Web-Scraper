@@ -1,0 +1,4 @@
+What is a client performing when it sends a probe request frame?
+a:Passive scanning|b:Active scanning|c:Authentication|d:Association|x:I don't know
+b
+Active scanning is performed using probe request and probe response frames. Passive scanning uses only beacon frame information.

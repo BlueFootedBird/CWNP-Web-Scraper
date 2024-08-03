@@ -1,0 +1,4 @@
+What word describes the bouncing of an RF signal off a large reflective surface that it encouters during propagation?
+a:Diffraction|b:Reflection|c:Refration|d:Diffusion|e:Scattering|x:I don't know
+b
+Reflection is described. Reflection occurs when an RF wave encounters a large (larger than the wavelength) reflective smooth surface in the propagation path. Indoors, reflections, refractions and scattering (possibly) can cause multipath, which is a beneficial behavior for 802.11n and 802.11ac, but is a negative impact on older Wi-Fi technologies.

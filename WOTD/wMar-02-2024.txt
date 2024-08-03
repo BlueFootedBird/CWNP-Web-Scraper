@@ -1,0 +1,2 @@
+Authentication
+the service used to establish the identity of one station (STA) as a member of the set of STAs authorized to communicate with another STA.

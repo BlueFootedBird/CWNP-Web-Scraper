@@ -1,0 +1,4 @@
+What kind of interference is illustrated by the following image?
+a:CCI|b:CCC|c:ACI|d:Narroband|x:I don't know
+c
+Adjacent channel interference is caused when channels overlap intentionally, like 2.4 GHz channels, or when non-overlapping channels cause side-lobe interference, like 5 GHz channels. 2.4 GHz channels are 5 MHz apart and 20 or 22 MHz wide, therefore it is a certainty that adjacent channels will overlap and cause interference.

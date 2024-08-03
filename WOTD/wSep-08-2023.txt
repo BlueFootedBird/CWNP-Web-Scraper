@@ -1,0 +1,2 @@
+Uniform spreading
+a regulatory requirement for a channel selection mechanism that provides uniform usage across a minimum set of channels in the regulatory domain.

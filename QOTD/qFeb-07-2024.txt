@@ -1,0 +1,4 @@
+As a consultant, you have been hired to review the security design of an organization's WLAN.  You recommend that each client machine have personal firewall software installed.  Personal firewall software protects the client machine from which attacks?
+a:Bit-flipping attacks|b:Session hijacking attacks|c:RF jamming attacks|d:Peer attacks|e:Rogue access point attacks|f:Forgery attacks|x:I don't know
+d
+Peer attacks are the most common type of wireless attack. Peer-to-Peer attacks are instigated by one host aimed at another particular host on the same network. Data files, password files,registry information, and network access information are common targets which are sought out by intruders.

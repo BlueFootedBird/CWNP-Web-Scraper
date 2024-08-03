@@ -1,0 +1,2 @@
+SSIDL
+Service Set Identifier List; [____] and MBSSID are two alternate methods to support SSIDs from the same AP. [____] provides a list of supported SSIDs in a supported beacon. With the classification of each BSSID as separate advertised BSSID element within [____] up to 16 VLAN/BSSIDs can be created and maintained. Additionally, specific attributes can be assigned to each [____] allowing more efficient use of the medium as broadcasting multiple beacons per BSSID is eliminated.

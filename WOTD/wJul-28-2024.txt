@@ -1,0 +1,2 @@
+Non-HT duplicate frame (11n)
+a frame transmitted in a non-HT duplicate PPDU.

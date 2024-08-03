@@ -1,0 +1,4 @@
+What happens if you use a channel that is not supported in the client devices your are using in your WLAN?
+a:The client will work regardless of the channel|b:A coverage hole will exist for those clients|c:Better coverage will exist everywhere else|d:The AP will not allow such a configuration|x:I don't know
+b
+Using channels unsupported by clients will create likely coverage holes for those clients.

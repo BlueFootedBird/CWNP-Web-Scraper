@@ -1,0 +1,2 @@
+EDGE
+Enhanced Data rates for GSM Evolution; a faster version of GSM wireless technology which supports high rate data transfers up to 384 Kbps.

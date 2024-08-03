@@ -1,0 +1,2 @@
+ODI
+Open Data-Link Interface; Novell specification providing a standardized interface for network interface cards (NIC) that allows multiple protocols to use a single NIC.

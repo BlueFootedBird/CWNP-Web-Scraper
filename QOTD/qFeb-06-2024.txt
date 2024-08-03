@@ -1,0 +1,4 @@
+What is represented in the following image?
+a:2.4 GHz channel reuse pattern|b:5 GHz channel resuse pattern|c:6 GHz channel reuse pattern|d:European reuse pattern|x:I don't know
+a
+Channel reuse patterns are used to diminish or remove CCI and ACI. In 2.4 GHz reuse patterns help to mitigate the CCI, but in 5 GHz reuse patterns properly implemented can remove it. The concept of a channel reuse pattern is simply to avoid placing APs near each other that are on the same channel or, in 5 GHz, on an adjacent channel. The image shows an example channel reuse pattern in 2.4 GHz.

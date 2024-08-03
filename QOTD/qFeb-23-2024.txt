@@ -1,0 +1,4 @@
+When an AP is configured to use a controller, what are the two data forwarding models most vendors support? (Choose two.)
+a:Centralized|b:Distributed|c:Redirected|d:Unrouted|x:I don't know
+a
+Centralized data forwarding indicates that the data is sent to the controller and then redirected to the final destination. Distributed data forwarding indicates that the data is forwarded from the AP directly to the final destination. Most vendors support either method in their solutions; however, some features may be unavailable depending on the model chosen and vendor literature should be reviewed carefully.

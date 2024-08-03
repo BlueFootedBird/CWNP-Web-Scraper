@@ -1,0 +1,2 @@
+SAR
+Segmentation and Reassembly; the process used to fragment and reassemble packets so as to allow them to be transported across networks.

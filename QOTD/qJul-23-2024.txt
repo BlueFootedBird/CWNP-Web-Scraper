@@ -1,0 +1,4 @@
+Your WLAN deployment is implementing 40 MHz channels in 5 Ghz. What happens when a STA that only support 20MHz channels tries to connect?
+a:It connects and is forced to use a 40 MHz channel|b:It connects and uses a 20 MHz channel|c:It cannot connect|d:None of these|x:I don't know
+b
+When a STA supporting only 20 MHz channels connects to an AP configured for 40 MHz channels, it will use the primary 20 MHz channel defined by the AP.

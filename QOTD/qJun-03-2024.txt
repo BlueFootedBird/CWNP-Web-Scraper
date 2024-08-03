@@ -1,0 +1,4 @@
+What is the major divergence between Endpoint PSE devices and Midspan PSE devices?
+a:Endpoint PSE devices provide power and Ethernet data streams from a single device|b:Midspan PSE devices provide power and Ethernet data streams from a single device|c:Endpoint PSE devices act as Ethernet repeaters|d:Midspan PSE devices are designed to provide higher levels of power to more PD equipment|x:I don't know
+a
+Endpoint PSE devices can act as switches and or routers as well, providing not only power but also Ethernet data streams.

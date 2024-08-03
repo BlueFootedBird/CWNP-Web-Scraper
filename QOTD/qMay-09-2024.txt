@@ -1,0 +1,4 @@
+Your helpdesk has escalated a trouble ticket: user Minion complains that his configuration is correct but he was never prompted for a username and password so he cannot log onto the WLAN. Looking on your side of the NMS, you can see that his MAC address has attempted a connection but with username \host\Minion. What could cause this problem?
+a:The device has cached his username and password|b:The device is trying to use machine authentication|c:The device is configured for PSK|d:The device is configured for local authentication|x:I don't know
+b
+The machine is trying to use machine authentication: in the WLAN connection profile on Windows, checking that the security parameters are indeed correct, from the security tab, take a look at the Advanced Settings.

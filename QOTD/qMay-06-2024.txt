@@ -1,0 +1,4 @@
+To which signal category does FHSS belong?
+a:Wideband|b:Spread Spectrum|c:Direct Sequence|d:Multiplex|x:I don't know
+b
+Frequency hopping spread spectrum (FHSS) systems are typically low bandwidth technologies, but due to the nature of frequency hopping as a spread spectrum method, they are resilient to interference. Most frequency hopping protocols, like Bluetooth, use a narrowband transmit signature.

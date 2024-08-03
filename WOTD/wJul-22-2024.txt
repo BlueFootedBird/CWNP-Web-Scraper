@@ -1,0 +1,2 @@
+Non-HT PPDU (11n)
+Non-HT Physical Layer Protocol Data Unit; a Clause 20 PHY PPDU with the TXVECTOR FORMAT parameter set to NON_HT.

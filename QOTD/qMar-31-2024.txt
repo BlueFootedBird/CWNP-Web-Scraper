@@ -1,0 +1,4 @@
+Which one of these cables as the least attenuation for a given length?
+a:LMR 200|b:LMR 300|c:LMR 600|d:LMR 855|x:I don't know
+c
+Of the listed cable types, LMR 600 has the least attenuation per foot or per meter.

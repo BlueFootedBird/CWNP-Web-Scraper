@@ -1,0 +1,2 @@
+Intentional radiator
+the point in an RF system where power is delivered to an antenna.

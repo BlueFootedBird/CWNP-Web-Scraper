@@ -1,0 +1,4 @@
+What WLAN architecture is fundamentally incapable of supporting the FT protocol, as it is specified in 802.11r-2008?
+a:Independent autonomous architectures|b:Cooperative autonomous architectures|c:Centralized WLAN architectures|d:Distributed WLAN architectures|e:Dynamic antenna systems (DAS)|f:Mesh WLAN architectures|g:Neither independent nor cooperative autonomous architectures|x:I don't know
+a
+Independent autonomous architectures are fundamentally incapable of supporting the Fast BSS Transition (FT) protocol due to the lack of shared control plane functionality. All other listed architectures—or RF distribution methods—are capable of supporting the FT protocol. DAS is an RF distribution architecture operating at layer 1 that would not hinder the MAC layer FT protocol.

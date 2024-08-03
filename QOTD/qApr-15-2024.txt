@@ -1,0 +1,4 @@
+What is used to synchronize the receiver for reception of an 802.11 PPDU?
+a:Preamble|b:PLCP header|c:MAC header|d:FCS|x:I don't know
+a
+The preamble, which can include training fields, is used to synchronize the receiver for reception of the PPDU. The PPDU includes the PLCP header and the MPDU (MAC layer payload). The MPDU will have a MAC header and, possibly a data payload, and an FCS.

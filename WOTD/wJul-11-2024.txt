@@ -1,0 +1,2 @@
+DCLA (WF)
+DC Level Adjustment; a field contained in the PLCP header which allows the receiver to adjust to the DC level. The length of the field is 32L-PPM slots.

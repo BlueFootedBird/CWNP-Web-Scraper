@@ -1,0 +1,4 @@
+When using a protocol analyzer to capture wireless conversations, which types of encrypted packets can typically be decoded by most professional-grade wireless protocol analyzers?
+a:WPA2-Enterprise|b:WEP|c:VPN|d:WPA2-Personal|x:I don't know
+b
+Professional-grade protocol analyzers only need the correct key to decrypt wireless packet captures, either in real-time or during post-analysis. This only works with wireless security solutions that use static keying, such as WEP, WPA- or WPA2-Personal. Because dynamic keys change, protocol analyzers cannot know which key is correct to decrypt the captured packets.

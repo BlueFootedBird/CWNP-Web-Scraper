@@ -1,0 +1,4 @@
+For what type of Wi-Fi device is a wall mounting kit typically used?
+a:Workgroup Bridge|b:Patch Antenna|c:WLAN Controller|d:WIPS Sensor|e:Mesh AP|x:I don't know
+a
+WLAN Controllers are often too large to be mounted to a wall and are typically mounted in 19 inch mounting racks or placed on equipment tables in data centers. All of the other devices are easily mounted to a wall using wall mounting kits provided by the manufacturer or third party accessory hardware manufacturers.

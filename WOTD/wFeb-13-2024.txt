@@ -1,0 +1,2 @@
+ROM (IR)
+Read Only Memory; a class of storage media used in computers and other electronic devices that tells the computer how to load the operating system.

@@ -1,0 +1,4 @@
+When planning for a WLAN, what two factors must always be considered that will be frequently unique to each WLAN?
+a:Coverage|b:Capacity|c:WLAN standards|d:Ethernet standards|x:I don't know
+a
+It is no longer sufficient to design WLANs for coverage alone. They must be designed for coverage and capacity. Capacity should be inclusive of: -Needed throughput per STA -Number of STAs -Acceptably latency for STAs

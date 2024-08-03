@@ -1,0 +1,2 @@
+RJ-45
+Registered Jack-45; a connector that holds up to eight wires, often used for Ethernet.

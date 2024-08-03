@@ -1,0 +1,2 @@
+MPDU (WF, WMX)
+Medium Access Control (MAC) Protocol Data Unit. The unit of data exchanged between two peer MAC entities using the services of the physical layer (PHY). It is comprised of an MSDU (data payload), a MAC header, and a trailer.

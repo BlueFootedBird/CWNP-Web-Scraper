@@ -1,0 +1,2 @@
+IUT
+Implementation Under Test; an object or product that is being tested for conformance. For any product certification program, the scope of the [____] must be defined and delineated from the rest of the supporting software and hardware of the total system (referred to as the System Under Test (SUT)).

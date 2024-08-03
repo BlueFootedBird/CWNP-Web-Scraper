@@ -1,0 +1,2 @@
+PKC (WF)
+Proactive Key Caching; a mechanism whereby a central controller entity can pull a PMKSA from an AP (or from within itself, depending on how ?thin? the AP is) and build another PMKSA from it based on information from the ?new? AP. See also PMKSA.

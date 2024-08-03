@@ -1,0 +1,4 @@
+Where is a user priority (UP) value assigned to application data?
+a:In the QoS STA's client utility application|b:In the layers above the MAC|c:Within the MAC Management Entity|d:At the QoS Access Point|x:I don't know
+b
+See IEEE 802.11-2007, sections 6.1.1.1 and 3.166.

@@ -1,0 +1,4 @@
+A client station is using passive scanning to locate a BSS that it can join. What frame contains information used by the client STA in this process?
+a:Probe request|b:Probe response|c:CF-Poll|d:Beacon|x:I don't know
+d
+Beacon frames contain the SSID and other parameters for a BSS. When a STA is using passive scanning, it will simply look on the Beacon frames seen on the medium to locate an AP to which it may associate. It is looking for an SSID for which it has a connection profile. Probe request and probe response frames are used with active scanning.

@@ -1,0 +1,2 @@
+IEEE P802.11v
+ratification expected in 2009; enhancements to provide wireless network management to the IEEE 802.11 MAC, and PHY, to extend prior work in radio measurement that results in a complete and coherent upper-layer interface for managing 802.11 devices in wireless networks. Defines SNMP Management Information Bases that will allow for the configuration of a WLAN client device from a WLAN infrastructure device.

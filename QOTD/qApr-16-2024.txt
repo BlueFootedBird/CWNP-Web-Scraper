@@ -1,0 +1,4 @@
+What is an advantage of a centralized WLAN monitoring solution that is not available in most laptop-based protocol analyzers?
+a:Frame capture and decoding|b:Expert views|c:Data aggregation from multiple real-time sources for automated reporting and analysis|d:Traffic statistics for the BSA|x:I don't know
+c
+Of those listed, data aggregation for multiple sources is the least common feature of laptop-based analyzers that is found in centralized monitoring solutions. The aggregated data can be used to proactively address future problems and troubleshoot existing issues on the WLAN.

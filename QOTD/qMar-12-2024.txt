@@ -1,0 +1,5 @@
+You must implement support for BYOD. In the process, it has been determined that all BYOD devices must be registered with the network, but they will not be pre-registered. All BYOD users will do their work with Internet and printer access only.
+Which one of the following solutions will meet this requirement?
+a:Onboarding|b:Containerization|c:Segmentation|d:Captive portal|x:I don't know
+c
+While all of these concepts are related to BYOD, onboarding allows for device registration. The captive portal may be used after registration as well, but it is not a full onboarding solution needed for modern BYOD by itself. Containerization is the process used to secure data on the mobile device by encrypting a storage area for enterprise applications and data. Segmentation is used on the network to separate BYOD users from other network users.

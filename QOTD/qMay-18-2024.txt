@@ -1,0 +1,4 @@
+You configure your AP data rates in 2.4 GHz. You have configured 9 Mbps as the lowest basic rate. Now the barcode scanners that use 802.11b radios can no longer connect. What has caused the problem?
+a:802.11b devices only support 1, 2, 5.5 and 11 Mbps|b:802.11b devices do not support data rates higher than 9 Mbps|c:802.11b devices do not support data rates lower than 9 Mbps|d:9 Mbps is not a valid configuration parameter for the lowest basic rate|x:I don't know
+a
+The lowest configured basic rate is the one that will be used to transmit beacon frames. Because 9 Mbps was selected and 802.11b devices only support 1, 2, 5.5 and 11 Mbps, they cannot see the beacon frames.

@@ -1,0 +1,2 @@
+Preauthentication (WF)
+used to speed up association transfer. Authentication can often cause a lag between the time a station decides to move to a new AP and the time that the frames start flowing through that AP. Preauthentication attempts to reduce the time by getting the time-consuming authentication relationship established before it is needed. Typically refers to IEEE 802.1x authentication rather than IEEE 802.11 authentication.

@@ -1,0 +1,2 @@
+Non-HT duplicate (11n)
+a transmission format of the PHY that duplicates a 20 MHz non-HT transmission in two adjacent 20 MHz channels, allowing a non-HT BSS on either channel to receive the transmission.

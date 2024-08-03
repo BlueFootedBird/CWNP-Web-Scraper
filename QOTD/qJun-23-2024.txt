@@ -1,0 +1,4 @@
+What 802.11 feature is an independent autonomous architecture unable to support?
+a:Fast Transition (802.11r) protocol|b:WPA2|c:CCMP/AES|d:Fragmentation|x:I don't know
+a
+Independent autonomous architectures are fundamentally incapable of supporting the Fast BSS Transition (FT) protocol due to the lack of shared control plane functionality. All other listed architectures—or RF distribution methods—are capable of supporting the FT protocol. DAS is an RF distribution architecture operating at layer 1 that would not hinder the MAC layer FT protocol.

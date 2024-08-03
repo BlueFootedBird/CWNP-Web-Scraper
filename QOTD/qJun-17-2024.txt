@@ -1,0 +1,4 @@
+One of the Wi-Fi Alliance's primary objectives is to ____________.
+a:Promote the adoption of a single worldwide standard for high-speed Wi-Fi devices|b:Test IEEE devices for compatibility between Wi-Fi, WiMAX, and Bluetooth networks|c:Interpret and enforce regulatory domain requirements imposed by governing bodies|d:Regulate and enforce the usage of licensed and unlicensed radio frequency bands|x:I don't know
+a
+The Wi-Fi Alliance's goal is to "drive the adoption of a single worldwide-accepted standard for high-speed wireless local area networking." Using the IEEE 802.11 specification and the Wi-Fi Alliance's interoperability test specifications, the Wi-Fi Alliance tests and certifies Wi-Fi devices. Common Wi-Fi Alliance certifications include, WPA, WPA2, WMM, WPS, and 802.11n-Draft 2.0.

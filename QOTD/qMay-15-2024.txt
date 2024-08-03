@@ -1,0 +1,4 @@
+You administer a WLAN that offers a guest SSID of CORPCUEST. Users connect to the CORPGUEST SSID, but report that they cannot access Internet web sites. The devices indicate no Internet connection. What common problem causes this scenario?
+a:NTP issues|b:DNS failure|c:Hardware issues|d:IP routing issues|x:I don't know
+b
+An issue like this if commonly cause by DNS failures and captive portal failures. Given that multiple users are reporing the problem, it is not likely a hardware issue. If it were an IP routing issue, it would impact non-guest users as well.

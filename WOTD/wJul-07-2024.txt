@@ -1,0 +1,2 @@
+LSAP-SEL (IR)
+Link Service Access Point Selector; a one-byte number that corresponds to an LSAP.

@@ -1,0 +1,2 @@
+Channel Stacking (WF)
+when a Single Channel Architecture (SCA) is used, WLANs may be co-located in the same physical area on different 802.11 channels for the purpose of high-density/high-capacity client deployments. AKA: Channel Spanning and Channel Blankets.

@@ -1,0 +1,4 @@
+Which one of these statements is a good example of a network with high co-channel interference?
+a:Three APs on channels 1, 6 and 11|b:Two APs on channels 3 and 5|c:Three APs on channels 1, 1 and 11|d:Two APs on channels 1 and 6|x:I don't know
+c
+CCI occurs when APs have to compete for the same channel, such as two APs on channel 1.

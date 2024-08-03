@@ -1,0 +1,4 @@
+Within the IPSec's ESP tunnel mode, which parts of the frame are encrypted?
+a:ESP Header|b:Original IP Header|c:IP Packet|d:ESP Trailer|e:ESP Authentication Trailer|x:I don't know
+b
+ESP tunnel mode encapsulates an IP packet with both an ESP and IP header and an ESP authentication trailer.In an ESP tunnel mode frame, the packet begins with a new IP header and an added ESP header, neither of which are encrypted. After the ESP header, the remaining packet contents are encrypted, except the ESP authentication trailer, which is appended at the end of the frame. Within the encrypted packet of the frame is the original IP header, the original IP packet, and the ESP trailer.

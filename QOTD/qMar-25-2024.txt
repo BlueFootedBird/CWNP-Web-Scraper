@@ -1,0 +1,4 @@
+What does Wi-Fi Protected Setup use to assign a credential to an enrollee?
+a:NFC Device|b:NFC Token|c:Registration Protocol|d:Internal Registrar|e:External Registrar|x:I don't know
+c
+A registration protocol is used to assign a credential to the enrollee. It operates between the enrollee and the registrar.A registrar is a logical entity with the authority to issue and revoke domain credentials. A registrar may be integrated into any device, including an access point. Note that a registrar may or may not have WLAN capability, and a given domain may have multiple registrars. An external registrar is one that runs on a device separate from the access point, while an internal registrar is integrated in an access point.

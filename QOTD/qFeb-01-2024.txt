@@ -1,0 +1,4 @@
+What is another name of the azimuth chart of an antenna radiation pattern?
+a:A-plane|b:E-plane|c:H-plane|d:V-plane|e:Z-plane|x:I don't know
+c
+There are two different viewpoints for an antenna radiation chart. An azimuth chart is a bird’s eye view (top down) of the radiation pattern and an elevation chart is a side view of the antenna’s radiation pattern. Polar charts of antenna radiation patterns shows us the directionality and beamwidth of an antenna. The azimuth chart is also known as the H-plane, because for a vertically polarized antenna (up and down), a top-down view shows the magnetic (horizontal) plane of the antenna. In an elevation chart, we see the electric field (E-plane) of the radio wave. The E-plane determines the polarization of the radio wave and the H-plane is 90 degrees apart from the E-plane.

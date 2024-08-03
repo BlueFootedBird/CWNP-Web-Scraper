@@ -1,0 +1,4 @@
+You are planning a WLAN upgrade. The existing 802.11g 2.4 GHz network will be upgraded to HT 802.11n and the 802.11a 5 GHz network will be upgraded to VHT 802.11ac. Dual-radio dual-band concurrent APs will be used and must be powered with PoE. They require 19 watts of power at the APs. All network switches currently support 802.3af. What must be performed to support the desired APs?
+a:The switches must be upgraded to support 802.3at|b:The switches must be upgraded to support 802.11ac|c:The APs must be powered with wall plugs as no PoE standard will power them|d:The switches must be replaced with hubs|x:I don't know
+a
+To provide 19 watts of power (up to 25.5) to the powered device (PD) 802.3at must be supported. 802.3at is part of 802.3-2012 as clause 33; however, it is common to still refer to 802.3af and 802.3at to easily differentiate between the power requirements of devices. Devices compatible with single 802.3af lines consume a maximum of 12.95 watts.

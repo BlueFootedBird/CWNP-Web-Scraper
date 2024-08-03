@@ -1,0 +1,5 @@
+Given: Users are reporting slow throughput. There is no interference in the service set area. The same report is found across all hardware platforms, laptops, tablets, phones and IoT devices alike. The same report exists for internal resource access as well as Internet access.
+What can you do to improve the throughput for your users?
+a:Add additional access points using the same SSID and channel|b:Disable the higher data rates on the AP|c:Increase the speed of your Internet connection|d:Add additional access points using the same SSID on non-overlapping channels|x:I don't know
+d
+If there is no interference and the problem is across all platforms, you most likely have a capacity issue. Breaking up the collision domain by more access points using the same SSID but on non-overlapping channels should solve the problem.

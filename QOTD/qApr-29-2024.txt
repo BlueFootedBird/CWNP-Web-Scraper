@@ -1,0 +1,4 @@
+What is the bitrate of the G.711 codec used for uncompressed VoIP communications?
+a:64 Kbps|b:48 Kbps|c:5.4 Kbps|d:8 Kbps|x:I don't know
+a
+G.711 is an uncompressed audio codec and it has the bitrate of 64 Kbps. Lower bitrates are achieved through compression, such as 8 Kbps with G.729.

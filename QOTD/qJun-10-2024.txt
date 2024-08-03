@@ -1,0 +1,4 @@
+What field in the Beacon frame determines how often a beacon is transmitted from the AP?
+a:Beacon interval|b:CD Parameter set|c:Traffic Indication Map|d:TPC Report|x:I don't know
+a
+The correct answer is Beacon interval. The beacon interval field defines the Time Units (TUs) used to count between beacon transmissions. A single TU is 1024 microseconds and the interval is set to 100, which equals 102.4 milliseconds as the interval. This value may be adjusted if required.

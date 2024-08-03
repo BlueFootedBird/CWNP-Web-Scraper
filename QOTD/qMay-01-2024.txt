@@ -1,0 +1,4 @@
+In an 802.11 STA, when is the backoff timer equal to zero?
+a:When both the virtual and physical carrier sense report an idle channel|b:After the maximum retry counter resets|c:The contention window is never equal to zero|d:When a STA or AP completely decrements its backoff counter|e:Immediately following every DCF Interframe Space (DIFS)|x:I don't know
+d
+The backoff timer is equal to zero when the random number selected from the contention window and calculated against the proper PHY parameters is fully decremented.

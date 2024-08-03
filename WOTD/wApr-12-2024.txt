@@ -1,0 +1,2 @@
+Inquiry scan (BT)
+a procedure where a Bluetooth device listens for inquiry messages received on its inquiry scan physical channel.

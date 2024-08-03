@@ -1,0 +1,4 @@
+The component used to connect an antenna to a radio that uses a different connector type is most commonly referred to by what name?
+a:A Transducer|b:A Pigtail|c:An RF Coupler|d:An RF Step Down|x:I don't know
+b
+The component that is used to connect antennas and radios using different connector types is most commonly referred to as a pigtail.

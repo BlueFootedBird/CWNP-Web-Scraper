@@ -1,0 +1,2 @@
+Bandwidth
+the transmission capacity of a given device or network. Also, either the difference between the upper and lower frequencies used by a channel, or the sheer number of bits per second that may be communicated through the channel, including all frame protocol overhead, or else sometimes the number of payload bits that can be communicated through the channel in a second. In the latter senses, it is more properly called throughput.

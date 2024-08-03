@@ -1,0 +1,2 @@
+HT duplicate format (11n)
+a PPDU format of the HT PHY in which signals in two halves of the occupied channel width contain the same information. This is the HT mode that supports the lowest rate.

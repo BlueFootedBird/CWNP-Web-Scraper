@@ -1,0 +1,4 @@
+What solution can detect and mitigate rogue devices discovered on the WLAN?
+a:LDAP server|b:RTLS server|c:Host-based IDS|d:WIPS|x:I don't know
+d
+A Wireless Intrusion Prevention System (WIPS) can be used to both detect and mitigate rogues on the WLAN. LDAP servers are servers that support the LDAP protocol for network directory access. RTLS servers are used with real-time location systems (RTLS) to locate devices on the network. Host-based IDS solutions are used on devices and are not used to detect and mitigate (contain) rogue devices.

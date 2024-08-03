@@ -1,0 +1,4 @@
+You have been tasked with installing a grid antenna. What antenna mount type would be an appropriate choice for this type of antenna? (Choose 2)
+a:Tilt-and-swivel|b:Ceiling bracket|c:Magnetic|d:Radome bracket|e:U-bolt|f:Suspended ceiling enclosures|x:I don't know
+a
+Two common types of highly directional antennas are parabolic dish and grid. Grid antennas have a perforated design for resistance to wind loading. The 'holes' are invisible to RF energy at the antenna's specified frequency.Mounts for dish/grid antennas are always adjustable since these antenna types must be precisely aligned. Dish and grid antennas are typically mounted on outdoor masts or dedicated tripods due to the antenna's larger size. Tilt-and-swivel and U-bolt are commonly used mounts for these antenna types. Antenna mounts can become lose over time, potentially causing antenna de-pointing. Regular maintenance should include a check of bolt tightness and antenna alignment.

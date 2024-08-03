@@ -1,0 +1,4 @@
+You have implemented an AP that does not use a WLAN controller, however you do not connect to it to configure the AP. You connect to a website to configure the AP through profiles. What kind of AP have you implemented?
+a:Autonomous|b:Lightweight|c:Cloud-based|d:Controller-based|x:I don't know
+c
+The AP described is a cloud-based AP. Such vendors typically provide a website through which you can configure the AP. They may also allow you to install the management software locally. Autonomous APs are standalone APs that are managed directly. Lightweight and controller-based APs are similar in that they are managed by a controller and many WLAN functions are in the controller. With cloud-based APs, all WLAN functions are in the AP.

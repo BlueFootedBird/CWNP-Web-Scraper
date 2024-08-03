@@ -1,0 +1,4 @@
+For what purpose are PS-Poll frames used?
+a:To notify the station that the AP can not support power save mode|b:To notify the AP that the station is entering power save mode|c:To retrieve any buffered frames held in the AP for the client station using power save features|d:To survey nearby APs and determine their supported power save features|x:I don't know
+c
+The correct answer is To retrieve any buffered frames held in the AP for the client station using power save features. When PS-Poll frames are used in 802.11 power management solutions, the station sends a PS-Poll frame to the AP to retrieve buffered frames. The AP notifies the station of more frames using the more data bit. The station will continue sending PS-Poll frames until all buffered data is retrieved and will then return to power save mode.

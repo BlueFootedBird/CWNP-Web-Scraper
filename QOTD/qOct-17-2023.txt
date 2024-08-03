@@ -1,0 +1,4 @@
+When designing a WLAN for an international company, why is it important to know in which countries the devices will be deployed?
+a:To know what currency to expect when paid|b:To know which frequencies and power levels to use|c:To know which data types will be transmitted|d:To know how many access points will be needed|x:I don't know
+b
+Different countries and or regions have laws covering both frequency and power use. It is of great importance to design within what is legal for every deployment.

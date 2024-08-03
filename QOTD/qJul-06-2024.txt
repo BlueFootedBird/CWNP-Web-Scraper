@@ -1,0 +1,4 @@
+What is the name used to describe the coverage pattern produced by many access points using internal antennas?
+a:Internally radiated|b:Toroidal|c:Omnidirectional|d:Highly directional|x:I don't know
+c
+Most APs with internal antennas have either an omnidirectional pattern or a cardioid pattern.

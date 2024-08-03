@@ -1,0 +1,2 @@
+BT
+Bit Time; the time taken by a single bit to pass through an interface.

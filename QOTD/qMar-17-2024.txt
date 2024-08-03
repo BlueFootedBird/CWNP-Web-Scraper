@@ -1,0 +1,4 @@
+One of your customers would like to deploy a wireless network for Location-based services. Their primary concern is to be able to locate devices anywhere in the facility with the best possible accuracy, preferably within 15 feet. They also want to limit their investment to what is really needed to get their desired location accuracy. Which of the following best describes the needed APs?
+a:APs around the perimeter and sufficient APs throughout the facility for proper location services|b:APs across the center of the facility|c:APs along one wall of the facility and across the center of the facility|d:One AP in the center of the facility|x:I don't know
+a
+For best location accuracy, at least three APs will be required. By placing APs along the perimeter and throughout the facility, the implementation should provide the required three APs for all locations. This, of course, assuming sufficient APs are implemented throughout for proper coverage.

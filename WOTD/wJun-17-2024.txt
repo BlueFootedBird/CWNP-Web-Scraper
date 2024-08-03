@@ -1,0 +1,2 @@
+PDU
+Protocol Data Unit; a unit of data that is specified in a protocol of a given layer and that consists of protocol-control information of the given layer and possibly user data of that layer.

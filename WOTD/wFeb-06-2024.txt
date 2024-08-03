@@ -1,0 +1,2 @@
+Full Duplex
+The ability of a networking device to receive and transmit data simultaneously.

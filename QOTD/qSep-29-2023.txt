@@ -1,0 +1,4 @@
+Which wireless security protocol cannot use digital certificates for both the supplicant and authentication server?
+a:EAP-TLS|b:IPSec VPN|c:PEAPv0/EAP-TLS|d:EAP-TTLS|e:LEAP|x:I don't know
+e
+EAP-Cisco Wireless (LEAP) can only use password authentication whereas the others in this list can all use digital certificates for the supplicant and authentication server. Many of the items in the list support authentication methods other than digital certificates as well.

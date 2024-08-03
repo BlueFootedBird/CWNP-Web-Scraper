@@ -1,0 +1,4 @@
+In an ERP QoS BSS using WMM-PS, when is the Power Management subfield of the Frame Control field set to a value of 1?
+a:Only in management frames sent by a non-AP QoS STA immediately prior to entering a low power state (dozing).|b:On any QoS Data frame sent by the QoS AP subsequent to a PS-Poll frame.|c:On any frame transmitted by a non-AP QoS STA using U-APSD while in power save mode.|d:Only in the PS-Poll frame sent from a STA operating in WMM-PS power save mode.|x:I don't know
+c
+The Power Management bit is used to indicate what power management state the sending station will enter (or remain in) upon successfully completing the transmission of the current MPDU or MMPDU. When a station sets this bit, it is advertising that it will be in Power Save mode. If this bit is clear, the station will be in active mode. U-APSD (i.e. WMM-PS) is covered in 802.11-2007, Section 11.2.1.4.

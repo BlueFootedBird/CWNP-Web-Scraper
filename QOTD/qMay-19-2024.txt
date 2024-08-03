@@ -1,0 +1,4 @@
+An administrator has used an access point with two antennas, one vertically polarized and one horizontally polarized, to provide coverage in two different areas rather than installing a second access point. The users are reporting poor throughput. Why are the users having poor performance?
+a:SISO diversity is not intended to increase the coverage area|b:SISO diversity on the access point must be matched with SISO diversity on the clients|c:SISO diversity requires that both antennas use the same polarization|d:SISO diversity is only for use in bridge mode not access mode|x:I don't know
+a
+It is a common mistake to use SISO diversity to extend coverage. This should never be done on a wireless LAN. SISO diversity is to help mitigate the impact of multipath on wireless transmissions.

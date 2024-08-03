@@ -1,0 +1,2 @@
+Azimuth charts
+graphical representation of the antenna?s top-down coverage, shown by drawing circles around the antenna, where the outer ring represents the strongest signal and inner circles represent signal relative to the strongest signal. Azimuth is commonly found in reference to ?the horizon? or ?the horizontal?.

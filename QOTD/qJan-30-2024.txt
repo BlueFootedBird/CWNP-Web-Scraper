@@ -1,0 +1,4 @@
+When a radio has an output power level of 10 mW and an antenna with 4 dB of gain, what is the output power at the antenna (EIRP)?
+a:25 mW|b:50 mW|c:100 mW|d:30 mW|x:I don't know
+a
+The correct answer is 25 mW. Using the CWNA rules of 10s and 3s, you can perform the calculation. 10 mW + 10 dB equals 100 mW. 100 mW - 3 dB equals 50 mW. 50 mW - 3 dB (which results in 4 dB gain) equals 25 mW.

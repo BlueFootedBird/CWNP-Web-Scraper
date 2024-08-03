@@ -1,0 +1,2 @@
+Big endian
+the concept that, for a given multi-octet numeric representation, the most significant octet has the lowest address.

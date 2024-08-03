@@ -1,0 +1,2 @@
+MIB
+Management Information Base; a collection of network operational information residing in a virtual store that may be accessed, typically through a SNMP-compliant system, for analysis.

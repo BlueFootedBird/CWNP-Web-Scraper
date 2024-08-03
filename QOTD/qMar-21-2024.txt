@@ -1,0 +1,4 @@
+When using PEAP with MS-CHAPv2, where must the X.509 server certificate and private key be installed?
+a:Supplicant devices|b:LDAP server|c:WLAN controller|d:RADIUS server|x:I don't know
+d
+Because PEAPv0/MS-CHAPv2 does not require client certificates, only the server requires a certificate. The server requiring the certificate is the authentication server or the RADIUS server.

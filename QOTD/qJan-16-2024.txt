@@ -1,0 +1,4 @@
+What wireless security solution may use SNMP to disable a switch port when it detects a connected rogue AP?
+a:RBAC|b:WPA|c:WPA2|d:WIPS|x:I don't know
+d
+Consider the three common phases of rogue management: “Rogue detection” – Rogue devices detected by RRM scanning, their attempts to associate, or with RF spectrum activity. The different WIPS solutions will do this in varied ways; “Classification” – rogues can be classified as wired or unwired by many systems. For example, in Cisco solutions the Rogue Location Discovery Protocol (RLDP) can be used to determine if the device is connected to the wired network or not; “Mitigation/Containment” – switch ports can be shutdown, the location of the rogue can be identified and the rogue can be contained – usually through the use of deauthentication frames.

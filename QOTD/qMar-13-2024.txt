@@ -1,0 +1,4 @@
+What WLAN feature does not require both infrastructure and client-side support?
+a:WMM|b:OKC|c:STBC|d:MRC|x:I don't know
+d
+MRC is a receive-only feature that can be supported on either the client or AP or both, but does not require mutual support.

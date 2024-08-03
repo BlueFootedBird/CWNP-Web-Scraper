@@ -1,0 +1,4 @@
+What may force an organization to implement a PKI for practical application in a WLAN?
+a:The use of EAP-TLS|b:The use of PEAP|c:The use of WPA2-Personal|d:The use of frame aggregation|x:I don't know
+a
+Because many EAP types, such as EAP-TLS, rely on certificates and some depend on client certificates a PKI may be required. A PKI is comprised of certificate authorities (CAs) that either authorize other CAs to distribute certificates or generate and distribute (issue) certificates themselves. As a WLAN designer, you will have to determine whether a PKI will be available or not so that you can select the appropriate EAP type. If a constraint is in place requiring an EAP type that must have client certificates, you should be sure to document the requirement of a PKI in the design plans, though the details of the PKI can be left up to the individuals who will implement that project.

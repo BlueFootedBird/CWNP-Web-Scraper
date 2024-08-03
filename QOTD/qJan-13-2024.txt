@@ -1,0 +1,4 @@
+What would happen if you decided to configure WPA2 with TKIP?
+a:The clients could connect with your SSID|b:The clients would be unable to connect|c:The clients would connect but would not implement encryption|d:The clients would connect but would not use authentication|x:I don't know
+a
+Clients can connect to a WPA2-TKIP configuration, but it is not an ideal option. WPA2 should be implemented with CCMP/AES for best security and compatibility.

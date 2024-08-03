@@ -1,0 +1,2 @@
+C-MPDU
+coded MPDU; Mac Protocol Data Unit (MPDU) that is scrambled and encoded.

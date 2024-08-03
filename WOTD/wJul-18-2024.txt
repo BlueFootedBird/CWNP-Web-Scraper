@@ -1,0 +1,2 @@
+LLC
+Logical Link Control; one of the sublayers of the Data-Link layer as defined by the OSI model. The [____] protocol is based on the HDLC link protocol and uses an extended 2-byte address. The first address byte indicates a Destination Service Access Point (DSAP) and the second address a Source Service Access Point (SSAP).

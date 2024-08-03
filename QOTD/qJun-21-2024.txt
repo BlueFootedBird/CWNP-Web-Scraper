@@ -1,0 +1,4 @@
+You are documenting the 802.11 general frame format. How many address bits are used for the four address fields, if all are used in a mesh network?
+a:192|b:24|c:4|d:2|x:I don't know
+a
+The correct answer is 192. Four address fields are available, each requiring 6 octets or 48 bits. The total bits with all four used would be 192 bits.

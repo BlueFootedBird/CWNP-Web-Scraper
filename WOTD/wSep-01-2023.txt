@@ -1,0 +1,2 @@
+EDCAF
+Enhanced Distributed Channel Access Function; a logical function in a quality of service (QoS) station (STA) that determines, using enhanced distributed channel access (EDCA), when a frame in the transmit queue with the associated access category (AC) is permitted to be transmitted via the wireless medium (WM). There is one [____] per AC.

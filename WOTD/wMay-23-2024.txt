@@ -1,0 +1,2 @@
+Connecting (BT)
+a phase in the communication between devices when a connection between them is being established. (Connecting phase follows after the link establishment phase is completed.)

@@ -1,0 +1,2 @@
+HT PPDU (11n)
+High Throughput Physical Layer Protocol Data Unit; an IEEE 802.11 Clause 20 PPDU with the TXVECTOR FORMAT parameter set to HT_MF or HT_GF is set to NON_HT_CBW20.

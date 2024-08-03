@@ -1,0 +1,4 @@
+Why is the time measurement reported in PING command output not sufficient for troubleshooting one way delay problems in VoIP communications?
+a:PING does not show time measurements|b:PING is not supported on networks that run VoIP|c:PING is simply inaccurate|d:PING measurements are round-trip times|x:I don't know
+d
+The correct answer is PING measurements are round-trip times. It is important to know the tools that you use. Many have not understood the operation of the PING command. The time shown in milliseconds by the PING command is the round-trip time. If this time is less than 150 ms, VoIP communications should not be problematic. If it is significantly higher, it is impossible to tell without using another tool to properly track unidirectional delay.

@@ -1,0 +1,4 @@
+802.11n autonomous APs used in SOHO Wi-Fi networks are usually shipped from the manufacturer with which type of antenna?
+a:Dipole|b:Isotropic|c:Patch|d:Yagi|e:Parabolic|x:I don't know
+a
+SOHO APs are always shipped from the manufacturer with omni-directional (dipole) antennas unless you specify differently. Dipole antennas are used for SOHO APs because only one AP is usually necessary for SOHO Wi-Fi networks, and a dipole antenna can usually be centrally mounted to suit the coverage needs of home and small office environments. Many enterprise-class APs ship without antennas because a combination of omni-directional and semi-directional antennas may be used within an enterprise. Enterprise APs may also include external dipole antennas. APs with internal antennas almost always use omni-directional antennas unless an array is used for beamforming.

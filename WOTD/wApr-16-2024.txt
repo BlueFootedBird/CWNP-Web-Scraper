@@ -1,0 +1,2 @@
+BRS (WMX)
+Broadband Radio Service; a commercial service, providing high-speed, high-capacity broadband service, including two-way Internet service via cellularized communication systems. Formerly known as Multipoint Distribution Service (MDS)/Multichannel Multipoint Distribution Service (MMDS).

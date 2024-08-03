@@ -1,0 +1,2 @@
+Dynamic IP Address (WF)
+a temporary IP address assigned by a DHCP server.

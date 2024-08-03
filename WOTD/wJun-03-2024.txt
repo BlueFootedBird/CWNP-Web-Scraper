@@ -1,0 +1,2 @@
+CF pollable
+Contention-Free pollable; a station (STA) that is able to respond to a CF poll with a data frame if such a frame is queued and able to be generated.

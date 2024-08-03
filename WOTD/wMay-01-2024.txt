@@ -1,0 +1,2 @@
+Single Channel Architecture (WF)
+a WLAN architecture where all access points in the network can be deployed on one channel in 2.4 GHz or 5 GHz frequency bands. Uplink and downlink transmissions are coordinated by a WLAN Controller on a single 802.11 channel in such a manner that the effects of co-channel and adjacent channel interference are minimized. Additional non-overlapping channels can be used to create layers of single channels for higher network capacity.

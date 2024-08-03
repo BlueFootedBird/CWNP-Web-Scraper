@@ -1,0 +1,4 @@
+ABC Company has implemented WPA2-Enterprise with PEAP on their WLAN.  They use POP3/SSL for email retrieval. At what OSI layers is encryption applied using these security protocols?
+a:Layer-1|b:Layer-2|c:Layer-3|d:Layer-4|e:Layer-7|x:I don't know
+b
+All EAP types are Layer2 protocols. POP3 is an email retrieval protocol at layer7. Other examples of secure application (layer7) protocols include FTP/SSL, FTP/SSH, SNMP/SSL, HTTPS, and SNMPv3.

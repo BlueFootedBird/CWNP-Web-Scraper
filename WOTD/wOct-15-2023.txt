@@ -1,0 +1,2 @@
+BI
+Beacon interval; the number of TUs between TBTTs.

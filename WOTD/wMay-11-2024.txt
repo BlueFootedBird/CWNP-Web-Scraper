@@ -1,0 +1,2 @@
+RSN (WF)
+Robust Security Network; a security network that allows only the creation of robust security network associations (RSNAs). An RSN can be identified by the indication in the RSN Information Element (IE) of Beacon frames that the group cipher suite specified is not WEP. This means that the group cipher suite will be either CCMP or TKIP.

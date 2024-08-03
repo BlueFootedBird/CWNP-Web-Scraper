@@ -1,0 +1,5 @@
+Given: Data + CF-Ack frames are rarely seen on WLANs.
+Why is this true?
+a:Most WLANs do not enable QoS|b:PCF has not been implemented|c:DCF has not been implemented|d:EDCA has not been implemented|x:I don't know
+b
+The correct answer is PCF has not been implemented. The Point Coordination Function (PCF), which is an 802.11-based alternative to Distributed Coordination Function (DCF), has not been implemented in production devices. The frames with the letters CF are contention free frames and such frames are used mostly with PCF in the standard so they are rarely seen on production networks in frame captures.

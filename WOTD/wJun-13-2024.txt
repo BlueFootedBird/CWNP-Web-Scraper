@@ -1,0 +1,2 @@
+DSN
+Delivery Status Notification; a standard that tracks the status of a sent message and provides the status for the successful delivery of the message in the recipient?s mailbox.

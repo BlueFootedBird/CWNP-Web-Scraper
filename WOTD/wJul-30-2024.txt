@@ -1,0 +1,2 @@
+RFCOMM (IR)
+Radio Frequency Communications Protocol; protocol emulating RS-232 on infrared connections.

@@ -1,0 +1,2 @@
+Antenna reciprocity
+using the same antenna for transmitting and receiving.

@@ -1,0 +1,4 @@
+What is a common solution to hidden node problems in WLANs?
+a:Reducing the client output power|b:Enabling RTS/CTS|c:Reducing the client antenna gain|d:Increasing the AP fragmentation threshold|x:I don't know
+b
+By enabling RTS/CTS, you decrease hidden node problems. A very small RTS frame must get through to the AP in order to start the transaction (which includes RTS/SIFS/CTS/SIFS/DATA FRAME/SIFS/ACK).

@@ -1,0 +1,4 @@
+ABC Company is concerned that viruses, worms, and malware will negatively impact the performance of the company's network and reduce employee productivity.What part of the wireless security policy will help protect ABC Company from these types of attacks on their systems?
+a:Acceptable use policy|b:Account and password policy|c:Change management policy|d:Rogue equipment policy|e:Audit and penetration testing policy|x:I don't know
+a
+An acceptable use policy (AUP) is a set of rules which restrict the ways in which the network may be used. Enforcement of AUPs varies with the network. AUPs are also used by schools, corporations, etc., delimiting what is and is not permitted for use of the computers.

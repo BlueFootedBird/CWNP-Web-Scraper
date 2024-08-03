@@ -1,0 +1,4 @@
+Given:  When QoS STA-1 associates to a QoS AP-1, it sets access category AC_VO to trigger- and delivery-enabled.  While remaining associated to QoS AP-1, QoS STA-1 wishes to change this configuration so that AC_VO is no longer trigger- and delivery enabled at the QoS AP.How can this reconfiguration of AC_VO be accomplished by QoS STA-1?
+a:QoS STA-1 can withhold its scheduled TSPEC frame which automatically causes each AC to reset its APSD configuration to the default settings.|b:QoS STA-1 can send a QoS Null frame to QoS AP-1 with the Power Management bit set to 0.|c:QoS STA-1 can answer a PS-Poll frame from QoS AP-1 with a Negative Acknowledgement (NACK).|d:QoS STA-1 can send an ADDTS Request frame to QoS AP-1 with modified APSD settings for AC_VO.|x:I don't know
+d
+802.11-2007, Section 11.2.1.4, 6th and 7th paragraphs.

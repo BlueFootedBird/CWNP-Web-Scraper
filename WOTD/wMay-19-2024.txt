@@ -1,0 +1,2 @@
+Octet
+a term used to describe 8 bits of data. Interchangeable with the term ?byte?. The term ?[____]? is used more often in standards such as IEEE 802.11 because it is considered more accurate than ?byte?. AKA: byte.

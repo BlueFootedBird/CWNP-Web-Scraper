@@ -1,0 +1,2 @@
+RD (11n)
+Reverse Direction; an optional IEEE 802.11n protocol which allows the bi-directional transmission during the TXOP of a STA. Two roles, RD initiator and RD responder, are defined for this purpose. See also STA types.

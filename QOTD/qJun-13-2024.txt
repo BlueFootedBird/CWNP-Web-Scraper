@@ -1,0 +1,4 @@
+A company has a Windows 2003 network using Active Directory as the authentication database.  You have been hired as a consultant to install a secure wireless network for this company.  Which certificate-based authentication protocol will allow Windows XP clients to use the Active Directory as an authentication database while supporting mutual authentication?
+a:WPA-Personal|b:EAP-TLS|c:MS-CHAPv2|d:EAP-FAST|e:CCMP/AES|x:I don't know
+b
+Of the answers provided, only EAP-TLS supports two-way certificate-based authentication. Microsoft natively supports EAP-TLS on XP clients and Windows Server 2003 (via IAS). EAP-TLS requires x.509 certificates on both the client and authentication server machines. MS-CHAPv2 uses passwords for authentication. EAP-FAST uses Protected Access Credentials (PACs). CCMP/AES is an encryption protocol, not an authentication protocol. WPA-Personal uses pass-phrases for authentication.

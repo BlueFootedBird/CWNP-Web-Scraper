@@ -1,0 +1,2 @@
+ED
+Energy Detection; detection of the current energy level of the signal. Typically a mechanism, like CCA in IEEE 802.11, us[____] to estimate the power of the signal observ[____] over a period of time.

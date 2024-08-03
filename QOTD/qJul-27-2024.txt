@@ -1,0 +1,4 @@
+What term describes an RF transmission system up to but not including the antenna?
+a:Chipset|b:Radio|c:EIRP|d:Intentional Radiator|x:I don't know
+d
+The Intentional Radiator (IR) includes everything in the transmission system except the antenna. The power output of the IR would be measured at the point where it enters the antenna element.

@@ -1,0 +1,2 @@
+IAS (IR)
+Information Access Service; one of the communication protocols defined by IrDA which provides a directory of services on a device.
